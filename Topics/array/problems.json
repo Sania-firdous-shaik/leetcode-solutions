@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "array",
+    "name": "Array"
+  },
+  "updatedAt": "2026-09-11T16:49:15.899Z",
+  "problems": [
+    {
+      "frontendId": "3483",
+      "title": "Unique 3-Digit Even Numbers",
+      "slug": "unique-3-digit-even-numbers",
+      "problemName": "3483-unique-3-digit-even-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-3-digit-even-numbers/",
+      "folderPath": "3483-unique-3-digit-even-numbers/",
+      "readmePath": "3483-unique-3-digit-even-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3483-unique-3-digit-even-numbers.py",
+          "path": "3483-unique-3-digit-even-numbers/3483-unique-3-digit-even-numbers.py",
+          "sha": "534943bb489392f23807b398b525eacb1f416847",
+          "lastSyncedAt": "2026-09-11T16:49:15.899Z"
+        }
+      ]
+    }
+  ]
+}
