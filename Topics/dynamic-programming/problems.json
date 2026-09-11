@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "dynamic-programming",
+    "name": "Dynamic Programming"
+  },
+  "updatedAt": "2026-09-11T16:50:09.146Z",
+  "problems": [
+    {
+      "frontendId": "940",
+      "title": "Distinct Subsequences II",
+      "slug": "distinct-subsequences-ii",
+      "problemName": "0940-distinct-subsequences-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/distinct-subsequences-ii/",
+      "folderPath": "0940-distinct-subsequences-ii/",
+      "readmePath": "0940-distinct-subsequences-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0940-distinct-subsequences-ii.py",
+          "path": "0940-distinct-subsequences-ii/0940-distinct-subsequences-ii.py",
+          "sha": "c3c48c909001144c44989b1f21799e69001fe3e4",
+          "lastSyncedAt": "2026-09-11T16:50:09.146Z"
+        }
+      ]
+    }
+  ]
+}
