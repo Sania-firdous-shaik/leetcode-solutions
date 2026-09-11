@@ -4,8 +4,28 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-11T16:50:27.269Z",
+  "updatedAt": "2026-09-11T16:50:35.212Z",
   "problems": [
+    {
+      "frontendId": "3903",
+      "title": "Smallest Stable Index I",
+      "slug": "smallest-stable-index-i",
+      "problemName": "3903-smallest-stable-index-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-stable-index-i/",
+      "folderPath": "3903-smallest-stable-index-i/",
+      "readmePath": "3903-smallest-stable-index-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3903-smallest-stable-index-i.py",
+          "path": "3903-smallest-stable-index-i/3903-smallest-stable-index-i.py",
+          "sha": "3039fe499f034060f3e719c953555ee2d4d3f44d",
+          "lastSyncedAt": "2026-09-11T16:50:35.212Z"
+        }
+      ]
+    },
     {
       "frontendId": "3904",
       "title": "Smallest Stable Index II",
