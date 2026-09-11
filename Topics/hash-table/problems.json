@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-11T16:49:15.899Z",
+  "updatedAt": "2026-09-11T16:49:51.772Z",
   "problems": [
     {
       "frontendId": "3483",
@@ -23,6 +23,26 @@
           "path": "3483-unique-3-digit-even-numbers/3483-unique-3-digit-even-numbers.py",
           "sha": "534943bb489392f23807b398b525eacb1f416847",
           "lastSyncedAt": "2026-09-11T16:49:15.899Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3718",
+      "title": "Smallest Missing Multiple of K",
+      "slug": "smallest-missing-multiple-of-k",
+      "problemName": "3718-smallest-missing-multiple-of-k",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-missing-multiple-of-k/",
+      "folderPath": "3718-smallest-missing-multiple-of-k/",
+      "readmePath": "3718-smallest-missing-multiple-of-k/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3718-smallest-missing-multiple-of-k.py",
+          "path": "3718-smallest-missing-multiple-of-k/3718-smallest-missing-multiple-of-k.py",
+          "sha": "295cd0ea8d6af16a4ea28229b53d2fef1b7a1d28",
+          "lastSyncedAt": "2026-09-11T16:49:51.772Z"
         }
       ]
     }
