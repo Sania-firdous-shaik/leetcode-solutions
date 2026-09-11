@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-11T16:49:51.772Z",
+  "updatedAt": "2026-09-11T16:50:27.269Z",
   "problems": [
     {
       "frontendId": "3483",
@@ -43,6 +43,26 @@
           "path": "3718-smallest-missing-multiple-of-k/3718-smallest-missing-multiple-of-k.py",
           "sha": "295cd0ea8d6af16a4ea28229b53d2fef1b7a1d28",
           "lastSyncedAt": "2026-09-11T16:49:51.772Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3904",
+      "title": "Smallest Stable Index II",
+      "slug": "smallest-stable-index-ii",
+      "problemName": "3904-smallest-stable-index-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-stable-index-ii/",
+      "folderPath": "3904-smallest-stable-index-ii/",
+      "readmePath": "3904-smallest-stable-index-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3904-smallest-stable-index-ii.py",
+          "path": "3904-smallest-stable-index-ii/3904-smallest-stable-index-ii.py",
+          "sha": "95b6a8997c77cd65be1162f40fed4033f9bbceb7",
+          "lastSyncedAt": "2026-09-11T16:50:27.269Z"
         }
       ]
     }
