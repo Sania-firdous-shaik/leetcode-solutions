@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-11T16:50:35.212Z",
+  "updatedAt": "2026-09-11T16:50:41.828Z",
   "problems": [
     {
       "frontendId": "3483",
@@ -43,6 +43,26 @@
           "path": "3718-smallest-missing-multiple-of-k/3718-smallest-missing-multiple-of-k.py",
           "sha": "295cd0ea8d6af16a4ea28229b53d2fef1b7a1d28",
           "lastSyncedAt": "2026-09-11T16:49:51.772Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3876",
+      "title": "Construct Uniform Parity Array II",
+      "slug": "construct-uniform-parity-array-ii",
+      "problemName": "3876-construct-uniform-parity-array-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-uniform-parity-array-ii/",
+      "folderPath": "3876-construct-uniform-parity-array-ii/",
+      "readmePath": "3876-construct-uniform-parity-array-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3876-construct-uniform-parity-array-ii.py",
+          "path": "3876-construct-uniform-parity-array-ii/3876-construct-uniform-parity-array-ii.py",
+          "sha": "8ec7e1d70810eceb80e9946eb2fa8c95d497e6a2",
+          "lastSyncedAt": "2026-09-11T16:50:41.828Z"
         }
       ]
     },
