@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "math",
+    "name": "Math"
+  },
+  "updatedAt": "2026-09-11T16:49:44.659Z",
+  "problems": [
+    {
+      "frontendId": "3871",
+      "title": "Count Commas in Range II",
+      "slug": "count-commas-in-range-ii",
+      "problemName": "3871-count-commas-in-range-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-commas-in-range-ii/",
+      "folderPath": "3871-count-commas-in-range-ii/",
+      "readmePath": "3871-count-commas-in-range-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3871-count-commas-in-range-ii.py",
+          "path": "3871-count-commas-in-range-ii/3871-count-commas-in-range-ii.py",
+          "sha": "525406a902cd9531680d8366582960acfd6f65b6",
+          "lastSyncedAt": "2026-09-11T16:49:44.659Z"
+        }
+      ]
+    }
+  ]
+}
