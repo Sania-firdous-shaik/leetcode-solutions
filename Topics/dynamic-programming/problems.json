@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-11T16:55:17.667Z",
+  "updatedAt": "2026-09-12T05:01:11.424Z",
   "problems": [
     {
       "frontendId": "115",
@@ -43,6 +43,26 @@
           "path": "0940-distinct-subsequences-ii/0940-distinct-subsequences-ii.py",
           "sha": "c3c48c909001144c44989b1f21799e69001fe3e4",
           "lastSyncedAt": "2026-09-11T16:55:10.949Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3414",
+      "title": "Maximum Score of Non-overlapping Intervals",
+      "slug": "maximum-score-of-non-overlapping-intervals",
+      "problemName": "3414-maximum-score-of-non-overlapping-intervals",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/",
+      "folderPath": "3414-maximum-score-of-non-overlapping-intervals/",
+      "readmePath": "3414-maximum-score-of-non-overlapping-intervals/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3414-maximum-score-of-non-overlapping-intervals.py",
+          "path": "3414-maximum-score-of-non-overlapping-intervals/3414-maximum-score-of-non-overlapping-intervals.py",
+          "sha": "89f040910f1b2e01024e0b87937740295ebfe7c9",
+          "lastSyncedAt": "2026-09-12T05:01:11.424Z"
         }
       ]
     }
