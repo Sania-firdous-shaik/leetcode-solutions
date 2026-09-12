@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "binary-search",
+    "name": "Binary Search"
+  },
+  "updatedAt": "2026-09-12T05:01:11.424Z",
+  "problems": [
+    {
+      "frontendId": "3414",
+      "title": "Maximum Score of Non-overlapping Intervals",
+      "slug": "maximum-score-of-non-overlapping-intervals",
+      "problemName": "3414-maximum-score-of-non-overlapping-intervals",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/",
+      "folderPath": "3414-maximum-score-of-non-overlapping-intervals/",
+      "readmePath": "3414-maximum-score-of-non-overlapping-intervals/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3414-maximum-score-of-non-overlapping-intervals.py",
+          "path": "3414-maximum-score-of-non-overlapping-intervals/3414-maximum-score-of-non-overlapping-intervals.py",
+          "sha": "89f040910f1b2e01024e0b87937740295ebfe7c9",
+          "lastSyncedAt": "2026-09-12T05:01:11.424Z"
+        }
+      ]
+    }
+  ]
+}
