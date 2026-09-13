@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-13T16:38:33.169Z",
+  "updatedAt": "2026-09-13T16:39:20.736Z",
   "problems": [
     {
       "frontendId": "115",
@@ -43,6 +43,26 @@
           "path": "0940-distinct-subsequences-ii/0940-distinct-subsequences-ii.py",
           "sha": "c3c48c909001144c44989b1f21799e69001fe3e4",
           "lastSyncedAt": "2026-09-13T16:38:28.724Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3734",
+      "title": "Lexicographically Smallest Palindromic Permutation Greater Than Target",
+      "slug": "lexicographically-smallest-palindromic-permutation-greater-than-target",
+      "problemName": "3734-lexicographically-smallest-palindromic-permutation-greater-than-target",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/",
+      "folderPath": "3734-lexicographically-smallest-palindromic-permutation-greater-than-target/",
+      "readmePath": "3734-lexicographically-smallest-palindromic-permutation-greater-than-target/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3734-lexicographically-smallest-palindromic-permutation-greater-than-target.py",
+          "path": "3734-lexicographically-smallest-palindromic-permutation-greater-than-target/3734-lexicographically-smallest-palindromic-permutation-greater-than-target.py",
+          "sha": "ea4dc955911c2c3db8749f7f2618be12b53406eb",
+          "lastSyncedAt": "2026-09-13T16:39:20.736Z"
         }
       ]
     }
