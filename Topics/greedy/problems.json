@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "greedy",
+    "name": "Greedy"
+  },
+  "updatedAt": "2026-09-13T16:39:03.241Z",
+  "problems": [
+    {
+      "frontendId": "2091",
+      "title": "Removing Minimum and Maximum From Array",
+      "slug": "removing-minimum-and-maximum-from-array",
+      "problemName": "2091-removing-minimum-and-maximum-from-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/removing-minimum-and-maximum-from-array/",
+      "folderPath": "2091-removing-minimum-and-maximum-from-array/",
+      "readmePath": "2091-removing-minimum-and-maximum-from-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2091-removing-minimum-and-maximum-from-array.py",
+          "path": "2091-removing-minimum-and-maximum-from-array/2091-removing-minimum-and-maximum-from-array.py",
+          "sha": "11efc641eb06c3329edb620f39a7b97f474a5caa",
+          "lastSyncedAt": "2026-09-13T16:39:03.241Z"
+        }
+      ]
+    }
+  ]
+}
