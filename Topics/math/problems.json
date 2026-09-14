@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-14T05:19:10.715Z",
+  "updatedAt": "2026-09-14T05:19:30.842Z",
   "problems": [
     {
       "frontendId": "836",
@@ -102,7 +102,7 @@
           "filename": "3876-construct-uniform-parity-array-ii.py",
           "path": "3876-construct-uniform-parity-array-ii/3876-construct-uniform-parity-array-ii.py",
           "sha": "8ec7e1d70810eceb80e9946eb2fa8c95d497e6a2",
-          "lastSyncedAt": "2026-09-13T16:38:45.103Z"
+          "lastSyncedAt": "2026-09-14T05:19:30.842Z"
         }
       ]
     }
