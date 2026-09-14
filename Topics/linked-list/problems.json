@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-13T16:38:25.053Z",
+  "updatedAt": "2026-09-14T05:19:12.620Z",
   "problems": [
     {
       "frontendId": "2058",
@@ -22,7 +22,7 @@
           "filename": "2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points.py",
           "path": "2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points.py",
           "sha": "d353a05088ffdcdbde1cb9e2f8d4f71411a0df43",
-          "lastSyncedAt": "2026-09-13T16:38:25.053Z"
+          "lastSyncedAt": "2026-09-14T05:19:12.620Z"
         }
       ]
     }
