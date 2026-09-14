@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 18 | 5 | 9 | 4 |
+| 18 | 6 | 9 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 5 days | 5 days | 14 |
+| 6 days | 6 days | 15 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-28 | 2 |
 | 2026-08-29 | 1 |
 | 2026-08-30 | 1 |
 | 2026-09-01 | 2 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-09-11 | 1 |
 | 2026-09-12 | 1 |
 | 2026-09-13 | 1 |
+| 2026-09-14 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 11 | 61% |
-| Math | 4 | 22% |
+| Math | 5 | 28% |
 | Dynamic Programming | 3 | 17% |
 | Hash Table | 3 | 17% |
-| String | 3 | 17% |
-| Enumeration | 2 | 11% |
 | Matrix | 2 | 11% |
 | Prefix Sum | 2 | 11% |
 | Sorting | 2 | 11% |
+| String | 2 | 11% |
 | Binary Search | 1 | 6% |
+| Binary Tree | 1 | 6% |
 
 ## Topics
 
@@ -57,10 +57,11 @@ Contains topicwise list of solved problems.
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Enumeration](Topics/enumeration/) | 2 |
+| [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 3 |
 | [Linked List](Topics/linked-list/) | 1 |
-| [Math](Topics/math/) | 4 |
+| [Math](Topics/math/) | 5 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
 | [Recursion](Topics/recursion/) | 1 |
