@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-13T16:39:03.241Z",
+  "updatedAt": "2026-09-14T05:19:46.907Z",
   "problems": [
     {
       "frontendId": "2091",
@@ -22,7 +22,7 @@
           "filename": "2091-removing-minimum-and-maximum-from-array.py",
           "path": "2091-removing-minimum-and-maximum-from-array/2091-removing-minimum-and-maximum-from-array.py",
           "sha": "11efc641eb06c3329edb620f39a7b97f474a5caa",
-          "lastSyncedAt": "2026-09-13T16:39:03.241Z"
+          "lastSyncedAt": "2026-09-14T05:19:46.907Z"
         }
       ]
     }
