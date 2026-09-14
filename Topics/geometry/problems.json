@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "geometry",
+    "name": "Geometry"
+  },
+  "updatedAt": "2026-09-14T05:18:10.719Z",
+  "problems": [
+    {
+      "frontendId": "836",
+      "title": "Rectangle Overlap",
+      "slug": "rectangle-overlap",
+      "problemName": "0836-rectangle-overlap",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rectangle-overlap/",
+      "folderPath": "0836-rectangle-overlap/",
+      "readmePath": "0836-rectangle-overlap/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0836-rectangle-overlap.py",
+          "path": "0836-rectangle-overlap/0836-rectangle-overlap.py",
+          "sha": "d7cb5c1b0945768bfda8ebf16451c0d0afc677ff",
+          "lastSyncedAt": "2026-09-14T05:18:10.719Z"
+        }
+      ]
+    }
+  ]
+}
