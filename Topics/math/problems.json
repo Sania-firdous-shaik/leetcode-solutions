@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-16T16:15:25.914Z",
+  "updatedAt": "2026-09-16T16:15:36.823Z",
   "problems": [
     {
       "frontendId": "836",
@@ -22,7 +22,7 @@
           "filename": "0836-rectangle-overlap.py",
           "path": "0836-rectangle-overlap/0836-rectangle-overlap.py",
           "sha": "d7cb5c1b0945768bfda8ebf16451c0d0afc677ff",
-          "lastSyncedAt": "2026-09-14T05:18:35.145Z"
+          "lastSyncedAt": "2026-09-16T16:15:36.823Z"
         }
       ]
     },
