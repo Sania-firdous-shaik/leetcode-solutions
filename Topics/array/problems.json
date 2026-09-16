@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-16T16:16:16.728Z",
+  "updatedAt": "2026-09-16T16:17:52.888Z",
   "problems": [
     {
       "frontendId": "835",
@@ -22,7 +22,7 @@
           "filename": "0835-image-overlap.py",
           "path": "0835-image-overlap/0835-image-overlap.py",
           "sha": "e07c80584130872be44c8548b08cc1bbd13d6d61",
-          "lastSyncedAt": "2026-09-16T16:15:41.816Z"
+          "lastSyncedAt": "2026-09-16T16:17:52.888Z"
         }
       ]
     },
