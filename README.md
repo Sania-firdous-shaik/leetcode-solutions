@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 18 | 6 | 9 | 3 |
+| 19 | 6 | 10 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 6 days | 6 days | 15 |
+| 1 days | 6 days | 15 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-29 | 1 |
 | 2026-08-30 | 1 |
 | 2026-09-01 | 2 |
 | 2026-09-03 | 2 |
@@ -23,27 +22,28 @@ Contains topicwise list of solved problems.
 | 2026-09-05 | 1 |
 | 2026-09-06 | 1 |
 | 2026-09-07 | 1 |
-| 2026-09-09 | 2 |
+| 2026-09-09 | 3 |
 | 2026-09-10 | 1 |
 | 2026-09-11 | 1 |
 | 2026-09-12 | 1 |
 | 2026-09-13 | 1 |
 | 2026-09-14 | 1 |
+| 2026-09-16 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 11 | 61% |
-| Math | 5 | 28% |
-| Dynamic Programming | 3 | 17% |
-| Hash Table | 3 | 17% |
+| Array | 11 | 58% |
+| Math | 6 | 32% |
+| Dynamic Programming | 4 | 21% |
+| Hash Table | 3 | 16% |
+| Prefix Sum | 3 | 16% |
 | Matrix | 2 | 11% |
-| Prefix Sum | 2 | 11% |
 | Sorting | 2 | 11% |
 | String | 2 | 11% |
-| Binary Search | 1 | 6% |
-| Binary Tree | 1 | 6% |
+| Binary Search | 1 | 5% |
+| Binary Tree | 1 | 5% |
 
 ## Topics
 
@@ -54,16 +54,17 @@ Contains topicwise list of solved problems.
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 1 |
+| [Combinatorics](Topics/combinatorics/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 3 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 4 |
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 3 |
 | [Linked List](Topics/linked-list/) | 1 |
-| [Math](Topics/math/) | 5 |
+| [Math](Topics/math/) | 6 |
 | [Matrix](Topics/matrix/) | 2 |
-| [Prefix Sum](Topics/prefix-sum/) | 2 |
+| [Prefix Sum](Topics/prefix-sum/) | 3 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Sorting](Topics/sorting/) | 2 |
 | [String](Topics/string/) | 3 |
