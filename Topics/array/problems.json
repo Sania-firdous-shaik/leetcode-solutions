@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-16T16:18:48.562Z",
+  "updatedAt": "2026-09-16T16:18:52.392Z",
   "problems": [
     {
       "frontendId": "835",
@@ -162,7 +162,7 @@
           "filename": "3875-construct-uniform-parity-array-i.py",
           "path": "3875-construct-uniform-parity-array-i/3875-construct-uniform-parity-array-i.py",
           "sha": "eeea478d4b35dcf3edb38722919f37f37a69fb10",
-          "lastSyncedAt": "2026-09-14T05:19:34.434Z"
+          "lastSyncedAt": "2026-09-16T16:18:52.392Z"
         }
       ]
     },
