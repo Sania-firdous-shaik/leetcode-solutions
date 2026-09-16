@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-16T16:15:36.823Z",
+  "updatedAt": "2026-09-16T16:16:14.413Z",
   "problems": [
     {
       "frontendId": "836",
@@ -82,7 +82,7 @@
           "filename": "3871-count-commas-in-range-ii.py",
           "path": "3871-count-commas-in-range-ii/3871-count-commas-in-range-ii.py",
           "sha": "525406a902cd9531680d8366582960acfd6f65b6",
-          "lastSyncedAt": "2026-09-14T05:19:04.906Z"
+          "lastSyncedAt": "2026-09-16T16:16:14.413Z"
         }
       ]
     },
