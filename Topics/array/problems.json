@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-16T16:21:33.019Z",
+  "updatedAt": "2026-09-17T16:11:06.186Z",
   "problems": [
     {
       "frontendId": "835",
@@ -23,6 +23,26 @@
           "path": "0835-image-overlap/0835-image-overlap.py",
           "sha": "e07c80584130872be44c8548b08cc1bbd13d6d61",
           "lastSyncedAt": "2026-09-16T16:20:13.344Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1477",
+      "title": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
+      "slug": "find-two-non-overlapping-sub-arrays-each-with-target-sum",
+      "problemName": "1477-find-two-non-overlapping-sub-arrays-each-with-target-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/",
+      "folderPath": "1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/",
+      "readmePath": "1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.py",
+          "path": "1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.py",
+          "sha": "93950a046522c37f1db325c9aa4c795f07ec13c1",
+          "lastSyncedAt": "2026-09-17T16:11:06.186Z"
         }
       ]
     },
