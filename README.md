@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 6 | 11 | 3 |
+| 19 | 6 | 10 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 6 days | 16 |
+| 2 days | 6 days | 15 |
 
 | Date | Problems |
 | --- | ---: |
@@ -34,16 +34,16 @@ Contains topicwise list of solved problems.
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 12 | 60% |
-| Math | 6 | 30% |
-| Dynamic Programming | 5 | 25% |
-| Hash Table | 4 | 20% |
-| Prefix Sum | 3 | 15% |
-| Binary Search | 2 | 10% |
-| Matrix | 2 | 10% |
-| Sorting | 2 | 10% |
-| String | 2 | 10% |
+| Array | 11 | 58% |
+| Math | 6 | 32% |
+| Dynamic Programming | 5 | 26% |
+| Hash Table | 4 | 21% |
+| Prefix Sum | 3 | 16% |
+| Binary Search | 2 | 11% |
+| Matrix | 2 | 11% |
+| String | 2 | 11% |
 | Binary Tree | 1 | 5% |
+| Bit Manipulation | 1 | 5% |
 
 ## Topics
 
