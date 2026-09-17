@@ -79,6 +79,7 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0835-image-overlap) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -95,6 +96,7 @@ Contains topicwise list of solved problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Combinatorics
 |  |
@@ -104,4 +106,16 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Hash Table
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Binary Search
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
