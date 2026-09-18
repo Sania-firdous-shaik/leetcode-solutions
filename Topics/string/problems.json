@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-18T14:55:28.713Z",
+  "updatedAt": "2026-09-18T14:55:58.485Z",
   "problems": [
     {
       "frontendId": "115",
@@ -62,7 +62,7 @@
           "filename": "1520-maximum-number-of-non-overlapping-substrings.py",
           "path": "1520-maximum-number-of-non-overlapping-substrings/1520-maximum-number-of-non-overlapping-substrings.py",
           "sha": "f5320d944797bd7e0a2e875b3304a360f08bacbd",
-          "lastSyncedAt": "2026-09-18T14:55:28.713Z"
+          "lastSyncedAt": "2026-09-18T14:55:58.485Z"
         }
       ]
     },
