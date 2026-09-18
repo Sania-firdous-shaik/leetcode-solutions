@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 19 | 6 | 10 | 3 |
+| 20 | 6 | 10 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 6 days | 15 |
+| 3 days | 6 days | 16 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-01 | 2 |
 | 2026-09-03 | 2 |
 | 2026-09-04 | 1 |
 | 2026-09-05 | 1 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-09-14 | 1 |
 | 2026-09-16 | 1 |
 | 2026-09-17 | 1 |
+| 2026-09-18 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 11 | 58% |
-| Math | 6 | 32% |
-| Dynamic Programming | 5 | 26% |
-| Hash Table | 4 | 21% |
-| Prefix Sum | 3 | 16% |
-| Binary Search | 2 | 11% |
-| Matrix | 2 | 11% |
-| String | 2 | 11% |
-| Binary Tree | 1 | 5% |
-| Bit Manipulation | 1 | 5% |
+| Array | 11 | 55% |
+| Math | 6 | 30% |
+| Dynamic Programming | 5 | 25% |
+| Hash Table | 5 | 25% |
+| Prefix Sum | 3 | 15% |
+| String | 3 | 15% |
+| Binary Search | 2 | 10% |
+| Greedy | 2 | 10% |
+| Matrix | 2 | 10% |
+| Sorting | 2 | 10% |
 
 ## Topics
 
@@ -59,16 +59,16 @@ Contains topicwise list of solved problems.
 | [Dynamic Programming](Topics/dynamic-programming/) | 5 |
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Geometry](Topics/geometry/) | 1 |
-| [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 4 |
+| [Greedy](Topics/greedy/) | 2 |
+| [Hash Table](Topics/hash-table/) | 5 |
 | [Linked List](Topics/linked-list/) | 1 |
 | [Math](Topics/math/) | 6 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Prefix Sum](Topics/prefix-sum/) | 3 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
-| [Sorting](Topics/sorting/) | 2 |
-| [String](Topics/string/) | 3 |
+| [Sorting](Topics/sorting/) | 3 |
+| [String](Topics/string/) | 4 |
 | [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 1 |
 | [Union-Find](Topics/union-find/) | 1 |
