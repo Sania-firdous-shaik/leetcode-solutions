@@ -89,11 +89,13 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Geometry
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Dynamic Programming
 |  |
 | ------- |
