@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-20T16:38:44.865Z",
+  "updatedAt": "2026-09-20T16:39:19.339Z",
   "problems": [
     {
       "frontendId": "1520",
@@ -62,7 +62,7 @@
           "filename": "3414-maximum-score-of-non-overlapping-intervals.py",
           "path": "3414-maximum-score-of-non-overlapping-intervals/3414-maximum-score-of-non-overlapping-intervals.py",
           "sha": "89f040910f1b2e01024e0b87937740295ebfe7c9",
-          "lastSyncedAt": "2026-09-18T14:56:31.271Z"
+          "lastSyncedAt": "2026-09-20T16:39:19.339Z"
         }
       ]
     }
