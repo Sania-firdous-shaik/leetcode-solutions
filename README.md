@@ -126,6 +126,7 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -134,4 +135,8 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
