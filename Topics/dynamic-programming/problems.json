@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-20T16:39:19.339Z",
+  "updatedAt": "2026-09-21T03:25:20.035Z",
   "problems": [
     {
       "frontendId": "115",
@@ -103,6 +103,26 @@
           "path": "3414-maximum-score-of-non-overlapping-intervals/3414-maximum-score-of-non-overlapping-intervals.py",
           "sha": "89f040910f1b2e01024e0b87937740295ebfe7c9",
           "lastSyncedAt": "2026-09-20T16:39:19.339Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3524",
+      "title": "Find X Value of Array I",
+      "slug": "find-x-value-of-array-i",
+      "problemName": "3524-find-x-value-of-array-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-x-value-of-array-i/",
+      "folderPath": "3524-find-x-value-of-array-i/",
+      "readmePath": "3524-find-x-value-of-array-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3524-find-x-value-of-array-i.py",
+          "path": "3524-find-x-value-of-array-i/3524-find-x-value-of-array-i.py",
+          "sha": "7bb3e7db361f9e34a0093652a35a3b85620ede83",
+          "lastSyncedAt": "2026-09-21T03:25:20.035Z"
         }
       ]
     }
