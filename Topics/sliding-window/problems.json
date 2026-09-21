@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-09-20T16:38:53.859Z",
+  "updatedAt": "2026-09-21T03:25:45.776Z",
   "problems": [
     {
       "frontendId": "1477",
@@ -22,7 +22,7 @@
           "filename": "1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.py",
           "path": "1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.py",
           "sha": "93950a046522c37f1db325c9aa4c795f07ec13c1",
-          "lastSyncedAt": "2026-09-20T16:38:53.859Z"
+          "lastSyncedAt": "2026-09-21T03:25:45.776Z"
         }
       ]
     }
