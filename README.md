@@ -5,19 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 21 | 6 | 11 | 4 |
+| 24 | 7 | 12 | 5 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 6 days | 17 |
+| 7 days | 7 days | 20 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-04 | 1 |
-| 2026-09-05 | 1 |
-| 2026-09-06 | 1 |
 | 2026-09-07 | 1 |
 | 2026-09-09 | 3 |
 | 2026-09-10 | 1 |
@@ -29,46 +26,51 @@ Contains topicwise list of solved problems.
 | 2026-09-17 | 1 |
 | 2026-09-18 | 1 |
 | 2026-09-19 | 1 |
+| 2026-09-20 | 1 |
+| 2026-09-21 | 1 |
+| 2026-09-22 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 11 | 52% |
-| Math | 7 | 33% |
-| Dynamic Programming | 5 | 24% |
-| Hash Table | 5 | 24% |
-| Prefix Sum | 3 | 14% |
-| String | 3 | 14% |
-| Binary Search | 2 | 10% |
-| Geometry | 2 | 10% |
-| Greedy | 2 | 10% |
-| Matrix | 2 | 10% |
+| Array | 13 | 54% |
+| Math | 9 | 38% |
+| Dynamic Programming | 6 | 25% |
+| Hash Table | 5 | 21% |
+| String | 4 | 17% |
+| Prefix Sum | 3 | 13% |
+| Binary Search | 2 | 8% |
+| Geometry | 2 | 8% |
+| Greedy | 2 | 8% |
+| Matrix | 2 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 12 |
+| [Array](Topics/array/) | 14 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 5 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 6 |
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Geometry](Topics/geometry/) | 2 |
 | [Greedy](Topics/greedy/) | 2 |
 | [Hash Table](Topics/hash-table/) | 5 |
 | [Linked List](Topics/linked-list/) | 1 |
-| [Math](Topics/math/) | 7 |
+| [Math](Topics/math/) | 9 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Prefix Sum](Topics/prefix-sum/) | 3 |
 | [Recursion](Topics/recursion/) | 1 |
+| [Segment Tree](Topics/segment-tree/) | 1 |
+| [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 3 |
-| [String](Topics/string/) | 4 |
+| [String](Topics/string/) | 5 |
 | [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 1 |
 | [Union-Find](Topics/union-find/) | 1 |
