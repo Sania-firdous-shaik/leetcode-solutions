@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T16:40:41.561Z",
+  "updatedAt": "2026-09-24T16:41:38.289Z",
   "problems": [
     {
       "frontendId": "115",
@@ -103,6 +103,26 @@
           "path": "2904-shortest-and-lexicographically-smallest-beautiful-string/2904-shortest-and-lexicographically-smallest-beautiful-string.py",
           "sha": "78b0a6bab4d8df7945496e17d4da3e1df1964d55",
           "lastSyncedAt": "2026-09-24T16:40:03.776Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3474",
+      "title": "Lexicographically Smallest Generated String",
+      "slug": "lexicographically-smallest-generated-string",
+      "problemName": "3474-lexicographically-smallest-generated-string",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-generated-string/",
+      "folderPath": "3474-lexicographically-smallest-generated-string/",
+      "readmePath": "3474-lexicographically-smallest-generated-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3474-lexicographically-smallest-generated-string.py",
+          "path": "3474-lexicographically-smallest-generated-string/3474-lexicographically-smallest-generated-string.py",
+          "sha": "6c30668b38e7c19155cf7f90f1dc240128489f17",
+          "lastSyncedAt": "2026-09-24T16:41:38.289Z"
         }
       ]
     },
