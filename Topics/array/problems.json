@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T16:43:09.849Z",
+  "updatedAt": "2026-09-24T16:43:21.721Z",
   "problems": [
     {
       "frontendId": "835",
@@ -23,6 +23,26 @@
           "path": "0835-image-overlap/0835-image-overlap.py",
           "sha": "e07c80584130872be44c8548b08cc1bbd13d6d61",
           "lastSyncedAt": "2026-09-24T16:37:50.090Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1386",
+      "title": "Cinema Seat Allocation",
+      "slug": "cinema-seat-allocation",
+      "problemName": "1386-cinema-seat-allocation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/cinema-seat-allocation/",
+      "folderPath": "1386-cinema-seat-allocation/",
+      "readmePath": "1386-cinema-seat-allocation/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1386-cinema-seat-allocation.py",
+          "path": "1386-cinema-seat-allocation/1386-cinema-seat-allocation.py",
+          "sha": "4a23aa1684b25010fd7875488ec59f9647673281",
+          "lastSyncedAt": "2026-09-24T16:43:21.721Z"
         }
       ]
     },
