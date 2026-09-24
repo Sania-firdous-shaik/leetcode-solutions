@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T16:39:51.161Z",
+  "updatedAt": "2026-09-24T16:40:03.776Z",
   "problems": [
     {
       "frontendId": "115",
@@ -63,6 +63,26 @@
           "path": "1520-maximum-number-of-non-overlapping-substrings/1520-maximum-number-of-non-overlapping-substrings.py",
           "sha": "f5320d944797bd7e0a2e875b3304a360f08bacbd",
           "lastSyncedAt": "2026-09-24T16:37:17.151Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2904",
+      "title": "Shortest and Lexicographically Smallest Beautiful String",
+      "slug": "shortest-and-lexicographically-smallest-beautiful-string",
+      "problemName": "2904-shortest-and-lexicographically-smallest-beautiful-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/",
+      "folderPath": "2904-shortest-and-lexicographically-smallest-beautiful-string/",
+      "readmePath": "2904-shortest-and-lexicographically-smallest-beautiful-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2904-shortest-and-lexicographically-smallest-beautiful-string.py",
+          "path": "2904-shortest-and-lexicographically-smallest-beautiful-string/2904-shortest-and-lexicographically-smallest-beautiful-string.py",
+          "sha": "78b0a6bab4d8df7945496e17d4da3e1df1964d55",
+          "lastSyncedAt": "2026-09-24T16:40:03.776Z"
         }
       ]
     },
