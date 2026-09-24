@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T16:34:52.691Z",
+  "updatedAt": "2026-09-24T16:36:30.078Z",
   "problems": [
     {
       "frontendId": "836",
@@ -122,7 +122,7 @@
           "filename": "3550-smallest-index-with-digit-sum-equal-to-index.py",
           "path": "3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.py",
           "sha": "8198f31ce2a7dbc3a52fbfe57c773a59d4070e96",
-          "lastSyncedAt": "2026-09-24T16:32:28.849Z"
+          "lastSyncedAt": "2026-09-24T16:36:30.078Z"
         }
       ]
     },
