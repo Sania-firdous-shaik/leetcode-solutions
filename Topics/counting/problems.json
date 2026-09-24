@@ -4,8 +4,28 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-09-24T16:39:51.161Z",
+  "updatedAt": "2026-09-24T16:44:58.413Z",
   "problems": [
+    {
+      "frontendId": "2029",
+      "title": "Stone Game IX",
+      "slug": "stone-game-ix",
+      "problemName": "2029-stone-game-ix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-ix/",
+      "folderPath": "2029-stone-game-ix/",
+      "readmePath": "2029-stone-game-ix/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2029-stone-game-ix.py",
+          "path": "2029-stone-game-ix/2029-stone-game-ix.py",
+          "sha": "9a86edc4d63fca8a692988267d286a06c1ce00d4",
+          "lastSyncedAt": "2026-09-24T16:44:58.413Z"
+        }
+      ]
+    },
     {
       "frontendId": "3720",
       "title": "Lexicographically Smallest Permutation Greater Than Target",
