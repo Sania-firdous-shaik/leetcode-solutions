@@ -4,7 +4,7 @@
     "slug": "game-theory",
     "name": "Game Theory"
   },
-  "updatedAt": "2026-09-24T16:51:10.318Z",
+  "updatedAt": "2026-09-24T16:51:28.752Z",
   "problems": [
     {
       "frontendId": "1563",
@@ -62,7 +62,7 @@
           "filename": "1927-sum-game.py",
           "path": "1927-sum-game/1927-sum-game.py",
           "sha": "293535e43297f98ec440184aa9d938eee01e84ae",
-          "lastSyncedAt": "2026-09-24T16:40:41.561Z"
+          "lastSyncedAt": "2026-09-24T16:51:28.752Z"
         }
       ]
     },
