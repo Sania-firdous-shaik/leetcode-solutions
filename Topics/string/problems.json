@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T16:44:22.755Z",
+  "updatedAt": "2026-09-24T16:45:23.475Z",
   "problems": [
     {
       "frontendId": "115",
@@ -23,6 +23,26 @@
           "path": "0115-distinct-subsequences/0115-distinct-subsequences.py",
           "sha": "9758e874fb542dbd9ad09e63f98115e0f3c308dc",
           "lastSyncedAt": "2026-09-24T16:38:46.790Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "132",
+      "title": "Palindrome Partitioning II",
+      "slug": "palindrome-partitioning-ii",
+      "problemName": "0132-palindrome-partitioning-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-partitioning-ii/",
+      "folderPath": "0132-palindrome-partitioning-ii/",
+      "readmePath": "0132-palindrome-partitioning-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0132-palindrome-partitioning-ii.py",
+          "path": "0132-palindrome-partitioning-ii/0132-palindrome-partitioning-ii.py",
+          "sha": "2c5ba45bf4db26274d202a41c4f74faebedb5dc9",
+          "lastSyncedAt": "2026-09-24T16:45:23.475Z"
         }
       ]
     },
