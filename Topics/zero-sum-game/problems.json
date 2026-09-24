@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "zero-sum-game",
+    "name": "Zero-Sum Game"
+  },
+  "updatedAt": "2026-09-24T16:40:12.183Z",
+  "problems": [
+    {
+      "frontendId": "1872",
+      "title": "Stone Game VIII",
+      "slug": "stone-game-viii",
+      "problemName": "1872-stone-game-viii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-viii/",
+      "folderPath": "1872-stone-game-viii/",
+      "readmePath": "1872-stone-game-viii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1872-stone-game-viii.py",
+          "path": "1872-stone-game-viii/1872-stone-game-viii.py",
+          "sha": "eea146e3d129a3b1a22e0334e5a88efd6abbe678",
+          "lastSyncedAt": "2026-09-24T16:40:12.183Z"
+        }
+      ]
+    }
+  ]
+}
