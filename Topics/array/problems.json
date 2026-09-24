@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T16:46:23.049Z",
+  "updatedAt": "2026-09-24T16:47:26.884Z",
   "problems": [
     {
       "frontendId": "212",
@@ -502,7 +502,7 @@
           "filename": "3550-smallest-index-with-digit-sum-equal-to-index.py",
           "path": "3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.py",
           "sha": "8198f31ce2a7dbc3a52fbfe57c773a59d4070e96",
-          "lastSyncedAt": "2026-09-24T16:36:30.078Z"
+          "lastSyncedAt": "2026-09-24T16:47:26.884Z"
         }
       ]
     },
