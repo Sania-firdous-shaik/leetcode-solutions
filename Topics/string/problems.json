@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T16:43:53.468Z",
+  "updatedAt": "2026-09-24T16:44:22.755Z",
   "problems": [
     {
       "frontendId": "115",
@@ -43,6 +43,26 @@
           "path": "0187-repeated-dna-sequences/0187-repeated-dna-sequences.py",
           "sha": "af986a5c6eb2db33f492f61deb7634b2f37e2a28",
           "lastSyncedAt": "2026-09-24T16:43:53.468Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "796",
+      "title": "Rotate String",
+      "slug": "rotate-string",
+      "problemName": "0796-rotate-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-string/",
+      "folderPath": "0796-rotate-string/",
+      "readmePath": "0796-rotate-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0796-rotate-string.py",
+          "path": "0796-rotate-string/0796-rotate-string.py",
+          "sha": "31d6797425409779ede5ec2928a87fd232197dd3",
+          "lastSyncedAt": "2026-09-24T16:44:22.755Z"
         }
       ]
     },
