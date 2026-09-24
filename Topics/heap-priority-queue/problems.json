@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "heap-priority-queue",
+    "name": "Heap (Priority Queue)"
+  },
+  "updatedAt": "2026-09-24T16:55:23.539Z",
+  "problems": [
+    {
+      "frontendId": "332",
+      "title": "Reconstruct Itinerary",
+      "slug": "reconstruct-itinerary",
+      "problemName": "0332-reconstruct-itinerary",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/reconstruct-itinerary/",
+      "folderPath": "0332-reconstruct-itinerary/",
+      "readmePath": "0332-reconstruct-itinerary/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0332-reconstruct-itinerary.py",
+          "path": "0332-reconstruct-itinerary/0332-reconstruct-itinerary.py",
+          "sha": "96db687df8a2381e38752b4eb484587f59310bcc",
+          "lastSyncedAt": "2026-09-24T16:55:23.539Z"
+        }
+      ]
+    }
+  ]
+}
