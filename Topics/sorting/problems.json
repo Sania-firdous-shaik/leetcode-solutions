@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T16:39:34.229Z",
+  "updatedAt": "2026-09-24T16:41:19.617Z",
   "problems": [
     {
       "frontendId": "1520",
@@ -23,6 +23,26 @@
           "path": "1520-maximum-number-of-non-overlapping-substrings/1520-maximum-number-of-non-overlapping-substrings.py",
           "sha": "f5320d944797bd7e0a2e875b3304a360f08bacbd",
           "lastSyncedAt": "2026-09-24T16:37:17.151Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2751",
+      "title": "Robot Collisions",
+      "slug": "robot-collisions",
+      "problemName": "2751-robot-collisions",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/robot-collisions/",
+      "folderPath": "2751-robot-collisions/",
+      "readmePath": "2751-robot-collisions/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2751-robot-collisions.py",
+          "path": "2751-robot-collisions/2751-robot-collisions.py",
+          "sha": "c8a4786ca508ef0aff958cbb4902f037c2b4c3f9",
+          "lastSyncedAt": "2026-09-24T16:41:19.617Z"
         }
       ]
     },
