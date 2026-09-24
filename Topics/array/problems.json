@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T16:52:41.423Z",
+  "updatedAt": "2026-09-24T16:52:52.876Z",
   "problems": [
     {
       "frontendId": "212",
@@ -462,7 +462,7 @@
           "filename": "3546-equal-sum-grid-partition-i.py",
           "path": "3546-equal-sum-grid-partition-i/3546-equal-sum-grid-partition-i.py",
           "sha": "61fefebc8c3663f08281bbfb5ce8cc0338bdb16b",
-          "lastSyncedAt": "2026-09-24T16:42:44.447Z"
+          "lastSyncedAt": "2026-09-24T16:52:52.876Z"
         }
       ]
     },
