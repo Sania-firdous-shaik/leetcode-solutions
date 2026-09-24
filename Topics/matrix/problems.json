@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-24T16:42:13.214Z",
+  "updatedAt": "2026-09-24T16:42:26.806Z",
   "problems": [
     {
       "frontendId": "835",
@@ -63,6 +63,26 @@
           "path": "2946-matrix-similarity-after-cyclic-shifts/2946-matrix-similarity-after-cyclic-shifts.py",
           "sha": "a508ab712049894ea67ea671744737a3cfaa535e",
           "lastSyncedAt": "2026-09-24T16:42:13.214Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3548",
+      "title": "Equal Sum Grid Partition II",
+      "slug": "equal-sum-grid-partition-ii",
+      "problemName": "3548-equal-sum-grid-partition-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/equal-sum-grid-partition-ii/",
+      "folderPath": "3548-equal-sum-grid-partition-ii/",
+      "readmePath": "3548-equal-sum-grid-partition-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3548-equal-sum-grid-partition-ii.py",
+          "path": "3548-equal-sum-grid-partition-ii/3548-equal-sum-grid-partition-ii.py",
+          "sha": "1bb793636921e2e9d6bf45f52cad2663c6ce315a",
+          "lastSyncedAt": "2026-09-24T16:42:26.806Z"
         }
       ]
     },
