@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T16:54:17.761Z",
+  "updatedAt": "2026-09-24T16:55:23.539Z",
   "problems": [
     {
       "frontendId": "332",
@@ -22,7 +22,7 @@
           "filename": "0332-reconstruct-itinerary.py",
           "path": "0332-reconstruct-itinerary/0332-reconstruct-itinerary.py",
           "sha": "96db687df8a2381e38752b4eb484587f59310bcc",
-          "lastSyncedAt": "2026-09-24T16:46:23.049Z"
+          "lastSyncedAt": "2026-09-24T16:55:23.539Z"
         }
       ]
     },
