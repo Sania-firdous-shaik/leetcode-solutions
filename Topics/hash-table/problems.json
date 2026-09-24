@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T16:34:58.600Z",
+  "updatedAt": "2026-09-24T16:35:33.151Z",
   "problems": [
     {
       "frontendId": "1477",
@@ -123,6 +123,26 @@
           "path": "3718-smallest-missing-multiple-of-k/3718-smallest-missing-multiple-of-k.py",
           "sha": "295cd0ea8d6af16a4ea28229b53d2fef1b7a1d28",
           "lastSyncedAt": "2026-09-24T16:34:10.623Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3720",
+      "title": "Lexicographically Smallest Permutation Greater Than Target",
+      "slug": "lexicographically-smallest-permutation-greater-than-target",
+      "problemName": "3720-lexicographically-smallest-permutation-greater-than-target",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/",
+      "folderPath": "3720-lexicographically-smallest-permutation-greater-than-target/",
+      "readmePath": "3720-lexicographically-smallest-permutation-greater-than-target/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3720-lexicographically-smallest-permutation-greater-than-target.py",
+          "path": "3720-lexicographically-smallest-permutation-greater-than-target/3720-lexicographically-smallest-permutation-greater-than-target.py",
+          "sha": "e88a3f7e8d570491e6a68690b6d95e42f9f828e3",
+          "lastSyncedAt": "2026-09-24T16:35:33.151Z"
         }
       ]
     }
