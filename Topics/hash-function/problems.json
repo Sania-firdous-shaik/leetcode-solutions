@@ -4,7 +4,7 @@
     "slug": "hash-function",
     "name": "Hash Function"
   },
-  "updatedAt": "2026-09-24T16:43:53.468Z",
+  "updatedAt": "2026-09-24T16:45:32.651Z",
   "problems": [
     {
       "frontendId": "187",
@@ -23,6 +23,26 @@
           "path": "0187-repeated-dna-sequences/0187-repeated-dna-sequences.py",
           "sha": "af986a5c6eb2db33f492f61deb7634b2f37e2a28",
           "lastSyncedAt": "2026-09-24T16:43:53.468Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "214",
+      "title": "Shortest Palindrome",
+      "slug": "shortest-palindrome",
+      "problemName": "0214-shortest-palindrome",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-palindrome/",
+      "folderPath": "0214-shortest-palindrome/",
+      "readmePath": "0214-shortest-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0214-shortest-palindrome.py",
+          "path": "0214-shortest-palindrome/0214-shortest-palindrome.py",
+          "sha": "98749a4ba08aef7630fed9dbb63dfc3f3df040c6",
+          "lastSyncedAt": "2026-09-24T16:45:32.651Z"
         }
       ]
     }
