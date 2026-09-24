@@ -4,8 +4,28 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-24T16:39:43.300Z",
+  "updatedAt": "2026-09-24T16:43:09.849Z",
   "problems": [
+    {
+      "frontendId": "3069",
+      "title": "Distribute Elements Into Two Arrays I",
+      "slug": "distribute-elements-into-two-arrays-i",
+      "problemName": "3069-distribute-elements-into-two-arrays-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/distribute-elements-into-two-arrays-i/",
+      "folderPath": "3069-distribute-elements-into-two-arrays-i/",
+      "readmePath": "3069-distribute-elements-into-two-arrays-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3069-distribute-elements-into-two-arrays-i.py",
+          "path": "3069-distribute-elements-into-two-arrays-i/3069-distribute-elements-into-two-arrays-i.py",
+          "sha": "d388bf024608d6b3f25ca46f1d8254f65d92cef4",
+          "lastSyncedAt": "2026-09-24T16:43:09.849Z"
+        }
+      ]
+    },
     {
       "frontendId": "3734",
       "title": "Lexicographically Smallest Palindromic Permutation Greater Than Target",
