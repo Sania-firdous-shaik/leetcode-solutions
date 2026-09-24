@@ -4,8 +4,28 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-24T16:40:59.312Z",
+  "updatedAt": "2026-09-24T16:43:21.721Z",
   "problems": [
+    {
+      "frontendId": "1386",
+      "title": "Cinema Seat Allocation",
+      "slug": "cinema-seat-allocation",
+      "problemName": "1386-cinema-seat-allocation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/cinema-seat-allocation/",
+      "folderPath": "1386-cinema-seat-allocation/",
+      "readmePath": "1386-cinema-seat-allocation/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1386-cinema-seat-allocation.py",
+          "path": "1386-cinema-seat-allocation/1386-cinema-seat-allocation.py",
+          "sha": "4a23aa1684b25010fd7875488ec59f9647673281",
+          "lastSyncedAt": "2026-09-24T16:43:21.721Z"
+        }
+      ]
+    },
     {
       "frontendId": "3116",
       "title": "Kth Smallest Amount With Single Denomination Combination",
