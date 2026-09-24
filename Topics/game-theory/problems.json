@@ -4,8 +4,28 @@
     "slug": "game-theory",
     "name": "Game Theory"
   },
-  "updatedAt": "2026-09-24T16:40:41.561Z",
+  "updatedAt": "2026-09-24T16:44:31.151Z",
   "problems": [
+    {
+      "frontendId": "1563",
+      "title": "Stone Game V",
+      "slug": "stone-game-v",
+      "problemName": "1563-stone-game-v",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-v/",
+      "folderPath": "1563-stone-game-v/",
+      "readmePath": "1563-stone-game-v/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1563-stone-game-v.py",
+          "path": "1563-stone-game-v/1563-stone-game-v.py",
+          "sha": "63fc8d6ea3cb0831639392a320b3caf7eda3b779",
+          "lastSyncedAt": "2026-09-24T16:44:31.151Z"
+        }
+      ]
+    },
     {
       "frontendId": "1872",
       "title": "Stone Game VIII",
