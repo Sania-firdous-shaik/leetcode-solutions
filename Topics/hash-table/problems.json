@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T16:39:51.161Z",
+  "updatedAt": "2026-09-24T16:42:26.806Z",
   "problems": [
     {
       "frontendId": "1477",
@@ -83,6 +83,26 @@
           "path": "3483-unique-3-digit-even-numbers/3483-unique-3-digit-even-numbers.py",
           "sha": "534943bb489392f23807b398b525eacb1f416847",
           "lastSyncedAt": "2026-09-24T16:38:07.446Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3548",
+      "title": "Equal Sum Grid Partition II",
+      "slug": "equal-sum-grid-partition-ii",
+      "problemName": "3548-equal-sum-grid-partition-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/equal-sum-grid-partition-ii/",
+      "folderPath": "3548-equal-sum-grid-partition-ii/",
+      "readmePath": "3548-equal-sum-grid-partition-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3548-equal-sum-grid-partition-ii.py",
+          "path": "3548-equal-sum-grid-partition-ii/3548-equal-sum-grid-partition-ii.py",
+          "sha": "1bb793636921e2e9d6bf45f52cad2663c6ce315a",
+          "lastSyncedAt": "2026-09-24T16:42:26.806Z"
         }
       ]
     },
