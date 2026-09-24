@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-24T16:33:18.991Z",
+  "updatedAt": "2026-09-24T16:33:27.199Z",
   "problems": [
     {
       "frontendId": "115",
@@ -82,7 +82,7 @@
           "filename": "1621-number-of-sets-of-k-non-overlapping-line-segments.py",
           "path": "1621-number-of-sets-of-k-non-overlapping-line-segments/1621-number-of-sets-of-k-non-overlapping-line-segments.py",
           "sha": "3046ef18518d0cbc4cc75095695f1c697bf07073",
-          "lastSyncedAt": "2026-09-22T04:39:20.715Z"
+          "lastSyncedAt": "2026-09-24T16:33:27.199Z"
         }
       ]
     },
