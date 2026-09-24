@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T16:40:41.561Z",
+  "updatedAt": "2026-09-24T16:40:53.236Z",
   "problems": [
     {
       "frontendId": "836",
@@ -163,6 +163,26 @@
           "path": "3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.py",
           "sha": "8198f31ce2a7dbc3a52fbfe57c773a59d4070e96",
           "lastSyncedAt": "2026-09-24T16:36:30.078Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3622",
+      "title": "Check Divisibility by Digit Sum and Product",
+      "slug": "check-divisibility-by-digit-sum-and-product",
+      "problemName": "3622-check-divisibility-by-digit-sum-and-product",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/",
+      "folderPath": "3622-check-divisibility-by-digit-sum-and-product/",
+      "readmePath": "3622-check-divisibility-by-digit-sum-and-product/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3622-check-divisibility-by-digit-sum-and-product.py",
+          "path": "3622-check-divisibility-by-digit-sum-and-product/3622-check-divisibility-by-digit-sum-and-product.py",
+          "sha": "07c2d2af4b0f01c1e7da33439769ca003cb09dea",
+          "lastSyncedAt": "2026-09-24T16:40:53.236Z"
         }
       ]
     },
