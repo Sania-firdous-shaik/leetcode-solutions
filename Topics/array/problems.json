@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T16:39:13.288Z",
+  "updatedAt": "2026-09-24T16:39:27.835Z",
   "problems": [
     {
       "frontendId": "835",
@@ -82,7 +82,7 @@
           "filename": "2091-removing-minimum-and-maximum-from-array.py",
           "path": "2091-removing-minimum-and-maximum-from-array/2091-removing-minimum-and-maximum-from-array.py",
           "sha": "11efc641eb06c3329edb620f39a7b97f474a5caa",
-          "lastSyncedAt": "2026-09-24T16:35:10.816Z"
+          "lastSyncedAt": "2026-09-24T16:39:27.835Z"
         }
       ]
     },
