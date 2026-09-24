@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T16:40:59.312Z",
+  "updatedAt": "2026-09-24T16:42:13.214Z",
   "problems": [
     {
       "frontendId": "836",
@@ -103,6 +103,26 @@
           "path": "1927-sum-game/1927-sum-game.py",
           "sha": "293535e43297f98ec440184aa9d938eee01e84ae",
           "lastSyncedAt": "2026-09-24T16:40:41.561Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2946",
+      "title": "Matrix Similarity After Cyclic Shifts",
+      "slug": "matrix-similarity-after-cyclic-shifts",
+      "problemName": "2946-matrix-similarity-after-cyclic-shifts",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/",
+      "folderPath": "2946-matrix-similarity-after-cyclic-shifts/",
+      "readmePath": "2946-matrix-similarity-after-cyclic-shifts/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2946-matrix-similarity-after-cyclic-shifts.py",
+          "path": "2946-matrix-similarity-after-cyclic-shifts/2946-matrix-similarity-after-cyclic-shifts.py",
+          "sha": "a508ab712049894ea67ea671744737a3cfaa535e",
+          "lastSyncedAt": "2026-09-24T16:42:13.214Z"
         }
       ]
     },
