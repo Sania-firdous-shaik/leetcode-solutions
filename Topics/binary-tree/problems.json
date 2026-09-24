@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-09-18T14:56:49.559Z",
+  "updatedAt": "2026-09-24T16:34:00.533Z",
   "problems": [
     {
       "frontendId": "2265",
@@ -22,7 +22,7 @@
           "filename": "2265-count-nodes-equal-to-average-of-subtree.py",
           "path": "2265-count-nodes-equal-to-average-of-subtree/2265-count-nodes-equal-to-average-of-subtree.py",
           "sha": "57a6f57354649a0a7a773eab8c59695e8999d6ee",
-          "lastSyncedAt": "2026-09-18T14:56:49.559Z"
+          "lastSyncedAt": "2026-09-24T16:34:00.533Z"
         }
       ]
     }
