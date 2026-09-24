@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-24T16:39:51.161Z",
+  "updatedAt": "2026-09-24T16:40:41.561Z",
   "problems": [
     {
       "frontendId": "1520",
@@ -23,6 +23,26 @@
           "path": "1520-maximum-number-of-non-overlapping-substrings/1520-maximum-number-of-non-overlapping-substrings.py",
           "sha": "f5320d944797bd7e0a2e875b3304a360f08bacbd",
           "lastSyncedAt": "2026-09-24T16:37:17.151Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1927",
+      "title": "Sum Game",
+      "slug": "sum-game",
+      "problemName": "1927-sum-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-game/",
+      "folderPath": "1927-sum-game/",
+      "readmePath": "1927-sum-game/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1927-sum-game.py",
+          "path": "1927-sum-game/1927-sum-game.py",
+          "sha": "293535e43297f98ec440184aa9d938eee01e84ae",
+          "lastSyncedAt": "2026-09-24T16:40:41.561Z"
         }
       ]
     },
