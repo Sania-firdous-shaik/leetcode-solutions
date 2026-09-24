@@ -4,8 +4,28 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-24T16:43:21.721Z",
+  "updatedAt": "2026-09-24T16:43:53.468Z",
   "problems": [
+    {
+      "frontendId": "187",
+      "title": "Repeated DNA Sequences",
+      "slug": "repeated-dna-sequences",
+      "problemName": "0187-repeated-dna-sequences",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/repeated-dna-sequences/",
+      "folderPath": "0187-repeated-dna-sequences/",
+      "readmePath": "0187-repeated-dna-sequences/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0187-repeated-dna-sequences.py",
+          "path": "0187-repeated-dna-sequences/0187-repeated-dna-sequences.py",
+          "sha": "af986a5c6eb2db33f492f61deb7634b2f37e2a28",
+          "lastSyncedAt": "2026-09-24T16:43:53.468Z"
+        }
+      ]
+    },
     {
       "frontendId": "1386",
       "title": "Cinema Seat Allocation",
