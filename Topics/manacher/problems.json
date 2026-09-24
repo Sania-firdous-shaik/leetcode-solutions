@@ -4,7 +4,7 @@
     "slug": "manacher",
     "name": "Manacher"
   },
-  "updatedAt": "2026-09-24T16:45:32.651Z",
+  "updatedAt": "2026-09-24T16:54:55.995Z",
   "problems": [
     {
       "frontendId": "214",
@@ -22,7 +22,7 @@
           "filename": "0214-shortest-palindrome.py",
           "path": "0214-shortest-palindrome/0214-shortest-palindrome.py",
           "sha": "98749a4ba08aef7630fed9dbb63dfc3f3df040c6",
-          "lastSyncedAt": "2026-09-24T16:45:32.651Z"
+          "lastSyncedAt": "2026-09-24T16:54:55.995Z"
         }
       ]
     }
