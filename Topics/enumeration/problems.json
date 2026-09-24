@@ -4,7 +4,7 @@
     "slug": "enumeration",
     "name": "Enumeration"
   },
-  "updatedAt": "2026-09-24T16:35:23.203Z",
+  "updatedAt": "2026-09-24T16:35:33.151Z",
   "problems": [
     {
       "frontendId": "3483",
@@ -23,6 +23,26 @@
           "path": "3483-unique-3-digit-even-numbers/3483-unique-3-digit-even-numbers.py",
           "sha": "534943bb489392f23807b398b525eacb1f416847",
           "lastSyncedAt": "2026-09-24T16:33:51.764Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3720",
+      "title": "Lexicographically Smallest Permutation Greater Than Target",
+      "slug": "lexicographically-smallest-permutation-greater-than-target",
+      "problemName": "3720-lexicographically-smallest-permutation-greater-than-target",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/",
+      "folderPath": "3720-lexicographically-smallest-permutation-greater-than-target/",
+      "readmePath": "3720-lexicographically-smallest-permutation-greater-than-target/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3720-lexicographically-smallest-permutation-greater-than-target.py",
+          "path": "3720-lexicographically-smallest-permutation-greater-than-target/3720-lexicographically-smallest-permutation-greater-than-target.py",
+          "sha": "e88a3f7e8d570491e6a68690b6d95e42f9f828e3",
+          "lastSyncedAt": "2026-09-24T16:35:33.151Z"
         }
       ]
     },
