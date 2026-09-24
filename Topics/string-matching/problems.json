@@ -4,8 +4,28 @@
     "slug": "string-matching",
     "name": "String Matching"
   },
-  "updatedAt": "2026-09-24T16:44:22.755Z",
+  "updatedAt": "2026-09-24T16:45:32.651Z",
   "problems": [
+    {
+      "frontendId": "214",
+      "title": "Shortest Palindrome",
+      "slug": "shortest-palindrome",
+      "problemName": "0214-shortest-palindrome",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-palindrome/",
+      "folderPath": "0214-shortest-palindrome/",
+      "readmePath": "0214-shortest-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0214-shortest-palindrome.py",
+          "path": "0214-shortest-palindrome/0214-shortest-palindrome.py",
+          "sha": "98749a4ba08aef7630fed9dbb63dfc3f3df040c6",
+          "lastSyncedAt": "2026-09-24T16:45:32.651Z"
+        }
+      ]
+    },
     {
       "frontendId": "796",
       "title": "Rotate String",
