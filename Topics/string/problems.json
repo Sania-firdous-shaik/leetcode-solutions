@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T16:45:32.651Z",
+  "updatedAt": "2026-09-24T16:46:00.106Z",
   "problems": [
     {
       "frontendId": "115",
@@ -63,6 +63,26 @@
           "path": "0187-repeated-dna-sequences/0187-repeated-dna-sequences.py",
           "sha": "af986a5c6eb2db33f492f61deb7634b2f37e2a28",
           "lastSyncedAt": "2026-09-24T16:43:53.468Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "212",
+      "title": "Word Search II",
+      "slug": "word-search-ii",
+      "problemName": "0212-word-search-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/word-search-ii/",
+      "folderPath": "0212-word-search-ii/",
+      "readmePath": "0212-word-search-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0212-word-search-ii.py",
+          "path": "0212-word-search-ii/0212-word-search-ii.py",
+          "sha": "f3d692e73bd4ac2113c9c69139a03cc953c87710",
+          "lastSyncedAt": "2026-09-24T16:46:00.106Z"
         }
       ]
     },
