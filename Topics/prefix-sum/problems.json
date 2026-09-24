@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-24T16:40:12.183Z",
+  "updatedAt": "2026-09-24T16:42:26.806Z",
   "problems": [
     {
       "frontendId": "1621",
@@ -63,6 +63,26 @@
           "path": "1872-stone-game-viii/1872-stone-game-viii.py",
           "sha": "eea146e3d129a3b1a22e0334e5a88efd6abbe678",
           "lastSyncedAt": "2026-09-24T16:40:12.183Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3548",
+      "title": "Equal Sum Grid Partition II",
+      "slug": "equal-sum-grid-partition-ii",
+      "problemName": "3548-equal-sum-grid-partition-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/equal-sum-grid-partition-ii/",
+      "folderPath": "3548-equal-sum-grid-partition-ii/",
+      "readmePath": "3548-equal-sum-grid-partition-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3548-equal-sum-grid-partition-ii.py",
+          "path": "3548-equal-sum-grid-partition-ii/3548-equal-sum-grid-partition-ii.py",
+          "sha": "1bb793636921e2e9d6bf45f52cad2663c6ce315a",
+          "lastSyncedAt": "2026-09-24T16:42:26.806Z"
         }
       ]
     },
