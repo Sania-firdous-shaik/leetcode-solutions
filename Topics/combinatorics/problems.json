@@ -4,7 +4,7 @@
     "slug": "combinatorics",
     "name": "Combinatorics"
   },
-  "updatedAt": "2026-09-24T16:48:35.781Z",
+  "updatedAt": "2026-09-24T16:51:40.530Z",
   "problems": [
     {
       "frontendId": "1621",
@@ -42,7 +42,7 @@
           "filename": "3116-kth-smallest-amount-with-single-denomination-combination.py",
           "path": "3116-kth-smallest-amount-with-single-denomination-combination/3116-kth-smallest-amount-with-single-denomination-combination.py",
           "sha": "164c7e22ae1192491d60fd8e6562edcd83c54731",
-          "lastSyncedAt": "2026-09-24T16:40:59.312Z"
+          "lastSyncedAt": "2026-09-24T16:51:40.530Z"
         }
       ]
     }
