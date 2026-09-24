@@ -4,8 +4,28 @@
     "slug": "union-find",
     "name": "Union-Find"
   },
-  "updatedAt": "2026-09-24T16:39:34.229Z",
+  "updatedAt": "2026-09-24T16:41:53.242Z",
   "problems": [
+    {
+      "frontendId": "2573",
+      "title": "Find the String with LCP",
+      "slug": "find-the-string-with-lcp",
+      "problemName": "2573-find-the-string-with-lcp",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-string-with-lcp/",
+      "folderPath": "2573-find-the-string-with-lcp/",
+      "readmePath": "2573-find-the-string-with-lcp/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2573-find-the-string-with-lcp.py",
+          "path": "2573-find-the-string-with-lcp/2573-find-the-string-with-lcp.py",
+          "sha": "ce5a8b30c7eb9efecc77e90fab9cbe53759ab45a",
+          "lastSyncedAt": "2026-09-24T16:41:53.242Z"
+        }
+      ]
+    },
     {
       "frontendId": "2948",
       "title": "Make Lexicographically Smallest Array by Swapping Elements",
