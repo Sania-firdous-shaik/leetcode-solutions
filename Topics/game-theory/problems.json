@@ -4,7 +4,7 @@
     "slug": "game-theory",
     "name": "Game Theory"
   },
-  "updatedAt": "2026-09-24T16:54:05.819Z",
+  "updatedAt": "2026-09-24T16:54:26.503Z",
   "problems": [
     {
       "frontendId": "1563",
@@ -82,7 +82,7 @@
           "filename": "2029-stone-game-ix.py",
           "path": "2029-stone-game-ix/2029-stone-game-ix.py",
           "sha": "9a86edc4d63fca8a692988267d286a06c1ce00d4",
-          "lastSyncedAt": "2026-09-24T16:44:58.413Z"
+          "lastSyncedAt": "2026-09-24T16:54:26.503Z"
         }
       ]
     }
