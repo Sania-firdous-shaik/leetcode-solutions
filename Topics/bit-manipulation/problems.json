@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-24T16:53:41.351Z",
+  "updatedAt": "2026-09-24T16:55:53.046Z",
   "problems": [
     {
       "frontendId": "187",
@@ -83,6 +83,26 @@
           "path": "3568-minimum-moves-to-clean-the-classroom/3568-minimum-moves-to-clean-the-classroom.py",
           "sha": "4e6066918e4ecd6352b40cc2f1f464d4217656ea",
           "lastSyncedAt": "2026-09-24T16:50:17.877Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3702",
+      "title": "Longest Subsequence With Non-Zero Bitwise XOR",
+      "slug": "longest-subsequence-with-non-zero-bitwise-xor",
+      "problemName": "3702-longest-subsequence-with-non-zero-bitwise-xor",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/",
+      "folderPath": "3702-longest-subsequence-with-non-zero-bitwise-xor/",
+      "readmePath": "3702-longest-subsequence-with-non-zero-bitwise-xor/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3702-longest-subsequence-with-non-zero-bitwise-xor.py",
+          "path": "3702-longest-subsequence-with-non-zero-bitwise-xor/3702-longest-subsequence-with-non-zero-bitwise-xor.py",
+          "sha": "255a2b5758e7f28d6998edde1e96805b0ee5e3ef",
+          "lastSyncedAt": "2026-09-24T16:55:53.046Z"
         }
       ]
     }
