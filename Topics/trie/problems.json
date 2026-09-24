@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "trie",
+    "name": "Trie"
+  },
+  "updatedAt": "2026-09-24T16:46:00.106Z",
+  "problems": [
+    {
+      "frontendId": "212",
+      "title": "Word Search II",
+      "slug": "word-search-ii",
+      "problemName": "0212-word-search-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/word-search-ii/",
+      "folderPath": "0212-word-search-ii/",
+      "readmePath": "0212-word-search-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0212-word-search-ii.py",
+          "path": "0212-word-search-ii/0212-word-search-ii.py",
+          "sha": "f3d692e73bd4ac2113c9c69139a03cc953c87710",
+          "lastSyncedAt": "2026-09-24T16:46:00.106Z"
+        }
+      ]
+    }
+  ]
+}
