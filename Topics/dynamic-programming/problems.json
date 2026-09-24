@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-24T16:37:57.112Z",
+  "updatedAt": "2026-09-24T16:38:41.072Z",
   "problems": [
     {
       "frontendId": "115",
@@ -42,7 +42,7 @@
           "filename": "0940-distinct-subsequences-ii.py",
           "path": "0940-distinct-subsequences-ii/0940-distinct-subsequences-ii.py",
           "sha": "c3c48c909001144c44989b1f21799e69001fe3e4",
-          "lastSyncedAt": "2026-09-24T16:34:23.556Z"
+          "lastSyncedAt": "2026-09-24T16:38:41.072Z"
         }
       ]
     },
