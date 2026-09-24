@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-24T16:42:44.447Z",
+  "updatedAt": "2026-09-24T16:42:58.581Z",
   "problems": [
     {
       "frontendId": "835",
@@ -43,6 +43,26 @@
           "path": "2573-find-the-string-with-lcp/2573-find-the-string-with-lcp.py",
           "sha": "ce5a8b30c7eb9efecc77e90fab9cbe53759ab45a",
           "lastSyncedAt": "2026-09-24T16:41:53.242Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2906",
+      "title": "Construct Product Matrix",
+      "slug": "construct-product-matrix",
+      "problemName": "2906-construct-product-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-product-matrix/",
+      "folderPath": "2906-construct-product-matrix/",
+      "readmePath": "2906-construct-product-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2906-construct-product-matrix.py",
+          "path": "2906-construct-product-matrix/2906-construct-product-matrix.py",
+          "sha": "c3767efb389a5fa519a29f5f4a5808213b4c8291",
+          "lastSyncedAt": "2026-09-24T16:42:58.581Z"
         }
       ]
     },
