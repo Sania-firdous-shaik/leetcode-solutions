@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-24T16:40:41.561Z",
+  "updatedAt": "2026-09-24T16:41:38.289Z",
   "problems": [
     {
       "frontendId": "1520",
@@ -63,6 +63,26 @@
           "path": "2091-removing-minimum-and-maximum-from-array/2091-removing-minimum-and-maximum-from-array.py",
           "sha": "11efc641eb06c3329edb620f39a7b97f474a5caa",
           "lastSyncedAt": "2026-09-24T16:39:27.835Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3474",
+      "title": "Lexicographically Smallest Generated String",
+      "slug": "lexicographically-smallest-generated-string",
+      "problemName": "3474-lexicographically-smallest-generated-string",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-generated-string/",
+      "folderPath": "3474-lexicographically-smallest-generated-string/",
+      "readmePath": "3474-lexicographically-smallest-generated-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3474-lexicographically-smallest-generated-string.py",
+          "path": "3474-lexicographically-smallest-generated-string/3474-lexicographically-smallest-generated-string.py",
+          "sha": "6c30668b38e7c19155cf7f90f1dc240128489f17",
+          "lastSyncedAt": "2026-09-24T16:41:38.289Z"
         }
       ]
     },
