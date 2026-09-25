@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-25T16:53:46.339Z",
+  "updatedAt": "2026-09-25T16:53:51.991Z",
   "problems": [
     {
       "frontendId": "212",
@@ -362,7 +362,7 @@
           "filename": "3414-maximum-score-of-non-overlapping-intervals.py",
           "path": "3414-maximum-score-of-non-overlapping-intervals/3414-maximum-score-of-non-overlapping-intervals.py",
           "sha": "89f040910f1b2e01024e0b87937740295ebfe7c9",
-          "lastSyncedAt": "2026-09-24T16:49:01.627Z"
+          "lastSyncedAt": "2026-09-25T16:53:51.991Z"
         }
       ]
     },
