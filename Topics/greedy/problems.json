@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-24T16:54:26.503Z",
+  "updatedAt": "2026-09-25T16:53:03.182Z",
   "problems": [
     {
       "frontendId": "1386",
@@ -42,7 +42,7 @@
           "filename": "1520-maximum-number-of-non-overlapping-substrings.py",
           "path": "1520-maximum-number-of-non-overlapping-substrings/1520-maximum-number-of-non-overlapping-substrings.py",
           "sha": "f5320d944797bd7e0a2e875b3304a360f08bacbd",
-          "lastSyncedAt": "2026-09-24T16:48:14.327Z"
+          "lastSyncedAt": "2026-09-25T16:53:03.182Z"
         }
       ]
     },
