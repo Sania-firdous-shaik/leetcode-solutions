@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T16:55:23.539Z",
+  "updatedAt": "2026-09-25T16:51:50.351Z",
   "problems": [
     {
       "frontendId": "332",
@@ -23,6 +23,26 @@
           "path": "0332-reconstruct-itinerary/0332-reconstruct-itinerary.py",
           "sha": "96db687df8a2381e38752b4eb484587f59310bcc",
           "lastSyncedAt": "2026-09-24T16:55:23.539Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1096",
+      "title": "Brace Expansion II",
+      "slug": "brace-expansion-ii",
+      "problemName": "1096-brace-expansion-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/brace-expansion-ii/",
+      "folderPath": "1096-brace-expansion-ii/",
+      "readmePath": "1096-brace-expansion-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1096-brace-expansion-ii.py",
+          "path": "1096-brace-expansion-ii/1096-brace-expansion-ii.py",
+          "sha": "69cd0b04c580b12228176905dbb0f3682bae1508",
+          "lastSyncedAt": "2026-09-25T16:51:50.351Z"
         }
       ]
     },
