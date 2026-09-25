@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-25T16:52:41.873Z",
+  "updatedAt": "2026-09-25T16:52:56.498Z",
   "problems": [
     {
       "frontendId": "836",
@@ -42,7 +42,7 @@
           "filename": "1401-circle-and-rectangle-overlapping.py",
           "path": "1401-circle-and-rectangle-overlapping/1401-circle-and-rectangle-overlapping.py",
           "sha": "dd409ca06b47fe59d9775f0dd986bdfbd85cdbac",
-          "lastSyncedAt": "2026-09-24T16:48:08.347Z"
+          "lastSyncedAt": "2026-09-25T16:52:56.498Z"
         }
       ]
     },
