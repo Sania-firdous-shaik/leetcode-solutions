@@ -4,8 +4,28 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-09-24T16:50:17.877Z",
+  "updatedAt": "2026-09-25T16:51:50.351Z",
   "problems": [
+    {
+      "frontendId": "1096",
+      "title": "Brace Expansion II",
+      "slug": "brace-expansion-ii",
+      "problemName": "1096-brace-expansion-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/brace-expansion-ii/",
+      "folderPath": "1096-brace-expansion-ii/",
+      "readmePath": "1096-brace-expansion-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1096-brace-expansion-ii.py",
+          "path": "1096-brace-expansion-ii/1096-brace-expansion-ii.py",
+          "sha": "69cd0b04c580b12228176905dbb0f3682bae1508",
+          "lastSyncedAt": "2026-09-25T16:51:50.351Z"
+        }
+      ]
+    },
     {
       "frontendId": "3568",
       "title": "Minimum Moves to Clean the Classroom",
