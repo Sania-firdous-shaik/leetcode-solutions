@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-25T16:51:50.351Z",
+  "updatedAt": "2026-09-25T16:52:20.330Z",
   "problems": [
     {
       "frontendId": "187",
@@ -122,7 +122,7 @@
           "filename": "1658-minimum-operations-to-reduce-x-to-zero.py",
           "path": "1658-minimum-operations-to-reduce-x-to-zero/1658-minimum-operations-to-reduce-x-to-zero.py",
           "sha": "a3326e4c0165fc0a8d795992a0389120f13be798",
-          "lastSyncedAt": "2026-09-24T16:47:33.367Z"
+          "lastSyncedAt": "2026-09-25T16:52:20.330Z"
         }
       ]
     },
