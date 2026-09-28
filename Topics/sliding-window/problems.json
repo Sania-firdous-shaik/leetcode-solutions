@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-09-28T17:49:08.267Z",
+  "updatedAt": "2026-09-28T17:51:16.108Z",
   "problems": [
     {
       "frontendId": "187",
@@ -82,7 +82,7 @@
           "filename": "2904-shortest-and-lexicographically-smallest-beautiful-string.py",
           "path": "2904-shortest-and-lexicographically-smallest-beautiful-string/2904-shortest-and-lexicographically-smallest-beautiful-string.py",
           "sha": "78b0a6bab4d8df7945496e17d4da3e1df1964d55",
-          "lastSyncedAt": "2026-09-28T17:44:11.251Z"
+          "lastSyncedAt": "2026-09-28T17:51:16.108Z"
         }
       ]
     }
