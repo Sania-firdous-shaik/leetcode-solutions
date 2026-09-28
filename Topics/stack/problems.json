@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-09-28T17:40:58.491Z",
+  "updatedAt": "2026-09-28T17:41:04.314Z",
   "problems": [
     {
       "frontendId": "1096",
@@ -42,7 +42,7 @@
           "filename": "1190-reverse-substrings-between-each-pair-of-parentheses.py",
           "path": "1190-reverse-substrings-between-each-pair-of-parentheses/1190-reverse-substrings-between-each-pair-of-parentheses.py",
           "sha": "8d1c70b8e53bd7f78fc662fbb3d302601d199291",
-          "lastSyncedAt": "2026-09-28T17:35:30.695Z"
+          "lastSyncedAt": "2026-09-28T17:41:04.314Z"
         }
       ]
     },
