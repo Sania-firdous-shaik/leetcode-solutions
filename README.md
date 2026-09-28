@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 25 | 7 | 13 | 5 |
+| 53 | 14 | 24 | 15 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 8 days | 8 days | 21 |
+| 2 days | 8 days | 34 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-09 | 3 |
-| 2026-09-10 | 1 |
 | 2026-09-11 | 1 |
 | 2026-09-12 | 1 |
 | 2026-09-13 | 1 |
@@ -29,51 +27,75 @@ Contains topicwise list of solved problems.
 | 2026-09-21 | 1 |
 | 2026-09-22 | 1 |
 | 2026-09-23 | 1 |
+| 2026-09-27 | 1 |
+| 2026-09-28 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 14 | 56% |
-| Math | 9 | 36% |
-| Dynamic Programming | 6 | 24% |
-| Hash Table | 6 | 24% |
-| Prefix Sum | 4 | 16% |
-| String | 4 | 16% |
-| Binary Search | 3 | 12% |
-| Geometry | 2 | 8% |
-| Greedy | 2 | 8% |
-| Matrix | 2 | 8% |
+| Array | 30 | 57% |
+| Math | 16 | 30% |
+| String | 16 | 30% |
+| Hash Table | 12 | 23% |
+| Dynamic Programming | 10 | 19% |
+| Greedy | 8 | 15% |
+| Matrix | 8 | 15% |
+| Prefix Sum | 8 | 15% |
+| Bit Manipulation | 5 | 9% |
+| Binary Search | 4 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 15 |
-| [Binary Search](Topics/binary-search/) | 3 |
+| [Array](Topics/array/) | 34 |
+| [Backtracking](Topics/backtracking/) | 2 |
+| [Binary Search](Topics/binary-search/) | 4 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 1 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 1 |
-| [Combinatorics](Topics/combinatorics/) | 1 |
-| [Depth-First Search](Topics/depth-first-search/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 6 |
-| [Enumeration](Topics/enumeration/) | 2 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 5 |
+| [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 2 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 2 |
+| [Combinatorics](Topics/combinatorics/) | 2 |
+| [Counting](Topics/counting/) | 2 |
+| [Depth-First Search](Topics/depth-first-search/) | 2 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 10 |
+| [Enumeration](Topics/enumeration/) | 5 |
+| [Eulerian Circuit](Topics/eulerian-circuit/) | 1 |
+| [Eulerian Path](Topics/eulerian-path/) | 1 |
+| [Game Theory](Topics/game-theory/) | 4 |
 | [Geometry](Topics/geometry/) | 2 |
-| [Greedy](Topics/greedy/) | 2 |
-| [Hash Table](Topics/hash-table/) | 6 |
-| [Linked List](Topics/linked-list/) | 1 |
-| [Math](Topics/math/) | 9 |
-| [Matrix](Topics/matrix/) | 2 |
-| [Prefix Sum](Topics/prefix-sum/) | 4 |
+| [Graph Theory](Topics/graph/) | 1 |
+| [Greedy](Topics/greedy/) | 8 |
+| [Hash Function](Topics/hash-function/) | 2 |
+| [Hash Table](Topics/hash-table/) | 14 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
+| [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
+| [Linked List](Topics/linked-list/) | 2 |
+| [Manacher](Topics/manacher/) | 1 |
+| [Math](Topics/math/) | 17 |
+| [Matrix](Topics/matrix/) | 8 |
+| [Minimax](Topics/minimax-algorithm/) | 2 |
+| [Nim Game](Topics/nim-game/) | 1 |
+| [Number Theory](Topics/number-theory/) | 1 |
+| [Prefix Sum](Topics/prefix-sum/) | 8 |
 | [Recursion](Topics/recursion/) | 1 |
+| [Rolling Hash](Topics/rolling-hash/) | 2 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
-| [Simulation](Topics/simulation/) | 1 |
-| [Sliding Window](Topics/sliding-window/) | 2 |
-| [Sorting](Topics/sorting/) | 3 |
-| [String](Topics/string/) | 5 |
+| [Semi-Eulerian Graph](Topics/semi-eulerian-graph/) | 1 |
+| [Simulation](Topics/simulation/) | 4 |
+| [Sliding Window](Topics/sliding-window/) | 4 |
+| [Sorting](Topics/sorting/) | 7 |
+| [Stack](Topics/stack/) | 4 |
+| [String](Topics/string/) | 20 |
+| [String Matching](Topics/string-matching/) | 3 |
 | [Tree](Topics/tree/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 1 |
-| [Union-Find](Topics/union-find/) | 1 |
+| [Trie](Topics/trie/) | 1 |
+| [Two Pointers](Topics/two-pointers/) | 2 |
+| [Union-Find](Topics/union-find/) | 2 |
+| [Z Algorithm](Topics/z-algorithm/) | 2 |
+| [Zero-Sum Game](Topics/zero-sum-game/) | 2 |
 <!---LeetHub Summary End-->
 
 <!---LeetCode Topics Start-->
