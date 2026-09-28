@@ -4,8 +4,28 @@
     "slug": "geometry",
     "name": "Geometry"
   },
-  "updatedAt": "2026-09-28T17:49:25.083Z",
+  "updatedAt": "2026-09-28T17:55:19.763Z",
   "problems": [
+    {
+      "frontendId": "391",
+      "title": "Perfect Rectangle",
+      "slug": "perfect-rectangle",
+      "problemName": "0391-perfect-rectangle",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/perfect-rectangle/",
+      "folderPath": "0391-perfect-rectangle/",
+      "readmePath": "0391-perfect-rectangle/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0391-perfect-rectangle.py",
+          "path": "0391-perfect-rectangle/0391-perfect-rectangle.py",
+          "sha": "47c3ed9c1bcf40a4f4d342207a3a596d6c3a5717",
+          "lastSyncedAt": "2026-09-28T17:55:19.763Z"
+        }
+      ]
+    },
     {
       "frontendId": "836",
       "title": "Rectangle Overlap",
