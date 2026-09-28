@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-28T17:54:58.973Z",
+  "updatedAt": "2026-09-28T17:55:19.763Z",
   "problems": [
     {
       "frontendId": "60",
@@ -23,6 +23,26 @@
           "path": "0060-permutation-sequence/0060-permutation-sequence.py",
           "sha": "672b9426716fae2c23a4f49eb8d471f85620d710",
           "lastSyncedAt": "2026-09-28T17:54:58.973Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "391",
+      "title": "Perfect Rectangle",
+      "slug": "perfect-rectangle",
+      "problemName": "0391-perfect-rectangle",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/perfect-rectangle/",
+      "folderPath": "0391-perfect-rectangle/",
+      "readmePath": "0391-perfect-rectangle/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0391-perfect-rectangle.py",
+          "path": "0391-perfect-rectangle/0391-perfect-rectangle.py",
+          "sha": "47c3ed9c1bcf40a4f4d342207a3a596d6c3a5717",
+          "lastSyncedAt": "2026-09-28T17:55:19.763Z"
         }
       ]
     },
