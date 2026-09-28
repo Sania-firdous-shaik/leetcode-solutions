@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-28T17:41:17.518Z",
+  "updatedAt": "2026-09-28T17:42:02.984Z",
   "problems": [
     {
       "frontendId": "332",
@@ -62,7 +62,7 @@
           "filename": "1520-maximum-number-of-non-overlapping-substrings.py",
           "path": "1520-maximum-number-of-non-overlapping-substrings/1520-maximum-number-of-non-overlapping-substrings.py",
           "sha": "f5320d944797bd7e0a2e875b3304a360f08bacbd",
-          "lastSyncedAt": "2026-09-28T17:36:33.800Z"
+          "lastSyncedAt": "2026-09-28T17:42:02.984Z"
         }
       ]
     },
