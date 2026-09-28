@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-28T17:43:48.662Z",
+  "updatedAt": "2026-09-28T17:44:52.435Z",
   "problems": [
     {
       "frontendId": "332",
@@ -82,7 +82,7 @@
           "filename": "2751-robot-collisions.py",
           "path": "2751-robot-collisions/2751-robot-collisions.py",
           "sha": "c8a4786ca508ef0aff958cbb4902f037c2b4c3f9",
-          "lastSyncedAt": "2026-09-28T17:39:31.515Z"
+          "lastSyncedAt": "2026-09-28T17:44:52.435Z"
         }
       ]
     },
