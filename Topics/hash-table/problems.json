@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-28T17:55:05.847Z",
+  "updatedAt": "2026-09-28T17:55:19.763Z",
   "problems": [
     {
       "frontendId": "187",
@@ -23,6 +23,26 @@
           "path": "0187-repeated-dna-sequences/0187-repeated-dna-sequences.py",
           "sha": "af986a5c6eb2db33f492f61deb7634b2f37e2a28",
           "lastSyncedAt": "2026-09-28T17:53:09.751Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "391",
+      "title": "Perfect Rectangle",
+      "slug": "perfect-rectangle",
+      "problemName": "0391-perfect-rectangle",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/perfect-rectangle/",
+      "folderPath": "0391-perfect-rectangle/",
+      "readmePath": "0391-perfect-rectangle/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0391-perfect-rectangle.py",
+          "path": "0391-perfect-rectangle/0391-perfect-rectangle.py",
+          "sha": "47c3ed9c1bcf40a4f4d342207a3a596d6c3a5717",
+          "lastSyncedAt": "2026-09-28T17:55:19.763Z"
         }
       ]
     },
