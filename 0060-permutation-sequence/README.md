@@ -25,7 +25,7 @@
 <strong>Output:</strong> "123"
 </pre>
 <p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+<p><strong>Constraints : </strong></p>
 
 <ul>
 	<li><code>1 &lt;= n &lt;= 9</code></li>
