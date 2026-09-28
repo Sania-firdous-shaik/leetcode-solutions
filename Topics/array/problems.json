@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-28T17:37:17.482Z",
+  "updatedAt": "2026-09-28T17:37:36.657Z",
   "problems": [
     {
       "frontendId": "212",
@@ -582,7 +582,7 @@
           "filename": "3718-smallest-missing-multiple-of-k.py",
           "path": "3718-smallest-missing-multiple-of-k/3718-smallest-missing-multiple-of-k.py",
           "sha": "295cd0ea8d6af16a4ea28229b53d2fef1b7a1d28",
-          "lastSyncedAt": "2026-09-24T16:49:32.271Z"
+          "lastSyncedAt": "2026-09-28T17:37:36.657Z"
         }
       ]
     },
