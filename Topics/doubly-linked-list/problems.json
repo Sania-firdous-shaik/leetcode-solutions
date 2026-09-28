@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "doubly-linked-list",
+    "name": "Doubly-Linked List"
+  },
+  "updatedAt": "2026-09-28T17:55:05.847Z",
+  "problems": [
+    {
+      "frontendId": "432",
+      "title": "All O`one Data Structure",
+      "slug": "all-oone-data-structure",
+      "problemName": "0432-all-oone-data-structure",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/all-oone-data-structure/",
+      "folderPath": "0432-all-oone-data-structure/",
+      "readmePath": "0432-all-oone-data-structure/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0432-all-oone-data-structure.py",
+          "path": "0432-all-oone-data-structure/0432-all-oone-data-structure.py",
+          "sha": "f8579bac691245e050220646d2e88c7c66c78a14",
+          "lastSyncedAt": "2026-09-28T17:55:05.847Z"
+        }
+      ]
+    }
+  ]
+}
