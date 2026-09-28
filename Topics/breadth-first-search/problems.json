@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-09-28T17:41:17.518Z",
+  "updatedAt": "2026-09-28T17:43:35.929Z",
   "problems": [
     {
       "frontendId": "1096",
@@ -42,7 +42,7 @@
           "filename": "3568-minimum-moves-to-clean-the-classroom.py",
           "path": "3568-minimum-moves-to-clean-the-classroom/3568-minimum-moves-to-clean-the-classroom.py",
           "sha": "4e6066918e4ecd6352b40cc2f1f464d4217656ea",
-          "lastSyncedAt": "2026-09-28T17:38:14.412Z"
+          "lastSyncedAt": "2026-09-28T17:43:35.929Z"
         }
       ]
     }
