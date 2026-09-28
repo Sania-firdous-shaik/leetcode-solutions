@@ -4,7 +4,7 @@
     "slug": "union-find",
     "name": "Union-Find"
   },
-  "updatedAt": "2026-09-28T17:50:53.188Z",
+  "updatedAt": "2026-09-28T17:52:09.618Z",
   "problems": [
     {
       "frontendId": "2573",
@@ -22,7 +22,7 @@
           "filename": "2573-find-the-string-with-lcp.py",
           "path": "2573-find-the-string-with-lcp/2573-find-the-string-with-lcp.py",
           "sha": "ce5a8b30c7eb9efecc77e90fab9cbe53759ab45a",
-          "lastSyncedAt": "2026-09-28T17:45:06.946Z"
+          "lastSyncedAt": "2026-09-28T17:52:09.618Z"
         }
       ]
     },
