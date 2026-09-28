@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-28T17:51:44.513Z",
+  "updatedAt": "2026-09-28T17:52:54.946Z",
   "problems": [
     {
       "frontendId": "187",
@@ -42,7 +42,7 @@
           "filename": "1386-cinema-seat-allocation.py",
           "path": "1386-cinema-seat-allocation/1386-cinema-seat-allocation.py",
           "sha": "4a23aa1684b25010fd7875488ec59f9647673281",
-          "lastSyncedAt": "2026-09-28T17:45:52.235Z"
+          "lastSyncedAt": "2026-09-28T17:52:54.946Z"
         }
       ]
     },
