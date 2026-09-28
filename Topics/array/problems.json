@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-28T17:46:28.067Z",
+  "updatedAt": "2026-09-28T17:46:36.322Z",
   "problems": [
     {
       "frontendId": "212",
@@ -602,7 +602,7 @@
           "filename": "3731-find-missing-elements.py",
           "path": "3731-find-missing-elements/3731-find-missing-elements.py",
           "sha": "2a841866537159659fa153925103e733042f5d5e",
-          "lastSyncedAt": "2026-09-24T16:54:17.761Z"
+          "lastSyncedAt": "2026-09-28T17:46:36.322Z"
         }
       ]
     },
