@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-28T17:41:10.341Z",
+  "updatedAt": "2026-09-28T17:41:17.518Z",
   "problems": [
     {
       "frontendId": "115",
@@ -182,7 +182,7 @@
           "filename": "1096-brace-expansion-ii.py",
           "path": "1096-brace-expansion-ii/1096-brace-expansion-ii.py",
           "sha": "69cd0b04c580b12228176905dbb0f3682bae1508",
-          "lastSyncedAt": "2026-09-28T17:35:41.875Z"
+          "lastSyncedAt": "2026-09-28T17:41:17.518Z"
         }
       ]
     },
