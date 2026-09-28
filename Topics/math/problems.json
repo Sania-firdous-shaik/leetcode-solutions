@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-28T17:44:31.617Z",
+  "updatedAt": "2026-09-28T17:44:38.651Z",
   "problems": [
     {
       "frontendId": "836",
@@ -262,7 +262,7 @@
           "filename": "3622-check-divisibility-by-digit-sum-and-product.py",
           "path": "3622-check-divisibility-by-digit-sum-and-product/3622-check-divisibility-by-digit-sum-and-product.py",
           "sha": "07c2d2af4b0f01c1e7da33439769ca003cb09dea",
-          "lastSyncedAt": "2026-09-28T17:39:18.076Z"
+          "lastSyncedAt": "2026-09-28T17:44:38.651Z"
         }
       ]
     },
