@@ -4,8 +4,28 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-09-28T17:49:41.888Z",
+  "updatedAt": "2026-09-28T17:54:58.973Z",
   "problems": [
+    {
+      "frontendId": "60",
+      "title": "Permutation Sequence",
+      "slug": "permutation-sequence",
+      "problemName": "0060-permutation-sequence",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/permutation-sequence/",
+      "folderPath": "0060-permutation-sequence/",
+      "readmePath": "0060-permutation-sequence/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0060-permutation-sequence.py",
+          "path": "0060-permutation-sequence/0060-permutation-sequence.py",
+          "sha": "672b9426716fae2c23a4f49eb8d471f85620d710",
+          "lastSyncedAt": "2026-09-28T17:54:58.973Z"
+        }
+      ]
+    },
     {
       "frontendId": "3483",
       "title": "Unique 3-Digit Even Numbers",
