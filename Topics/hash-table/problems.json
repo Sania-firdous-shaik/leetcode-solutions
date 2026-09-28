@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-28T17:53:36.953Z",
+  "updatedAt": "2026-09-28T17:55:05.847Z",
   "problems": [
     {
       "frontendId": "187",
@@ -23,6 +23,26 @@
           "path": "0187-repeated-dna-sequences/0187-repeated-dna-sequences.py",
           "sha": "af986a5c6eb2db33f492f61deb7634b2f37e2a28",
           "lastSyncedAt": "2026-09-28T17:53:09.751Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "432",
+      "title": "All O`one Data Structure",
+      "slug": "all-oone-data-structure",
+      "problemName": "0432-all-oone-data-structure",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/all-oone-data-structure/",
+      "folderPath": "0432-all-oone-data-structure/",
+      "readmePath": "0432-all-oone-data-structure/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0432-all-oone-data-structure.py",
+          "path": "0432-all-oone-data-structure/0432-all-oone-data-structure.py",
+          "sha": "f8579bac691245e050220646d2e88c7c66c78a14",
+          "lastSyncedAt": "2026-09-28T17:55:05.847Z"
         }
       ]
     },
