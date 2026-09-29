@@ -4,7 +4,7 @@
     "slug": "doubly-linked-list",
     "name": "Doubly-Linked List"
   },
-  "updatedAt": "2026-09-28T17:55:05.847Z",
+  "updatedAt": "2026-09-29T16:41:58.283Z",
   "problems": [
     {
       "frontendId": "432",
@@ -22,7 +22,7 @@
           "filename": "0432-all-oone-data-structure.py",
           "path": "0432-all-oone-data-structure/0432-all-oone-data-structure.py",
           "sha": "f8579bac691245e050220646d2e88c7c66c78a14",
-          "lastSyncedAt": "2026-09-28T17:55:05.847Z"
+          "lastSyncedAt": "2026-09-29T16:41:58.283Z"
         }
       ]
     }
