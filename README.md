@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 53 | 14 | 24 | 15 |
+| 57 | 14 | 24 | 19 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 8 days | 34 |
+| 3 days | 8 days | 36 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-11 | 1 |
 | 2026-09-12 | 1 |
 | 2026-09-13 | 1 |
 | 2026-09-14 | 1 |
@@ -29,58 +28,61 @@ Contains topicwise list of solved problems.
 | 2026-09-23 | 1 |
 | 2026-09-27 | 1 |
 | 2026-09-28 | 1 |
+| 2026-09-29 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 30 | 57% |
-| Math | 16 | 30% |
-| String | 16 | 30% |
-| Hash Table | 12 | 23% |
-| Dynamic Programming | 10 | 19% |
-| Greedy | 8 | 15% |
-| Matrix | 8 | 15% |
-| Prefix Sum | 8 | 15% |
+| Array | 32 | 56% |
+| Math | 18 | 32% |
+| String | 16 | 28% |
+| Hash Table | 14 | 25% |
+| Dynamic Programming | 11 | 19% |
+| Matrix | 9 | 16% |
+| Greedy | 8 | 14% |
+| Prefix Sum | 8 | 14% |
 | Bit Manipulation | 5 | 9% |
-| Binary Search | 4 | 8% |
+| Binary Search | 4 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 34 |
+| [Array](Topics/array/) | 37 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Search](Topics/binary-search/) | 4 |
 | [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 5 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 2 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 3 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 2 |
 | [Combinatorics](Topics/combinatorics/) | 2 |
 | [Counting](Topics/counting/) | 2 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 10 |
+| [Design](Topics/design/) | 1 |
+| [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 11 |
 | [Enumeration](Topics/enumeration/) | 5 |
 | [Eulerian Circuit](Topics/eulerian-circuit/) | 1 |
 | [Eulerian Path](Topics/eulerian-path/) | 1 |
 | [Game Theory](Topics/game-theory/) | 4 |
-| [Geometry](Topics/geometry/) | 2 |
+| [Geometry](Topics/geometry/) | 3 |
 | [Graph Theory](Topics/graph/) | 1 |
 | [Greedy](Topics/greedy/) | 8 |
 | [Hash Function](Topics/hash-function/) | 2 |
-| [Hash Table](Topics/hash-table/) | 14 |
+| [Hash Table](Topics/hash-table/) | 17 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 2 |
+| [Linked List](Topics/linked-list/) | 3 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 17 |
-| [Matrix](Topics/matrix/) | 8 |
+| [Math](Topics/math/) | 19 |
+| [Matrix](Topics/matrix/) | 9 |
 | [Minimax](Topics/minimax-algorithm/) | 2 |
 | [Nim Game](Topics/nim-game/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 8 |
-| [Recursion](Topics/recursion/) | 1 |
+| [Recursion](Topics/recursion/) | 2 |
 | [Rolling Hash](Topics/rolling-hash/) | 2 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Semi-Eulerian Graph](Topics/semi-eulerian-graph/) | 1 |
@@ -90,6 +92,7 @@ Contains topicwise list of solved problems.
 | [Stack](Topics/stack/) | 4 |
 | [String](Topics/string/) | 20 |
 | [String Matching](Topics/string-matching/) | 3 |
+| [Sweep Line](Topics/sweep-line/) | 1 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 2 |
