@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T16:45:36.683Z",
+  "updatedAt": "2026-09-29T16:45:49.280Z",
   "problems": [
     {
       "frontendId": "4",
@@ -263,6 +263,26 @@
           "path": "0391-perfect-rectangle/0391-perfect-rectangle.py",
           "sha": "47c3ed9c1bcf40a4f4d342207a3a596d6c3a5717",
           "lastSyncedAt": "2026-09-29T16:42:09.028Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "518",
+      "title": "Coin Change II",
+      "slug": "coin-change-ii",
+      "problemName": "0518-coin-change-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/coin-change-ii/",
+      "folderPath": "0518-coin-change-ii/",
+      "readmePath": "0518-coin-change-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0518-coin-change-ii.py",
+          "path": "0518-coin-change-ii/0518-coin-change-ii.py",
+          "sha": "be322a632435b2e4a231c3e5f1252a026c935556",
+          "lastSyncedAt": "2026-09-29T16:45:49.280Z"
         }
       ]
     },
