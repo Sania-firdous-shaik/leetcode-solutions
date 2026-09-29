@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T16:42:21.872Z",
+  "updatedAt": "2026-09-29T16:42:47.145Z",
   "problems": [
+    {
+      "frontendId": "40",
+      "title": "Combination Sum II",
+      "slug": "combination-sum-ii",
+      "problemName": "0040-combination-sum-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/combination-sum-ii/",
+      "folderPath": "0040-combination-sum-ii/",
+      "readmePath": "0040-combination-sum-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0040-combination-sum-ii.py",
+          "path": "0040-combination-sum-ii/0040-combination-sum-ii.py",
+          "sha": "2e024fb59cf09d7c24908ec345bca5e093e40954",
+          "lastSyncedAt": "2026-09-29T16:42:47.145Z"
+        }
+      ]
+    },
     {
       "frontendId": "212",
       "title": "Word Search II",
