@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-29T16:45:26.987Z",
+  "updatedAt": "2026-09-29T16:46:38.680Z",
   "problems": [
     {
       "frontendId": "30",
@@ -163,6 +163,26 @@
           "path": "0187-repeated-dna-sequences/0187-repeated-dna-sequences.py",
           "sha": "af986a5c6eb2db33f492f61deb7634b2f37e2a28",
           "lastSyncedAt": "2026-09-29T16:40:05.438Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "217",
+      "title": "Contains Duplicate",
+      "slug": "contains-duplicate",
+      "problemName": "0217-contains-duplicate",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate/",
+      "folderPath": "0217-contains-duplicate/",
+      "readmePath": "0217-contains-duplicate/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0217-contains-duplicate.py",
+          "path": "0217-contains-duplicate/0217-contains-duplicate.py",
+          "sha": "b83539f7d196880beef172ee65cbaf5f7dc299b3",
+          "lastSyncedAt": "2026-09-29T16:46:38.680Z"
         }
       ]
     },
