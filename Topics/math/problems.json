@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-29T16:35:23.168Z",
+  "updatedAt": "2026-09-29T16:35:44.577Z",
   "problems": [
     {
       "frontendId": "60",
@@ -122,7 +122,7 @@
           "filename": "1621-number-of-sets-of-k-non-overlapping-line-segments.py",
           "path": "1621-number-of-sets-of-k-non-overlapping-line-segments/1621-number-of-sets-of-k-non-overlapping-line-segments.py",
           "sha": "3046ef18518d0cbc4cc75095695f1c697bf07073",
-          "lastSyncedAt": "2026-09-28T17:49:17.415Z"
+          "lastSyncedAt": "2026-09-29T16:35:44.577Z"
         }
       ]
     },
