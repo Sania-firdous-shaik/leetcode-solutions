@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-09-28T17:50:33.941Z",
+  "updatedAt": "2026-09-29T16:34:35.882Z",
   "problems": [
     {
       "frontendId": "1096",
@@ -22,7 +22,7 @@
           "filename": "1096-brace-expansion-ii.py",
           "path": "1096-brace-expansion-ii/1096-brace-expansion-ii.py",
           "sha": "69cd0b04c580b12228176905dbb0f3682bae1508",
-          "lastSyncedAt": "2026-09-28T17:48:11.421Z"
+          "lastSyncedAt": "2026-09-29T16:34:35.882Z"
         }
       ]
     },
