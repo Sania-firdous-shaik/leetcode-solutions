@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-29T16:45:49.280Z",
+  "updatedAt": "2026-09-29T16:46:04.278Z",
   "problems": [
     {
       "frontendId": "115",
@@ -103,6 +103,26 @@
           "path": "0542-01-matrix/0542-01-matrix.py",
           "sha": "1972b1216fadbba706d731caf91dc3c4fa50ab19",
           "lastSyncedAt": "2026-09-29T16:45:36.683Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "629",
+      "title": "K Inverse Pairs Array",
+      "slug": "k-inverse-pairs-array",
+      "problemName": "0629-k-inverse-pairs-array",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/k-inverse-pairs-array/",
+      "folderPath": "0629-k-inverse-pairs-array/",
+      "readmePath": "0629-k-inverse-pairs-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0629-k-inverse-pairs-array.py",
+          "path": "0629-k-inverse-pairs-array/0629-k-inverse-pairs-array.py",
+          "sha": "f6fd486127851fc386eec4b14ee63df88a3d8aae",
+          "lastSyncedAt": "2026-09-29T16:46:04.278Z"
         }
       ]
     },
