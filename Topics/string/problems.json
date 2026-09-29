@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-29T16:34:16.518Z",
+  "updatedAt": "2026-09-29T16:34:22.775Z",
   "problems": [
     {
       "frontendId": "115",
@@ -202,7 +202,7 @@
           "filename": "1190-reverse-substrings-between-each-pair-of-parentheses.py",
           "path": "1190-reverse-substrings-between-each-pair-of-parentheses/1190-reverse-substrings-between-each-pair-of-parentheses.py",
           "sha": "8d1c70b8e53bd7f78fc662fbb3d302601d199291",
-          "lastSyncedAt": "2026-09-28T17:47:58.760Z"
+          "lastSyncedAt": "2026-09-29T16:34:22.775Z"
         }
       ]
     },
