@@ -4,8 +4,28 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-29T16:45:26.987Z",
+  "updatedAt": "2026-09-29T16:46:38.680Z",
   "problems": [
+    {
+      "frontendId": "217",
+      "title": "Contains Duplicate",
+      "slug": "contains-duplicate",
+      "problemName": "0217-contains-duplicate",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate/",
+      "folderPath": "0217-contains-duplicate/",
+      "readmePath": "0217-contains-duplicate/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0217-contains-duplicate.py",
+          "path": "0217-contains-duplicate/0217-contains-duplicate.py",
+          "sha": "b83539f7d196880beef172ee65cbaf5f7dc299b3",
+          "lastSyncedAt": "2026-09-29T16:46:38.680Z"
+        }
+      ]
+    },
     {
       "frontendId": "332",
       "title": "Reconstruct Itinerary",
