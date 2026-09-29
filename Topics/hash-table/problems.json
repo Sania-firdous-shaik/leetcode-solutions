@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-29T16:44:00.004Z",
+  "updatedAt": "2026-09-29T16:44:16.994Z",
   "problems": [
     {
       "frontendId": "37",
@@ -263,6 +263,26 @@
           "path": "1807-evaluate-the-bracket-pairs-of-a-string/1807-evaluate-the-bracket-pairs-of-a-string.py",
           "sha": "417a4f8288dd82fddafeb771db04d2d1e4d27c98",
           "lastSyncedAt": "2026-09-29T16:34:28.510Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2958",
+      "title": "Length of Longest Subarray With at Most K Frequency",
+      "slug": "length-of-longest-subarray-with-at-most-k-frequency",
+      "problemName": "2958-length-of-longest-subarray-with-at-most-k-frequency",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/",
+      "folderPath": "2958-length-of-longest-subarray-with-at-most-k-frequency/",
+      "readmePath": "2958-length-of-longest-subarray-with-at-most-k-frequency/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2958-length-of-longest-subarray-with-at-most-k-frequency.py",
+          "path": "2958-length-of-longest-subarray-with-at-most-k-frequency/2958-length-of-longest-subarray-with-at-most-k-frequency.py",
+          "sha": "85871431a1ffdf5c02399bbd526676eff18ed925",
+          "lastSyncedAt": "2026-09-29T16:44:16.994Z"
         }
       ]
     },
