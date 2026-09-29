@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T16:44:00.004Z",
+  "updatedAt": "2026-09-29T16:44:16.994Z",
   "problems": [
     {
       "frontendId": "4",
@@ -523,6 +523,26 @@
           "path": "2948-make-lexicographically-smallest-array-by-swapping-elements/2948-make-lexicographically-smallest-array-by-swapping-elements.py",
           "sha": "1f6677d22ba4f03de0c8d4c1a38c1d0e6203b2b4",
           "lastSyncedAt": "2026-09-29T16:37:27.905Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2958",
+      "title": "Length of Longest Subarray With at Most K Frequency",
+      "slug": "length-of-longest-subarray-with-at-most-k-frequency",
+      "problemName": "2958-length-of-longest-subarray-with-at-most-k-frequency",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/",
+      "folderPath": "2958-length-of-longest-subarray-with-at-most-k-frequency/",
+      "readmePath": "2958-length-of-longest-subarray-with-at-most-k-frequency/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2958-length-of-longest-subarray-with-at-most-k-frequency.py",
+          "path": "2958-length-of-longest-subarray-with-at-most-k-frequency/2958-length-of-longest-subarray-with-at-most-k-frequency.py",
+          "sha": "85871431a1ffdf5c02399bbd526676eff18ed925",
+          "lastSyncedAt": "2026-09-29T16:44:16.994Z"
         }
       ]
     },
