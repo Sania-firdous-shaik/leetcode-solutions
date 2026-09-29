@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "complete-knapsack",
+    "name": "Complete Knapsack"
+  },
+  "updatedAt": "2026-09-29T16:45:49.280Z",
+  "problems": [
+    {
+      "frontendId": "518",
+      "title": "Coin Change II",
+      "slug": "coin-change-ii",
+      "problemName": "0518-coin-change-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/coin-change-ii/",
+      "folderPath": "0518-coin-change-ii/",
+      "readmePath": "0518-coin-change-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0518-coin-change-ii.py",
+          "path": "0518-coin-change-ii/0518-coin-change-ii.py",
+          "sha": "be322a632435b2e4a231c3e5f1252a026c935556",
+          "lastSyncedAt": "2026-09-29T16:45:49.280Z"
+        }
+      ]
+    }
+  ]
+}
