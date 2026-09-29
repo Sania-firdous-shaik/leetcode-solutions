@@ -4,8 +4,28 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-29T16:42:55.349Z",
+  "updatedAt": "2026-09-29T16:43:52.148Z",
   "problems": [
+    {
+      "frontendId": "41",
+      "title": "First Missing Positive",
+      "slug": "first-missing-positive",
+      "problemName": "0041-first-missing-positive",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/first-missing-positive/",
+      "folderPath": "0041-first-missing-positive/",
+      "readmePath": "0041-first-missing-positive/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0041-first-missing-positive.py",
+          "path": "0041-first-missing-positive/0041-first-missing-positive.py",
+          "sha": "0445216bc0aaabfda1caa7e91109d9408f58bcb4",
+          "lastSyncedAt": "2026-09-29T16:43:52.148Z"
+        }
+      ]
+    },
     {
       "frontendId": "76",
       "title": "Minimum Window Substring",
