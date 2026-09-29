@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "greatest-common-divisor",
+    "name": "Greatest Common Divisor"
+  },
+  "updatedAt": "2026-09-29T16:44:27.330Z",
+  "problems": [
+    {
+      "frontendId": "149",
+      "title": "Max Points on a Line",
+      "slug": "max-points-on-a-line",
+      "problemName": "0149-max-points-on-a-line",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/max-points-on-a-line/",
+      "folderPath": "0149-max-points-on-a-line/",
+      "readmePath": "0149-max-points-on-a-line/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0149-max-points-on-a-line.py",
+          "path": "0149-max-points-on-a-line/0149-max-points-on-a-line.py",
+          "sha": "8b8a5954fbdfb58b49be122cf15cf66adde26633",
+          "lastSyncedAt": "2026-09-29T16:44:27.330Z"
+        }
+      ]
+    }
+  ]
+}
