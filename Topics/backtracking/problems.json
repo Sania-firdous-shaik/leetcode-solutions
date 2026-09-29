@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-09-29T16:42:47.145Z",
+  "updatedAt": "2026-09-29T16:43:40.387Z",
   "problems": [
     {
       "frontendId": "40",
@@ -23,6 +23,26 @@
           "path": "0040-combination-sum-ii/0040-combination-sum-ii.py",
           "sha": "2e024fb59cf09d7c24908ec345bca5e093e40954",
           "lastSyncedAt": "2026-09-29T16:42:47.145Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "51",
+      "title": "N-Queens",
+      "slug": "n-queens",
+      "problemName": "0051-n-queens",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/n-queens/",
+      "folderPath": "0051-n-queens/",
+      "readmePath": "0051-n-queens/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0051-n-queens.py",
+          "path": "0051-n-queens/0051-n-queens.py",
+          "sha": "3e20f2796c154ca5db97b64c9c46dda590e50a15",
+          "lastSyncedAt": "2026-09-29T16:43:40.387Z"
         }
       ]
     },
