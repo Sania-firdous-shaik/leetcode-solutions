@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-29T16:42:21.872Z",
+  "updatedAt": "2026-09-29T16:42:37.151Z",
   "problems": [
     {
       "frontendId": "187",
@@ -203,6 +203,26 @@
           "path": "1807-evaluate-the-bracket-pairs-of-a-string/1807-evaluate-the-bracket-pairs-of-a-string.py",
           "sha": "417a4f8288dd82fddafeb771db04d2d1e4d27c98",
           "lastSyncedAt": "2026-09-29T16:34:28.510Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3090",
+      "title": "Maximum Length Substring With Two Occurrences",
+      "slug": "maximum-length-substring-with-two-occurrences",
+      "problemName": "3090-maximum-length-substring-with-two-occurrences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/",
+      "folderPath": "3090-maximum-length-substring-with-two-occurrences/",
+      "readmePath": "3090-maximum-length-substring-with-two-occurrences/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3090-maximum-length-substring-with-two-occurrences.py",
+          "path": "3090-maximum-length-substring-with-two-occurrences/3090-maximum-length-substring-with-two-occurrences.py",
+          "sha": "7924760e3274e1f5959c4d855063b9b25f014967",
+          "lastSyncedAt": "2026-09-29T16:42:37.151Z"
         }
       ]
     },
