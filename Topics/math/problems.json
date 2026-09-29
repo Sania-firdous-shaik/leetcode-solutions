@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-29T16:42:09.028Z",
+  "updatedAt": "2026-09-29T16:42:21.872Z",
   "problems": [
     {
       "frontendId": "60",
@@ -23,6 +23,26 @@
           "path": "0060-permutation-sequence/0060-permutation-sequence.py",
           "sha": "672b9426716fae2c23a4f49eb8d471f85620d710",
           "lastSyncedAt": "2026-09-29T16:41:53.166Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "381",
+      "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+      "slug": "insert-delete-getrandom-o1-duplicates-allowed",
+      "problemName": "0381-insert-delete-getrandom-o1-duplicates-allowed",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/",
+      "folderPath": "0381-insert-delete-getrandom-o1-duplicates-allowed/",
+      "readmePath": "0381-insert-delete-getrandom-o1-duplicates-allowed/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0381-insert-delete-getrandom-o1-duplicates-allowed.py",
+          "path": "0381-insert-delete-getrandom-o1-duplicates-allowed/0381-insert-delete-getrandom-o1-duplicates-allowed.py",
+          "sha": "9876c83ff6ec29ef5d3a6579cf3be0bf11159bf8",
+          "lastSyncedAt": "2026-09-29T16:42:21.872Z"
         }
       ]
     },
