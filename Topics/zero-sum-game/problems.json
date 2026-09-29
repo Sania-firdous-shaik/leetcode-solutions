@@ -4,7 +4,7 @@
     "slug": "zero-sum-game",
     "name": "Zero-Sum Game"
   },
-  "updatedAt": "2026-09-28T17:53:42.692Z",
+  "updatedAt": "2026-09-29T16:37:54.441Z",
   "problems": [
     {
       "frontendId": "1872",
@@ -22,7 +22,7 @@
           "filename": "1872-stone-game-viii.py",
           "path": "1872-stone-game-viii/1872-stone-game-viii.py",
           "sha": "eea146e3d129a3b1a22e0334e5a88efd6abbe678",
-          "lastSyncedAt": "2026-09-28T17:51:20.031Z"
+          "lastSyncedAt": "2026-09-29T16:37:54.441Z"
         }
       ]
     },
