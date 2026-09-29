@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-29T16:51:39.646Z",
+  "updatedAt": "2026-09-29T16:52:32.658Z",
   "problems": [
     {
       "frontendId": "115",
@@ -302,7 +302,7 @@
           "filename": "2573-find-the-string-with-lcp.py",
           "path": "2573-find-the-string-with-lcp/2573-find-the-string-with-lcp.py",
           "sha": "ce5a8b30c7eb9efecc77e90fab9cbe53759ab45a",
-          "lastSyncedAt": "2026-09-29T16:38:49.812Z"
+          "lastSyncedAt": "2026-09-29T16:52:32.658Z"
         }
       ]
     },
