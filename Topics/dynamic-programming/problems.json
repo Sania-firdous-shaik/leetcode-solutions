@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-29T16:46:11.554Z",
+  "updatedAt": "2026-09-29T16:46:18.679Z",
   "problems": [
     {
       "frontendId": "115",
@@ -183,6 +183,26 @@
           "path": "1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum.py",
           "sha": "93950a046522c37f1db325c9aa4c795f07ec13c1",
           "lastSyncedAt": "2026-09-29T16:35:34.881Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1510",
+      "title": "Stone Game IV",
+      "slug": "stone-game-iv",
+      "problemName": "1510-stone-game-iv",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-iv/",
+      "folderPath": "1510-stone-game-iv/",
+      "readmePath": "1510-stone-game-iv/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1510-stone-game-iv.py",
+          "path": "1510-stone-game-iv/1510-stone-game-iv.py",
+          "sha": "050fc71c8e7fb141f26e0ad230db7f70dc96caca",
+          "lastSyncedAt": "2026-09-29T16:46:18.679Z"
         }
       ]
     },
