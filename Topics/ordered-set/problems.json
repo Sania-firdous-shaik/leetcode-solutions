@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "ordered-set",
+    "name": "Ordered Set"
+  },
+  "updatedAt": "2026-09-29T16:43:16.927Z",
+  "problems": [
+    {
+      "frontendId": "2213",
+      "title": "Longest Substring of One Repeating Character",
+      "slug": "longest-substring-of-one-repeating-character",
+      "problemName": "2213-longest-substring-of-one-repeating-character",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-of-one-repeating-character/",
+      "folderPath": "2213-longest-substring-of-one-repeating-character/",
+      "readmePath": "2213-longest-substring-of-one-repeating-character/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2213-longest-substring-of-one-repeating-character.py",
+          "path": "2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.py",
+          "sha": "3d498363b1a31bf3aed25cee5a2eab8fa44d1e8a",
+          "lastSyncedAt": "2026-09-29T16:43:16.927Z"
+        }
+      ]
+    }
+  ]
+}
