@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-29T16:48:15.976Z",
+  "updatedAt": "2026-09-29T16:48:27.420Z",
   "problems": [
     {
       "frontendId": "4",
@@ -822,7 +822,7 @@
           "filename": "3525-find-x-value-of-array-ii.py",
           "path": "3525-find-x-value-of-array-ii/3525-find-x-value-of-array-ii.py",
           "sha": "0c42a63415a2fc4b16fd6f71f6011ed4d0ff59ba",
-          "lastSyncedAt": "2026-09-29T16:35:03.163Z"
+          "lastSyncedAt": "2026-09-29T16:48:27.420Z"
         }
       ]
     },
