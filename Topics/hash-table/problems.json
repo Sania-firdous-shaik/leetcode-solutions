@@ -4,8 +4,28 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-29T16:44:47.094Z",
+  "updatedAt": "2026-09-29T16:45:07.546Z",
   "problems": [
+    {
+      "frontendId": "36",
+      "title": "Valid Sudoku",
+      "slug": "valid-sudoku",
+      "problemName": "0036-valid-sudoku",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-sudoku/",
+      "folderPath": "0036-valid-sudoku/",
+      "readmePath": "0036-valid-sudoku/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0036-valid-sudoku.py",
+          "path": "0036-valid-sudoku/0036-valid-sudoku.py",
+          "sha": "c8df7301131a0878cc459b63b0db5f7144d1a38b",
+          "lastSyncedAt": "2026-09-29T16:45:07.546Z"
+        }
+      ]
+    },
     {
       "frontendId": "37",
       "title": "Sudoku Solver",
