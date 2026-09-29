@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-28T17:54:32.941Z",
+  "updatedAt": "2026-09-29T16:34:16.518Z",
   "problems": [
     {
       "frontendId": "115",
@@ -242,7 +242,7 @@
           "filename": "1614-maximum-nesting-depth-of-the-parentheses.py",
           "path": "1614-maximum-nesting-depth-of-the-parentheses/1614-maximum-nesting-depth-of-the-parentheses.py",
           "sha": "ea32dab182ed4ed2502de494b931e8623503d14c",
-          "lastSyncedAt": "2026-09-28T17:47:51.228Z"
+          "lastSyncedAt": "2026-09-29T16:34:16.518Z"
         }
       ]
     },
