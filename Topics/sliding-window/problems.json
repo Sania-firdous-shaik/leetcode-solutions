@@ -4,8 +4,28 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-09-29T16:42:37.151Z",
+  "updatedAt": "2026-09-29T16:42:55.349Z",
   "problems": [
+    {
+      "frontendId": "76",
+      "title": "Minimum Window Substring",
+      "slug": "minimum-window-substring",
+      "problemName": "0076-minimum-window-substring",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-window-substring/",
+      "folderPath": "0076-minimum-window-substring/",
+      "readmePath": "0076-minimum-window-substring/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0076-minimum-window-substring.py",
+          "path": "0076-minimum-window-substring/0076-minimum-window-substring.py",
+          "sha": "5e837a602899decb553d0255e402fa0abfb4a97b",
+          "lastSyncedAt": "2026-09-29T16:42:55.349Z"
+        }
+      ]
+    },
     {
       "frontendId": "187",
       "title": "Repeated DNA Sequences",
