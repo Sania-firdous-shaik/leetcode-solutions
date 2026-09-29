@@ -4,7 +4,7 @@
     "slug": "minimax-algorithm",
     "name": "Minimax"
   },
-  "updatedAt": "2026-09-29T16:46:18.679Z",
+  "updatedAt": "2026-09-29T16:51:39.646Z",
   "problems": [
     {
       "frontendId": "1510",
@@ -42,7 +42,7 @@
           "filename": "1872-stone-game-viii.py",
           "path": "1872-stone-game-viii/1872-stone-game-viii.py",
           "sha": "eea146e3d129a3b1a22e0334e5a88efd6abbe678",
-          "lastSyncedAt": "2026-09-29T16:37:54.441Z"
+          "lastSyncedAt": "2026-09-29T16:51:39.646Z"
         }
       ]
     },
