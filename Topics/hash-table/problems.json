@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-29T16:42:09.028Z",
+  "updatedAt": "2026-09-29T16:42:21.872Z",
   "problems": [
     {
       "frontendId": "187",
@@ -42,7 +42,7 @@
           "filename": "0381-insert-delete-getrandom-o1-duplicates-allowed.py",
           "path": "0381-insert-delete-getrandom-o1-duplicates-allowed/0381-insert-delete-getrandom-o1-duplicates-allowed.py",
           "sha": "9876c83ff6ec29ef5d3a6579cf3be0bf11159bf8",
-          "lastSyncedAt": "2026-09-28T17:55:34.094Z"
+          "lastSyncedAt": "2026-09-29T16:42:21.872Z"
         }
       ]
     },
