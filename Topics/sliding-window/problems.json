@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-09-29T16:40:05.438Z",
+  "updatedAt": "2026-09-29T16:42:37.151Z",
   "problems": [
     {
       "frontendId": "187",
@@ -83,6 +83,26 @@
           "path": "2904-shortest-and-lexicographically-smallest-beautiful-string/2904-shortest-and-lexicographically-smallest-beautiful-string.py",
           "sha": "78b0a6bab4d8df7945496e17d4da3e1df1964d55",
           "lastSyncedAt": "2026-09-29T16:37:50.243Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3090",
+      "title": "Maximum Length Substring With Two Occurrences",
+      "slug": "maximum-length-substring-with-two-occurrences",
+      "problemName": "3090-maximum-length-substring-with-two-occurrences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/",
+      "folderPath": "3090-maximum-length-substring-with-two-occurrences/",
+      "readmePath": "3090-maximum-length-substring-with-two-occurrences/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3090-maximum-length-substring-with-two-occurrences.py",
+          "path": "3090-maximum-length-substring-with-two-occurrences/3090-maximum-length-substring-with-two-occurrences.py",
+          "sha": "7924760e3274e1f5959c4d855063b9b25f014967",
+          "lastSyncedAt": "2026-09-29T16:42:37.151Z"
         }
       ]
     }
