@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-29T16:44:47.094Z",
+  "updatedAt": "2026-09-29T16:45:36.683Z",
   "problems": [
     {
       "frontendId": "115",
@@ -63,6 +63,26 @@
           "path": "0140-word-break-ii/0140-word-break-ii.py",
           "sha": "f3474b2f66128f7ca420181f26f77e149563f192",
           "lastSyncedAt": "2026-09-29T16:44:47.094Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "542",
+      "title": "01 Matrix",
+      "slug": "01-matrix",
+      "problemName": "0542-01-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/01-matrix/",
+      "folderPath": "0542-01-matrix/",
+      "readmePath": "0542-01-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0542-01-matrix.py",
+          "path": "0542-01-matrix/0542-01-matrix.py",
+          "sha": "1972b1216fadbba706d731caf91dc3c4fa50ab19",
+          "lastSyncedAt": "2026-09-29T16:45:36.683Z"
         }
       ]
     },
