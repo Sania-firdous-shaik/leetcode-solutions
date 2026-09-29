@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-29T16:43:16.927Z",
+  "updatedAt": "2026-09-29T16:43:30.612Z",
   "problems": [
+    {
+      "frontendId": "68",
+      "title": "Text Justification",
+      "slug": "text-justification",
+      "problemName": "0068-text-justification",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/text-justification/",
+      "folderPath": "0068-text-justification/",
+      "readmePath": "0068-text-justification/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0068-text-justification.py",
+          "path": "0068-text-justification/0068-text-justification.py",
+          "sha": "f82d09aff3b860d4e0b63402088b0d73fe069f3c",
+          "lastSyncedAt": "2026-09-29T16:43:30.612Z"
+        }
+      ]
+    },
     {
       "frontendId": "76",
       "title": "Minimum Window Substring",
