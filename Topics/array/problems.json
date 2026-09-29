@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-28T17:55:34.094Z",
+  "updatedAt": "2026-09-29T16:33:22.397Z",
   "problems": [
     {
       "frontendId": "212",
@@ -263,6 +263,26 @@
           "path": "2091-removing-minimum-and-maximum-from-array/2091-removing-minimum-and-maximum-from-array.py",
           "sha": "11efc641eb06c3329edb620f39a7b97f474a5caa",
           "lastSyncedAt": "2026-09-28T17:50:43.914Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2267",
+      "title": " Check if There Is a Valid Parentheses String Path",
+      "slug": "check-if-there-is-a-valid-parentheses-string-path",
+      "problemName": "2267-check-if-there-is-a-valid-parentheses-string-path",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/",
+      "folderPath": "2267-check-if-there-is-a-valid-parentheses-string-path/",
+      "readmePath": "2267-check-if-there-is-a-valid-parentheses-string-path/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2267-check-if-there-is-a-valid-parentheses-string-path.py",
+          "path": "2267-check-if-there-is-a-valid-parentheses-string-path/2267-check-if-there-is-a-valid-parentheses-string-path.py",
+          "sha": "4462f68577b4d9705428632ff3104165875f50df",
+          "lastSyncedAt": "2026-09-29T16:33:22.397Z"
         }
       ]
     },
