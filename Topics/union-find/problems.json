@@ -4,7 +4,7 @@
     "slug": "union-find",
     "name": "Union-Find"
   },
-  "updatedAt": "2026-09-30T17:19:29.930Z",
+  "updatedAt": "2026-09-30T17:20:01.067Z",
   "problems": [
     {
       "frontendId": "128",
@@ -83,6 +83,26 @@
           "path": "2948-make-lexicographically-smallest-array-by-swapping-elements/2948-make-lexicographically-smallest-array-by-swapping-elements.py",
           "sha": "1f6677d22ba4f03de0c8d4c1a38c1d0e6203b2b4",
           "lastSyncedAt": "2026-09-30T16:59:51.897Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3532",
+      "title": "Path Existence Queries in a Graph I",
+      "slug": "path-existence-queries-in-a-graph-i",
+      "problemName": "3532-path-existence-queries-in-a-graph-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/path-existence-queries-in-a-graph-i/",
+      "folderPath": "3532-path-existence-queries-in-a-graph-i/",
+      "readmePath": "3532-path-existence-queries-in-a-graph-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3532-path-existence-queries-in-a-graph-i.py",
+          "path": "3532-path-existence-queries-in-a-graph-i/3532-path-existence-queries-in-a-graph-i.py",
+          "sha": "164f79672b5d2045de407ca6963c462252a77b46",
+          "lastSyncedAt": "2026-09-30T17:20:01.067Z"
         }
       ]
     }
