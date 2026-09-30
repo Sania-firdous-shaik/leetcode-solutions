@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-30T17:08:51.785Z",
+  "updatedAt": "2026-09-30T17:09:00.290Z",
   "problems": [
+    {
+      "frontendId": "8",
+      "title": "String to Integer (atoi)",
+      "slug": "string-to-integer-atoi",
+      "problemName": "0008-string-to-integer-atoi",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/string-to-integer-atoi/",
+      "folderPath": "0008-string-to-integer-atoi/",
+      "readmePath": "0008-string-to-integer-atoi/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0008-string-to-integer-atoi.py",
+          "path": "0008-string-to-integer-atoi/0008-string-to-integer-atoi.py",
+          "sha": "e81c3031f184ebb812f12f0d35d1dd1746118daf",
+          "lastSyncedAt": "2026-09-30T17:09:00.290Z"
+        }
+      ]
+    },
     {
       "frontendId": "30",
       "title": "Substring with Concatenation of All Words",
