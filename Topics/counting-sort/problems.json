@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "counting-sort",
+    "name": "Counting Sort"
+  },
+  "updatedAt": "2026-09-30T17:16:10.185Z",
+  "problems": [
+    {
+      "frontendId": "3517",
+      "title": "Smallest Palindromic Rearrangement I",
+      "slug": "smallest-palindromic-rearrangement-i",
+      "problemName": "3517-smallest-palindromic-rearrangement-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-palindromic-rearrangement-i/",
+      "folderPath": "3517-smallest-palindromic-rearrangement-i/",
+      "readmePath": "3517-smallest-palindromic-rearrangement-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3517-smallest-palindromic-rearrangement-i.py",
+          "path": "3517-smallest-palindromic-rearrangement-i/3517-smallest-palindromic-rearrangement-i.py",
+          "sha": "bc2be2e443510b7611b5fc05311a14b0f1a6f1a0",
+          "lastSyncedAt": "2026-09-30T17:16:10.185Z"
+        }
+      ]
+    }
+  ]
+}
