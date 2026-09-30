@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T17:35:24.005Z",
+  "updatedAt": "2026-09-30T17:35:39.893Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2043,6 +2043,26 @@
           "path": "3286-find-a-safe-walk-through-a-grid/3286-find-a-safe-walk-through-a-grid.py",
           "sha": "ae74ba803e3a3be0a573bdc8b70b639eac48cc71",
           "lastSyncedAt": "2026-09-30T17:21:46.357Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3300",
+      "title": "Minimum Element After Replacement With Digit Sum",
+      "slug": "minimum-element-after-replacement-with-digit-sum",
+      "problemName": "3300-minimum-element-after-replacement-with-digit-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/",
+      "folderPath": "3300-minimum-element-after-replacement-with-digit-sum/",
+      "readmePath": "3300-minimum-element-after-replacement-with-digit-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3300-minimum-element-after-replacement-with-digit-sum.py",
+          "path": "3300-minimum-element-after-replacement-with-digit-sum/3300-minimum-element-after-replacement-with-digit-sum.py",
+          "sha": "9f6e01bb6316bd8a2b32f23b912ec6fe83aa4d6c",
+          "lastSyncedAt": "2026-09-30T17:35:39.893Z"
         }
       ]
     },
