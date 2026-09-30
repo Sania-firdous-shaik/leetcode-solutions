@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-30T17:26:47.790Z",
+  "updatedAt": "2026-09-30T17:29:05.606Z",
   "problems": [
     {
       "frontendId": "11",
@@ -383,6 +383,26 @@
           "path": "3534-path-existence-queries-in-a-graph-ii/3534-path-existence-queries-in-a-graph-ii.py",
           "sha": "da484276eba09c47480d9a068eda675c6c04ecd4",
           "lastSyncedAt": "2026-09-30T17:19:40.566Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3691",
+      "title": "Maximum Total Subarray Value II",
+      "slug": "maximum-total-subarray-value-ii",
+      "problemName": "3691-maximum-total-subarray-value-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-total-subarray-value-ii/",
+      "folderPath": "3691-maximum-total-subarray-value-ii/",
+      "readmePath": "3691-maximum-total-subarray-value-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3691-maximum-total-subarray-value-ii.py",
+          "path": "3691-maximum-total-subarray-value-ii/3691-maximum-total-subarray-value-ii.py",
+          "sha": "68f6316a5892566c0563053ae34ac0734009b8dd",
+          "lastSyncedAt": "2026-09-30T17:29:05.606Z"
         }
       ]
     },
