@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-30T17:09:57.987Z",
+  "updatedAt": "2026-09-30T17:11:35.838Z",
   "problems": [
     {
       "frontendId": "48",
@@ -383,6 +383,26 @@
           "path": "3116-kth-smallest-amount-with-single-denomination-combination/3116-kth-smallest-amount-with-single-denomination-combination.py",
           "sha": "164c7e22ae1192491d60fd8e6562edcd83c54731",
           "lastSyncedAt": "2026-09-30T17:00:56.872Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3345",
+      "title": "Smallest Divisible Digit Product I",
+      "slug": "smallest-divisible-digit-product-i",
+      "problemName": "3345-smallest-divisible-digit-product-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-divisible-digit-product-i/",
+      "folderPath": "3345-smallest-divisible-digit-product-i/",
+      "readmePath": "3345-smallest-divisible-digit-product-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3345-smallest-divisible-digit-product-i.py",
+          "path": "3345-smallest-divisible-digit-product-i/3345-smallest-divisible-digit-product-i.py",
+          "sha": "910758bf96ca0e6a8839f4b564caab92c62e83b7",
+          "lastSyncedAt": "2026-09-30T17:11:35.838Z"
         }
       ]
     },
