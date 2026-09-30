@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-30T17:14:03.302Z",
+  "updatedAt": "2026-09-30T17:15:31.646Z",
   "problems": [
     {
       "frontendId": "30",
@@ -623,6 +623,26 @@
           "path": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.py",
           "sha": "ea4a30590e15caeacaa55aba9454ee2096c97911",
           "lastSyncedAt": "2026-09-30T17:06:59.617Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3016",
+      "title": "Minimum Number of Pushes to Type Word II",
+      "slug": "minimum-number-of-pushes-to-type-word-ii",
+      "problemName": "3016-minimum-number-of-pushes-to-type-word-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/",
+      "folderPath": "3016-minimum-number-of-pushes-to-type-word-ii/",
+      "readmePath": "3016-minimum-number-of-pushes-to-type-word-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3016-minimum-number-of-pushes-to-type-word-ii.py",
+          "path": "3016-minimum-number-of-pushes-to-type-word-ii/3016-minimum-number-of-pushes-to-type-word-ii.py",
+          "sha": "4269b679a32e1e627be23ea583fc8c081ca104ec",
+          "lastSyncedAt": "2026-09-30T17:15:31.646Z"
         }
       ]
     },
