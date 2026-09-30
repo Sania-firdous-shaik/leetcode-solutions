@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-30T17:07:13.890Z",
+  "updatedAt": "2026-09-30T17:07:22.122Z",
   "problems": [
     {
       "frontendId": "115",
@@ -142,7 +142,7 @@
           "filename": "0629-k-inverse-pairs-array.py",
           "path": "0629-k-inverse-pairs-array/0629-k-inverse-pairs-array.py",
           "sha": "f6fd486127851fc386eec4b14ee63df88a3d8aae",
-          "lastSyncedAt": "2026-09-29T16:46:04.278Z"
+          "lastSyncedAt": "2026-09-30T17:07:22.122Z"
         }
       ]
     },
