@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-30T17:10:49.054Z",
+  "updatedAt": "2026-09-30T17:10:58.142Z",
   "problems": [
     {
       "frontendId": "30",
@@ -103,6 +103,26 @@
           "path": "0076-minimum-window-substring/0076-minimum-window-substring.py",
           "sha": "5e837a602899decb553d0255e402fa0abfb4a97b",
           "lastSyncedAt": "2026-09-30T17:05:15.900Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "127",
+      "title": "Word Ladder",
+      "slug": "word-ladder",
+      "problemName": "0127-word-ladder",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/word-ladder/",
+      "folderPath": "0127-word-ladder/",
+      "readmePath": "0127-word-ladder/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0127-word-ladder.py",
+          "path": "0127-word-ladder/0127-word-ladder.py",
+          "sha": "34c4eda064d312334103bba43418b0cc0051b564",
+          "lastSyncedAt": "2026-09-30T17:10:58.142Z"
         }
       ]
     },
