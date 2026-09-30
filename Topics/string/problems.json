@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-30T17:27:45.961Z",
+  "updatedAt": "2026-09-30T17:27:56.131Z",
   "problems": [
     {
       "frontendId": "6",
@@ -1183,6 +1183,26 @@
           "path": "3518-smallest-palindromic-rearrangement-ii/3518-smallest-palindromic-rearrangement-ii.py",
           "sha": "f584102c2c169c38054fa0b0442721146307d1aa",
           "lastSyncedAt": "2026-09-30T17:15:55.571Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3612",
+      "title": "Process String with Special Operations I",
+      "slug": "process-string-with-special-operations-i",
+      "problemName": "3612-process-string-with-special-operations-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/process-string-with-special-operations-i/",
+      "folderPath": "3612-process-string-with-special-operations-i/",
+      "readmePath": "3612-process-string-with-special-operations-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3612-process-string-with-special-operations-i.py",
+          "path": "3612-process-string-with-special-operations-i/3612-process-string-with-special-operations-i.py",
+          "sha": "aacf3a3dcf9f50e6a4ec58f2701332180bd98356",
+          "lastSyncedAt": "2026-09-30T17:27:56.131Z"
         }
       ]
     },
