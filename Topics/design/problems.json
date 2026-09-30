@@ -4,8 +4,28 @@
     "slug": "design",
     "name": "Design"
   },
-  "updatedAt": "2026-09-30T17:34:55.263Z",
+  "updatedAt": "2026-09-30T17:35:05.745Z",
   "problems": [
+    {
+      "frontendId": "155",
+      "title": "Min Stack",
+      "slug": "min-stack",
+      "problemName": "0155-min-stack",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/min-stack/",
+      "folderPath": "0155-min-stack/",
+      "readmePath": "0155-min-stack/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0155-min-stack.py",
+          "path": "0155-min-stack/0155-min-stack.py",
+          "sha": "98f55d7f719bd128142581c3a535489e23a49e78",
+          "lastSyncedAt": "2026-09-30T17:35:05.745Z"
+        }
+      ]
+    },
     {
       "frontendId": "225",
       "title": "Implement Stack using Queues",
