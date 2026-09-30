@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-30T17:08:41.001Z",
+  "updatedAt": "2026-09-30T17:08:51.785Z",
   "problems": [
     {
       "frontendId": "60",
@@ -83,6 +83,26 @@
           "path": "0224-basic-calculator/0224-basic-calculator.py",
           "sha": "30274ac34644771e0811c4588b430419531fad28",
           "lastSyncedAt": "2026-09-30T17:08:41.001Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "227",
+      "title": "Basic Calculator II",
+      "slug": "basic-calculator-ii",
+      "problemName": "0227-basic-calculator-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/basic-calculator-ii/",
+      "folderPath": "0227-basic-calculator-ii/",
+      "readmePath": "0227-basic-calculator-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0227-basic-calculator-ii.py",
+          "path": "0227-basic-calculator-ii/0227-basic-calculator-ii.py",
+          "sha": "81b1b30615b9703d67ba094bcaeee60d6f35e97d",
+          "lastSyncedAt": "2026-09-30T17:08:51.785Z"
         }
       ]
     },
