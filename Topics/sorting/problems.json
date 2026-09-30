@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-30T17:31:53.253Z",
+  "updatedAt": "2026-09-30T17:32:04.733Z",
   "problems": [
     {
       "frontendId": "15",
@@ -383,6 +383,26 @@
           "path": "1846-maximum-element-after-decreasing-and-rearranging/1846-maximum-element-after-decreasing-and-rearranging.py",
           "sha": "0c9977c91e9630ef3073e284affbc7b5d9be1d46",
           "lastSyncedAt": "2026-09-30T17:22:38.384Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2126",
+      "title": "Destroying Asteroids",
+      "slug": "destroying-asteroids",
+      "problemName": "2126-destroying-asteroids",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/destroying-asteroids/",
+      "folderPath": "2126-destroying-asteroids/",
+      "readmePath": "2126-destroying-asteroids/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2126-destroying-asteroids.py",
+          "path": "2126-destroying-asteroids/2126-destroying-asteroids.py",
+          "sha": "37d8fc7d312f19d0c9fc7cfc0cf5fa8f96216dc3",
+          "lastSyncedAt": "2026-09-30T17:32:04.733Z"
         }
       ]
     },
