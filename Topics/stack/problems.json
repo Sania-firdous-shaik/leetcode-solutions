@@ -4,8 +4,28 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-09-30T17:01:10.677Z",
+  "updatedAt": "2026-09-30T17:08:41.001Z",
   "problems": [
+    {
+      "frontendId": "224",
+      "title": "Basic Calculator",
+      "slug": "basic-calculator",
+      "problemName": "0224-basic-calculator",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/basic-calculator/",
+      "folderPath": "0224-basic-calculator/",
+      "readmePath": "0224-basic-calculator/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0224-basic-calculator.py",
+          "path": "0224-basic-calculator/0224-basic-calculator.py",
+          "sha": "30274ac34644771e0811c4588b430419531fad28",
+          "lastSyncedAt": "2026-09-30T17:08:41.001Z"
+        }
+      ]
+    },
     {
       "frontendId": "1096",
       "title": "Brace Expansion II",
