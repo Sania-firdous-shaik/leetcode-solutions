@@ -4,7 +4,7 @@
     "slug": "monotonic-stack",
     "name": "Monotonic Stack"
   },
-  "updatedAt": "2026-09-30T17:13:18.173Z",
+  "updatedAt": "2026-09-30T17:17:42.444Z",
   "problems": [
     {
       "frontendId": "42",
@@ -43,6 +43,26 @@
           "path": "0316-remove-duplicate-letters/0316-remove-duplicate-letters.py",
           "sha": "af3b51cb65cc4a865d402382b4d1fc4c828f1695",
           "lastSyncedAt": "2026-09-30T17:09:45.375Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1081",
+      "title": "Smallest Subsequence of Distinct Characters",
+      "slug": "smallest-subsequence-of-distinct-characters",
+      "problemName": "1081-smallest-subsequence-of-distinct-characters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/",
+      "folderPath": "1081-smallest-subsequence-of-distinct-characters/",
+      "readmePath": "1081-smallest-subsequence-of-distinct-characters/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1081-smallest-subsequence-of-distinct-characters.py",
+          "path": "1081-smallest-subsequence-of-distinct-characters/1081-smallest-subsequence-of-distinct-characters.py",
+          "sha": "cd9a397da1c725352724dd85a7343b9c2137c9a3",
+          "lastSyncedAt": "2026-09-30T17:17:42.444Z"
         }
       ]
     }
