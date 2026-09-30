@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-30T17:09:12.209Z",
+  "updatedAt": "2026-09-30T17:09:45.375Z",
   "problems": [
     {
       "frontendId": "6",
@@ -283,6 +283,26 @@
           "path": "0227-basic-calculator-ii/0227-basic-calculator-ii.py",
           "sha": "81b1b30615b9703d67ba094bcaeee60d6f35e97d",
           "lastSyncedAt": "2026-09-30T17:08:51.785Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "316",
+      "title": "Remove Duplicate Letters",
+      "slug": "remove-duplicate-letters",
+      "problemName": "0316-remove-duplicate-letters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicate-letters/",
+      "folderPath": "0316-remove-duplicate-letters/",
+      "readmePath": "0316-remove-duplicate-letters/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0316-remove-duplicate-letters.py",
+          "path": "0316-remove-duplicate-letters/0316-remove-duplicate-letters.py",
+          "sha": "af3b51cb65cc4a865d402382b4d1fc4c828f1695",
+          "lastSyncedAt": "2026-09-30T17:09:45.375Z"
         }
       ]
     },
