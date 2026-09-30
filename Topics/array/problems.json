@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T17:12:53.428Z",
+  "updatedAt": "2026-09-30T17:13:01.884Z",
   "problems": [
     {
       "frontendId": "4",
@@ -623,6 +623,26 @@
           "path": "1386-cinema-seat-allocation/1386-cinema-seat-allocation.py",
           "sha": "4a23aa1684b25010fd7875488ec59f9647673281",
           "lastSyncedAt": "2026-09-30T17:02:22.543Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1406",
+      "title": "Stone Game III",
+      "slug": "stone-game-iii",
+      "problemName": "1406-stone-game-iii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-iii/",
+      "folderPath": "1406-stone-game-iii/",
+      "readmePath": "1406-stone-game-iii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1406-stone-game-iii.py",
+          "path": "1406-stone-game-iii/1406-stone-game-iii.py",
+          "sha": "976d31a0bf2aae1ec11e387ed73513d623203571",
+          "lastSyncedAt": "2026-09-30T17:13:01.884Z"
         }
       ]
     },
