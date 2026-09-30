@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-09-30T17:23:51.739Z",
+  "updatedAt": "2026-09-30T17:26:10.970Z",
   "problems": [
     {
       "frontendId": "169",
@@ -63,6 +63,26 @@
           "path": "2029-stone-game-ix/2029-stone-game-ix.py",
           "sha": "9a86edc4d63fca8a692988267d286a06c1ce00d4",
           "lastSyncedAt": "2026-09-30T17:03:17.072Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3005",
+      "title": "Count Elements With Maximum Frequency",
+      "slug": "count-elements-with-maximum-frequency",
+      "problemName": "3005-count-elements-with-maximum-frequency",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-elements-with-maximum-frequency/",
+      "folderPath": "3005-count-elements-with-maximum-frequency/",
+      "readmePath": "3005-count-elements-with-maximum-frequency/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3005-count-elements-with-maximum-frequency.py",
+          "path": "3005-count-elements-with-maximum-frequency/3005-count-elements-with-maximum-frequency.py",
+          "sha": "36c46f82d85c4bd6551cc92c61c3f57846c33673",
+          "lastSyncedAt": "2026-09-30T17:26:10.970Z"
         }
       ]
     },
