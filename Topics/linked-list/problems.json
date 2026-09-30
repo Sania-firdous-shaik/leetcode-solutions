@@ -4,8 +4,28 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-30T17:04:32.171Z",
+  "updatedAt": "2026-09-30T17:09:38.641Z",
   "problems": [
+    {
+      "frontendId": "61",
+      "title": "Rotate List",
+      "slug": "rotate-list",
+      "problemName": "0061-rotate-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-list/",
+      "folderPath": "0061-rotate-list/",
+      "readmePath": "0061-rotate-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0061-rotate-list.py",
+          "path": "0061-rotate-list/0061-rotate-list.py",
+          "sha": "24016191298467e489ff308c9e5c6a3c83d39c67",
+          "lastSyncedAt": "2026-09-30T17:09:38.641Z"
+        }
+      ]
+    },
     {
       "frontendId": "92",
       "title": "Reverse Linked List II",
