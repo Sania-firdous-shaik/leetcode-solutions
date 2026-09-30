@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-30T17:07:05.919Z",
+  "updatedAt": "2026-09-30T17:09:30.368Z",
   "problems": [
     {
       "frontendId": "36",
@@ -43,6 +43,26 @@
           "path": "0037-sudoku-solver/0037-sudoku-solver.py",
           "sha": "ba73cd47f9eadcee75e9c68c6e8c8ae8f251e3c9",
           "lastSyncedAt": "2026-09-30T17:05:56.720Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "48",
+      "title": "Rotate Image",
+      "slug": "rotate-image",
+      "problemName": "0048-rotate-image",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-image/",
+      "folderPath": "0048-rotate-image/",
+      "readmePath": "0048-rotate-image/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0048-rotate-image.py",
+          "path": "0048-rotate-image/0048-rotate-image.py",
+          "sha": "72a501ab56fdbeac132be2129b4284fab499a170",
+          "lastSyncedAt": "2026-09-30T17:09:30.368Z"
         }
       ]
     },
