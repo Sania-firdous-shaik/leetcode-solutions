@@ -4,8 +4,28 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-30T17:09:12.209Z",
+  "updatedAt": "2026-09-30T17:09:23.170Z",
   "problems": [
+    {
+      "frontendId": "80",
+      "title": "Remove Duplicates from Sorted Array II",
+      "slug": "remove-duplicates-from-sorted-array-ii",
+      "problemName": "0080-remove-duplicates-from-sorted-array-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/",
+      "folderPath": "0080-remove-duplicates-from-sorted-array-ii/",
+      "readmePath": "0080-remove-duplicates-from-sorted-array-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0080-remove-duplicates-from-sorted-array-ii.py",
+          "path": "0080-remove-duplicates-from-sorted-array-ii/0080-remove-duplicates-from-sorted-array-ii.py",
+          "sha": "320288062b2c82e2583d0c4439376ffa8687327d",
+          "lastSyncedAt": "2026-09-30T17:09:23.170Z"
+        }
+      ]
+    },
     {
       "frontendId": "3069",
       "title": "Distribute Elements Into Two Arrays I",
