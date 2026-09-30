@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-30T17:32:15.537Z",
+  "updatedAt": "2026-09-30T17:32:43.807Z",
   "problems": [
     {
       "frontendId": "6",
@@ -663,6 +663,26 @@
           "path": "0332-reconstruct-itinerary/0332-reconstruct-itinerary.py",
           "sha": "96db687df8a2381e38752b4eb484587f59310bcc",
           "lastSyncedAt": "2026-09-30T17:04:03.266Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "392",
+      "title": "Is Subsequence",
+      "slug": "is-subsequence",
+      "problemName": "0392-is-subsequence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/is-subsequence/",
+      "folderPath": "0392-is-subsequence/",
+      "readmePath": "0392-is-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0392-is-subsequence.py",
+          "path": "0392-is-subsequence/0392-is-subsequence.py",
+          "sha": "d2f9af1f09ecb311f7d4459b51ba91bf8291a44b",
+          "lastSyncedAt": "2026-09-30T17:32:43.807Z"
         }
       ]
     },
