@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-30T17:08:24.973Z",
+  "updatedAt": "2026-09-30T17:08:41.001Z",
   "problems": [
     {
       "frontendId": "60",
@@ -63,6 +63,26 @@
           "path": "0166-fraction-to-recurring-decimal/0166-fraction-to-recurring-decimal.py",
           "sha": "a4c59e8e82b89129212faecbf37606103c3aaa43",
           "lastSyncedAt": "2026-09-30T17:07:59.746Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "224",
+      "title": "Basic Calculator",
+      "slug": "basic-calculator",
+      "problemName": "0224-basic-calculator",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/basic-calculator/",
+      "folderPath": "0224-basic-calculator/",
+      "readmePath": "0224-basic-calculator/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0224-basic-calculator.py",
+          "path": "0224-basic-calculator/0224-basic-calculator.py",
+          "sha": "30274ac34644771e0811c4588b430419531fad28",
+          "lastSyncedAt": "2026-09-30T17:08:41.001Z"
         }
       ]
     },
