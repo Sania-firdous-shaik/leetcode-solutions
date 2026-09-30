@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T17:30:03.189Z",
+  "updatedAt": "2026-09-30T17:30:15.390Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1463,6 +1463,26 @@
           "path": "2161-partition-array-according-to-given-pivot/2161-partition-array-according-to-given-pivot.py",
           "sha": "c1662c3bd4cf78b45510b6cb0c5bc258ae5c94ec",
           "lastSyncedAt": "2026-09-30T17:30:03.189Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2196",
+      "title": "Create Binary Tree From Descriptions",
+      "slug": "create-binary-tree-from-descriptions",
+      "problemName": "2196-create-binary-tree-from-descriptions",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/create-binary-tree-from-descriptions/",
+      "folderPath": "2196-create-binary-tree-from-descriptions/",
+      "readmePath": "2196-create-binary-tree-from-descriptions/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2196-create-binary-tree-from-descriptions.py",
+          "path": "2196-create-binary-tree-from-descriptions/2196-create-binary-tree-from-descriptions.py",
+          "sha": "91e336d2bf73638c79ff89d298f50e83a06b9e5c",
+          "lastSyncedAt": "2026-09-30T17:30:15.390Z"
         }
       ]
     },
