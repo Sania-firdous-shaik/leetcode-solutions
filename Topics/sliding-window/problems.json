@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-09-30T17:06:09.176Z",
+  "updatedAt": "2026-09-30T17:06:52.804Z",
   "problems": [
     {
       "frontendId": "30",
@@ -22,7 +22,7 @@
           "filename": "0030-substring-with-concatenation-of-all-words.py",
           "path": "0030-substring-with-concatenation-of-all-words/0030-substring-with-concatenation-of-all-words.py",
           "sha": "03a07bd14985bfa1f34474172952d197c875bc44",
-          "lastSyncedAt": "2026-09-29T16:45:17.754Z"
+          "lastSyncedAt": "2026-09-30T17:06:52.804Z"
         }
       ]
     },
