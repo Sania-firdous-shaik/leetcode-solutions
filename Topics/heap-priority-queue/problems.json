@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-09-30T17:21:25.625Z",
+  "updatedAt": "2026-09-30T17:21:46.357Z",
   "problems": [
     {
       "frontendId": "332",
@@ -63,6 +63,26 @@
           "path": "1464-maximum-product-of-two-elements-in-an-array/1464-maximum-product-of-two-elements-in-an-array.py",
           "sha": "a93d13c08d7821f820e6e36d23355d65b11049f5",
           "lastSyncedAt": "2026-09-30T17:16:20.749Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3286",
+      "title": "Find a Safe Walk Through a Grid",
+      "slug": "find-a-safe-walk-through-a-grid",
+      "problemName": "3286-find-a-safe-walk-through-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-a-safe-walk-through-a-grid/",
+      "folderPath": "3286-find-a-safe-walk-through-a-grid/",
+      "readmePath": "3286-find-a-safe-walk-through-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3286-find-a-safe-walk-through-a-grid.py",
+          "path": "3286-find-a-safe-walk-through-a-grid/3286-find-a-safe-walk-through-a-grid.py",
+          "sha": "ae74ba803e3a3be0a573bdc8b70b639eac48cc71",
+          "lastSyncedAt": "2026-09-30T17:21:46.357Z"
         }
       ]
     },
