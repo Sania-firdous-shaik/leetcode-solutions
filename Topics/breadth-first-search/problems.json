@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-09-30T17:21:46.357Z",
+  "updatedAt": "2026-09-30T17:22:01.923Z",
   "problems": [
     {
       "frontendId": "126",
@@ -163,6 +163,26 @@
           "path": "2685-count-the-number-of-complete-components/2685-count-the-number-of-complete-components.py",
           "sha": "abc89e6f90f2855b7370e87924a4f04e687e28bb",
           "lastSyncedAt": "2026-09-30T17:19:29.930Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2812",
+      "title": "Find the Safest Path in a Grid",
+      "slug": "find-the-safest-path-in-a-grid",
+      "problemName": "2812-find-the-safest-path-in-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-safest-path-in-a-grid/",
+      "folderPath": "2812-find-the-safest-path-in-a-grid/",
+      "readmePath": "2812-find-the-safest-path-in-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2812-find-the-safest-path-in-a-grid.py",
+          "path": "2812-find-the-safest-path-in-a-grid/2812-find-the-safest-path-in-a-grid.py",
+          "sha": "b516a9e6596cea9f152b24731563ce2755a8f711",
+          "lastSyncedAt": "2026-09-30T17:22:01.923Z"
         }
       ]
     },
