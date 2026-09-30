@@ -4,7 +4,7 @@
     "slug": "number-theory",
     "name": "Number Theory"
   },
-  "updatedAt": "2026-09-30T17:18:33.510Z",
+  "updatedAt": "2026-09-30T17:18:49.391Z",
   "problems": [
     {
       "frontendId": "1979",
@@ -83,6 +83,26 @@
           "path": "3348-smallest-divisible-digit-product-ii/3348-smallest-divisible-digit-product-ii.py",
           "sha": "a24a389c14b5945c450d859eeb5ac0202a2c9fd6",
           "lastSyncedAt": "2026-09-30T17:09:57.987Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3658",
+      "title": "GCD of Odd and Even Sums",
+      "slug": "gcd-of-odd-and-even-sums",
+      "problemName": "3658-gcd-of-odd-and-even-sums",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/gcd-of-odd-and-even-sums/",
+      "folderPath": "3658-gcd-of-odd-and-even-sums/",
+      "readmePath": "3658-gcd-of-odd-and-even-sums/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3658-gcd-of-odd-and-even-sums.py",
+          "path": "3658-gcd-of-odd-and-even-sums/3658-gcd-of-odd-and-even-sums.py",
+          "sha": "cd88a65808b4c61507255e08356d05603047fbf8",
+          "lastSyncedAt": "2026-09-30T17:18:49.391Z"
         }
       ]
     },
