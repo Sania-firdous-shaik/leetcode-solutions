@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-30T17:11:22.553Z",
+  "updatedAt": "2026-09-30T17:14:03.302Z",
   "problems": [
     {
       "frontendId": "30",
@@ -383,6 +383,26 @@
           "path": "0219-contains-duplicate-ii/0219-contains-duplicate-ii.py",
           "sha": "65a95cef727ffc34b9a8329fa2ab283195685b03",
           "lastSyncedAt": "2026-09-30T17:07:50.060Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "380",
+      "title": "Insert Delete GetRandom O(1)",
+      "slug": "insert-delete-getrandom-o1",
+      "problemName": "0380-insert-delete-getrandom-o1",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/insert-delete-getrandom-o1/",
+      "folderPath": "0380-insert-delete-getrandom-o1/",
+      "readmePath": "0380-insert-delete-getrandom-o1/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0380-insert-delete-getrandom-o1.py",
+          "path": "0380-insert-delete-getrandom-o1/0380-insert-delete-getrandom-o1.py",
+          "sha": "c0e4789c3c740361e2bf7954e03ca4fcbffefc64",
+          "lastSyncedAt": "2026-09-30T17:14:03.302Z"
         }
       ]
     },
