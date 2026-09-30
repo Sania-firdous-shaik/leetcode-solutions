@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-30T17:21:13.178Z",
+  "updatedAt": "2026-09-30T17:28:33.368Z",
   "problems": [
     {
       "frontendId": "133",
@@ -123,6 +123,26 @@
           "path": "3310-remove-methods-from-project/3310-remove-methods-from-project.py",
           "sha": "e92390aa061f797f3583a7e0753c25e65001a476",
           "lastSyncedAt": "2026-09-30T17:11:45.255Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3559",
+      "title": "Number of Ways to Assign Edge Weights II",
+      "slug": "number-of-ways-to-assign-edge-weights-ii",
+      "problemName": "3559-number-of-ways-to-assign-edge-weights-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/",
+      "folderPath": "3559-number-of-ways-to-assign-edge-weights-ii/",
+      "readmePath": "3559-number-of-ways-to-assign-edge-weights-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3559-number-of-ways-to-assign-edge-weights-ii.py",
+          "path": "3559-number-of-ways-to-assign-edge-weights-ii/3559-number-of-ways-to-assign-edge-weights-ii.py",
+          "sha": "4582cfefe564119846647acb90ed06165367d440",
+          "lastSyncedAt": "2026-09-30T17:28:33.368Z"
         }
       ]
     }
