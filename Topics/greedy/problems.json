@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-30T17:17:42.444Z",
+  "updatedAt": "2026-09-30T17:19:40.566Z",
   "problems": [
     {
       "frontendId": "44",
@@ -303,6 +303,26 @@
           "path": "3474-lexicographically-smallest-generated-string/3474-lexicographically-smallest-generated-string.py",
           "sha": "6c30668b38e7c19155cf7f90f1dc240128489f17",
           "lastSyncedAt": "2026-09-30T17:01:20.030Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3534",
+      "title": "Path Existence Queries in a Graph II",
+      "slug": "path-existence-queries-in-a-graph-ii",
+      "problemName": "3534-path-existence-queries-in-a-graph-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/",
+      "folderPath": "3534-path-existence-queries-in-a-graph-ii/",
+      "readmePath": "3534-path-existence-queries-in-a-graph-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3534-path-existence-queries-in-a-graph-ii.py",
+          "path": "3534-path-existence-queries-in-a-graph-ii/3534-path-existence-queries-in-a-graph-ii.py",
+          "sha": "da484276eba09c47480d9a068eda675c6c04ecd4",
+          "lastSyncedAt": "2026-09-30T17:19:40.566Z"
         }
       ]
     },
