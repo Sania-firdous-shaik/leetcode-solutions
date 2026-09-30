@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-30T17:18:33.510Z",
+  "updatedAt": "2026-09-30T17:18:49.391Z",
   "problems": [
     {
       "frontendId": "48",
@@ -783,6 +783,26 @@
           "path": "3622-check-divisibility-by-digit-sum-and-product/3622-check-divisibility-by-digit-sum-and-product.py",
           "sha": "07c2d2af4b0f01c1e7da33439769ca003cb09dea",
           "lastSyncedAt": "2026-09-30T17:00:49.685Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3658",
+      "title": "GCD of Odd and Even Sums",
+      "slug": "gcd-of-odd-and-even-sums",
+      "problemName": "3658-gcd-of-odd-and-even-sums",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/gcd-of-odd-and-even-sums/",
+      "folderPath": "3658-gcd-of-odd-and-even-sums/",
+      "readmePath": "3658-gcd-of-odd-and-even-sums/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3658-gcd-of-odd-and-even-sums.py",
+          "path": "3658-gcd-of-odd-and-even-sums/3658-gcd-of-odd-and-even-sums.py",
+          "sha": "cd88a65808b4c61507255e08356d05603047fbf8",
+          "lastSyncedAt": "2026-09-30T17:18:49.391Z"
         }
       ]
     },
