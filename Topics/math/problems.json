@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-30T17:20:27.300Z",
+  "updatedAt": "2026-09-30T17:23:35.358Z",
   "problems": [
     {
       "frontendId": "48",
@@ -823,6 +823,26 @@
           "path": "3658-gcd-of-odd-and-even-sums/3658-gcd-of-odd-and-even-sums.py",
           "sha": "cd88a65808b4c61507255e08356d05603047fbf8",
           "lastSyncedAt": "2026-09-30T17:18:49.391Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3700",
+      "title": "Number of ZigZag Arrays II",
+      "slug": "number-of-zigzag-arrays-ii",
+      "problemName": "3700-number-of-zigzag-arrays-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-zigzag-arrays-ii/",
+      "folderPath": "3700-number-of-zigzag-arrays-ii/",
+      "readmePath": "3700-number-of-zigzag-arrays-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3700-number-of-zigzag-arrays-ii.py",
+          "path": "3700-number-of-zigzag-arrays-ii/3700-number-of-zigzag-arrays-ii.py",
+          "sha": "c48be54ec00cf1423d9d80bb5f55278d67f7c2e2",
+          "lastSyncedAt": "2026-09-30T17:23:35.358Z"
         }
       ]
     },
