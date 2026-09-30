@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-30T17:28:11.798Z",
+  "updatedAt": "2026-09-30T17:30:03.189Z",
   "problems": [
     {
       "frontendId": "11",
@@ -283,6 +283,26 @@
           "path": "2130-maximum-twin-sum-of-a-linked-list/2130-maximum-twin-sum-of-a-linked-list.py",
           "sha": "f24227ee0645a02f262c4fbbf8462b3db17d929d",
           "lastSyncedAt": "2026-09-30T17:28:11.798Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2161",
+      "title": "Partition Array According to Given Pivot",
+      "slug": "partition-array-according-to-given-pivot",
+      "problemName": "2161-partition-array-according-to-given-pivot",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-array-according-to-given-pivot/",
+      "folderPath": "2161-partition-array-according-to-given-pivot/",
+      "readmePath": "2161-partition-array-according-to-given-pivot/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2161-partition-array-according-to-given-pivot.py",
+          "path": "2161-partition-array-according-to-given-pivot/2161-partition-array-according-to-given-pivot.py",
+          "sha": "c1662c3bd4cf78b45510b6cb0c5bc258ae5c94ec",
+          "lastSyncedAt": "2026-09-30T17:30:03.189Z"
         }
       ]
     },
