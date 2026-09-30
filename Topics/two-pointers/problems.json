@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-30T17:31:15.864Z",
+  "updatedAt": "2026-09-30T17:31:30.934Z",
   "problems": [
     {
       "frontendId": "11",
@@ -363,6 +363,26 @@
           "path": "3534-path-existence-queries-in-a-graph-ii/3534-path-existence-queries-in-a-graph-ii.py",
           "sha": "da484276eba09c47480d9a068eda675c6c04ecd4",
           "lastSyncedAt": "2026-09-30T17:19:40.566Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3633",
+      "title": "Earliest Finish Time for Land and Water Rides I",
+      "slug": "earliest-finish-time-for-land-and-water-rides-i",
+      "problemName": "3633-earliest-finish-time-for-land-and-water-rides-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/",
+      "folderPath": "3633-earliest-finish-time-for-land-and-water-rides-i/",
+      "readmePath": "3633-earliest-finish-time-for-land-and-water-rides-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3633-earliest-finish-time-for-land-and-water-rides-i.py",
+          "path": "3633-earliest-finish-time-for-land-and-water-rides-i/3633-earliest-finish-time-for-land-and-water-rides-i.py",
+          "sha": "f1a234e10c34a411ac5fc1ff40507ac8d5eebfc2",
+          "lastSyncedAt": "2026-09-30T17:31:30.934Z"
         }
       ]
     },
