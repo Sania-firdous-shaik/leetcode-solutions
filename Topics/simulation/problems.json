@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-30T17:18:33.510Z",
+  "updatedAt": "2026-09-30T17:24:48.018Z",
   "problems": [
     {
       "frontendId": "68",
@@ -123,6 +123,26 @@
           "path": "3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.py",
           "sha": "ce5ed3518a19ceb3448741d489d50aba1f14d11d",
           "lastSyncedAt": "2026-09-30T16:57:32.687Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3614",
+      "title": "Process String with Special Operations II",
+      "slug": "process-string-with-special-operations-ii",
+      "problemName": "3614-process-string-with-special-operations-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/process-string-with-special-operations-ii/",
+      "folderPath": "3614-process-string-with-special-operations-ii/",
+      "readmePath": "3614-process-string-with-special-operations-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3614-process-string-with-special-operations-ii.py",
+          "path": "3614-process-string-with-special-operations-ii/3614-process-string-with-special-operations-ii.py",
+          "sha": "399c0ad18302197f2138572fc358302488df3949",
+          "lastSyncedAt": "2026-09-30T17:24:48.018Z"
         }
       ]
     },
