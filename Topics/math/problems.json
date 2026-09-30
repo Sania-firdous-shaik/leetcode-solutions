@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-30T17:35:32.339Z",
+  "updatedAt": "2026-09-30T17:35:39.893Z",
   "problems": [
     {
       "frontendId": "12",
@@ -723,6 +723,26 @@
           "path": "3116-kth-smallest-amount-with-single-denomination-combination/3116-kth-smallest-amount-with-single-denomination-combination.py",
           "sha": "164c7e22ae1192491d60fd8e6562edcd83c54731",
           "lastSyncedAt": "2026-09-30T17:00:56.872Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3300",
+      "title": "Minimum Element After Replacement With Digit Sum",
+      "slug": "minimum-element-after-replacement-with-digit-sum",
+      "problemName": "3300-minimum-element-after-replacement-with-digit-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/",
+      "folderPath": "3300-minimum-element-after-replacement-with-digit-sum/",
+      "readmePath": "3300-minimum-element-after-replacement-with-digit-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3300-minimum-element-after-replacement-with-digit-sum.py",
+          "path": "3300-minimum-element-after-replacement-with-digit-sum/3300-minimum-element-after-replacement-with-digit-sum.py",
+          "sha": "9f6e01bb6316bd8a2b32f23b912ec6fe83aa4d6c",
+          "lastSyncedAt": "2026-09-30T17:35:39.893Z"
         }
       ]
     },
