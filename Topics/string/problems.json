@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-30T17:28:23.496Z",
+  "updatedAt": "2026-09-30T17:29:41.087Z",
   "problems": [
     {
       "frontendId": "6",
@@ -743,6 +743,26 @@
           "path": "1111-maximum-nesting-depth-of-two-valid-parentheses-strings/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.py",
           "sha": "68d732fc4f4265e605719f92ae9c060240200bf3",
           "lastSyncedAt": "2026-09-30T16:56:10.750Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1143",
+      "title": "Longest Common Subsequence",
+      "slug": "longest-common-subsequence",
+      "problemName": "1143-longest-common-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-subsequence/",
+      "folderPath": "1143-longest-common-subsequence/",
+      "readmePath": "1143-longest-common-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1143-longest-common-subsequence.py",
+          "path": "1143-longest-common-subsequence/1143-longest-common-subsequence.py",
+          "sha": "6d0574192355001f128c0927173bd839ed9e674b",
+          "lastSyncedAt": "2026-09-30T17:29:41.087Z"
         }
       ]
     },
