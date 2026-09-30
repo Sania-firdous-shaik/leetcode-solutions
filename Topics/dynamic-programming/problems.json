@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-30T17:07:05.919Z",
+  "updatedAt": "2026-09-30T17:07:13.890Z",
   "problems": [
     {
       "frontendId": "115",
@@ -82,7 +82,7 @@
           "filename": "0518-coin-change-ii.py",
           "path": "0518-coin-change-ii/0518-coin-change-ii.py",
           "sha": "be322a632435b2e4a231c3e5f1252a026c935556",
-          "lastSyncedAt": "2026-09-29T16:45:49.280Z"
+          "lastSyncedAt": "2026-09-30T17:07:13.890Z"
         }
       ]
     },
