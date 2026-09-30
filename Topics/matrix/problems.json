@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-30T17:17:32.186Z",
+  "updatedAt": "2026-09-30T17:20:43.300Z",
   "problems": [
     {
       "frontendId": "36",
@@ -163,6 +163,26 @@
           "path": "1260-shift-2d-grid/1260-shift-2d-grid.py",
           "sha": "85b91e25146b45007e267c89cb7c0a88234824e0",
           "lastSyncedAt": "2026-09-30T17:17:32.186Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1301",
+      "title": "Number of Paths with Max Score",
+      "slug": "number-of-paths-with-max-score",
+      "problemName": "1301-number-of-paths-with-max-score",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-paths-with-max-score/",
+      "folderPath": "1301-number-of-paths-with-max-score/",
+      "readmePath": "1301-number-of-paths-with-max-score/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1301-number-of-paths-with-max-score.py",
+          "path": "1301-number-of-paths-with-max-score/1301-number-of-paths-with-max-score.py",
+          "sha": "57ab0b0a708bb0b53c09bce3422ed8bbc5b832cc",
+          "lastSyncedAt": "2026-09-30T17:20:43.300Z"
         }
       ]
     },
