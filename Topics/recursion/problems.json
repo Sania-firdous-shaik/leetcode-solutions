@@ -4,7 +4,7 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-09-30T17:04:27.187Z",
+  "updatedAt": "2026-09-30T17:08:41.001Z",
   "problems": [
     {
       "frontendId": "60",
@@ -23,6 +23,26 @@
           "path": "0060-permutation-sequence/0060-permutation-sequence.py",
           "sha": "672b9426716fae2c23a4f49eb8d471f85620d710",
           "lastSyncedAt": "2026-09-30T17:04:27.187Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "224",
+      "title": "Basic Calculator",
+      "slug": "basic-calculator",
+      "problemName": "0224-basic-calculator",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/basic-calculator/",
+      "folderPath": "0224-basic-calculator/",
+      "readmePath": "0224-basic-calculator/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0224-basic-calculator.py",
+          "path": "0224-basic-calculator/0224-basic-calculator.py",
+          "sha": "30274ac34644771e0811c4588b430419531fad28",
+          "lastSyncedAt": "2026-09-30T17:08:41.001Z"
         }
       ]
     },
