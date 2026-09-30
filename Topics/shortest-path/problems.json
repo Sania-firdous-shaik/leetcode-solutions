@@ -4,8 +4,28 @@
     "slug": "shortest-path",
     "name": "Shortest Path"
   },
-  "updatedAt": "2026-09-30T17:21:46.357Z",
+  "updatedAt": "2026-09-30T17:39:09.367Z",
   "problems": [
+    {
+      "frontendId": "399",
+      "title": "Evaluate Division",
+      "slug": "evaluate-division",
+      "problemName": "0399-evaluate-division",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-division/",
+      "folderPath": "0399-evaluate-division/",
+      "readmePath": "0399-evaluate-division/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0399-evaluate-division.py",
+          "path": "0399-evaluate-division/0399-evaluate-division.py",
+          "sha": "de3c9fbeb1068e1769e3db77f5aa1370ae44032a",
+          "lastSyncedAt": "2026-09-30T17:39:09.367Z"
+        }
+      ]
+    },
     {
       "frontendId": "3286",
       "title": "Find a Safe Walk Through a Grid",
