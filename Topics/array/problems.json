@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T17:32:04.733Z",
+  "updatedAt": "2026-09-30T17:33:40.344Z",
   "problems": [
     {
       "frontendId": "1",
@@ -563,6 +563,26 @@
           "path": "0149-max-points-on-a-line/0149-max-points-on-a-line.py",
           "sha": "8b8a5954fbdfb58b49be122cf15cf66adde26633",
           "lastSyncedAt": "2026-09-30T17:06:15.982Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "154",
+      "title": "Find Minimum in Rotated Sorted Array II",
+      "slug": "find-minimum-in-rotated-sorted-array-ii",
+      "problemName": "0154-find-minimum-in-rotated-sorted-array-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/",
+      "folderPath": "0154-find-minimum-in-rotated-sorted-array-ii/",
+      "readmePath": "0154-find-minimum-in-rotated-sorted-array-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0154-find-minimum-in-rotated-sorted-array-ii.py",
+          "path": "0154-find-minimum-in-rotated-sorted-array-ii/0154-find-minimum-in-rotated-sorted-array-ii.py",
+          "sha": "c4202dd24405c57db0743333c4224508d9dd06c3",
+          "lastSyncedAt": "2026-09-30T17:33:40.344Z"
         }
       ]
     },
