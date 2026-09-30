@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T17:31:30.934Z",
+  "updatedAt": "2026-09-30T17:31:43.171Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1483,6 +1483,26 @@
           "path": "2091-removing-minimum-and-maximum-from-array/2091-removing-minimum-and-maximum-from-array.py",
           "sha": "11efc641eb06c3329edb620f39a7b97f474a5caa",
           "lastSyncedAt": "2026-09-30T16:59:46.401Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2144",
+      "title": "Minimum Cost of Buying Candies With Discount",
+      "slug": "minimum-cost-of-buying-candies-with-discount",
+      "problemName": "2144-minimum-cost-of-buying-candies-with-discount",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/",
+      "folderPath": "2144-minimum-cost-of-buying-candies-with-discount/",
+      "readmePath": "2144-minimum-cost-of-buying-candies-with-discount/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2144-minimum-cost-of-buying-candies-with-discount.py",
+          "path": "2144-minimum-cost-of-buying-candies-with-discount/2144-minimum-cost-of-buying-candies-with-discount.py",
+          "sha": "ba40a5ad8baafb58e34195324fdfede8069f0187",
+          "lastSyncedAt": "2026-09-30T17:31:43.171Z"
         }
       ]
     },
