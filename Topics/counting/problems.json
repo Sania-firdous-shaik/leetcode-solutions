@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-09-30T17:08:07.730Z",
+  "updatedAt": "2026-09-30T17:15:31.646Z",
   "problems": [
     {
       "frontendId": "169",
@@ -43,6 +43,26 @@
           "path": "2029-stone-game-ix/2029-stone-game-ix.py",
           "sha": "9a86edc4d63fca8a692988267d286a06c1ce00d4",
           "lastSyncedAt": "2026-09-30T17:03:17.072Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3016",
+      "title": "Minimum Number of Pushes to Type Word II",
+      "slug": "minimum-number-of-pushes-to-type-word-ii",
+      "problemName": "3016-minimum-number-of-pushes-to-type-word-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/",
+      "folderPath": "3016-minimum-number-of-pushes-to-type-word-ii/",
+      "readmePath": "3016-minimum-number-of-pushes-to-type-word-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3016-minimum-number-of-pushes-to-type-word-ii.py",
+          "path": "3016-minimum-number-of-pushes-to-type-word-ii/3016-minimum-number-of-pushes-to-type-word-ii.py",
+          "sha": "4269b679a32e1e627be23ea583fc8c081ca104ec",
+          "lastSyncedAt": "2026-09-30T17:15:31.646Z"
         }
       ]
     },
