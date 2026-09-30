@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-30T17:26:10.970Z",
+  "updatedAt": "2026-09-30T17:26:20.486Z",
   "problems": [
     {
       "frontendId": "1",
@@ -503,6 +503,26 @@
           "path": "0432-all-oone-data-structure/0432-all-oone-data-structure.py",
           "sha": "f8579bac691245e050220646d2e88c7c66c78a14",
           "lastSyncedAt": "2026-09-30T17:04:32.171Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "451",
+      "title": "Sort Characters By Frequency",
+      "slug": "sort-characters-by-frequency",
+      "problemName": "0451-sort-characters-by-frequency",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-characters-by-frequency/",
+      "folderPath": "0451-sort-characters-by-frequency/",
+      "readmePath": "0451-sort-characters-by-frequency/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0451-sort-characters-by-frequency.py",
+          "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.py",
+          "sha": "260daa37518dd471b5f63ba649f23968166b2f56",
+          "lastSyncedAt": "2026-09-30T17:26:20.486Z"
         }
       ]
     },
