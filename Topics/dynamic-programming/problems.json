@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-30T17:23:43.393Z",
+  "updatedAt": "2026-09-30T17:24:56.071Z",
   "problems": [
     {
       "frontendId": "10",
@@ -123,6 +123,26 @@
           "path": "0045-jump-game-ii/0045-jump-game-ii.py",
           "sha": "a3552beff2c703f66bc0bb5ff852161e72f91dca",
           "lastSyncedAt": "2026-09-30T17:13:43.508Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "53",
+      "title": "Maximum Subarray",
+      "slug": "maximum-subarray",
+      "problemName": "0053-maximum-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray/",
+      "folderPath": "0053-maximum-subarray/",
+      "readmePath": "0053-maximum-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0053-maximum-subarray.py",
+          "path": "0053-maximum-subarray/0053-maximum-subarray.py",
+          "sha": "abde05ae17c146f492c92f8844f11d58af8ed077",
+          "lastSyncedAt": "2026-09-30T17:24:56.071Z"
         }
       ]
     },
