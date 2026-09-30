@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-30T17:14:18.023Z",
+  "updatedAt": "2026-09-30T17:17:11.509Z",
   "problems": [
     {
       "frontendId": "4",
@@ -123,6 +123,26 @@
           "path": "3414-maximum-score-of-non-overlapping-intervals/3414-maximum-score-of-non-overlapping-intervals.py",
           "sha": "89f040910f1b2e01024e0b87937740295ebfe7c9",
           "lastSyncedAt": "2026-09-30T16:58:22.554Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3501",
+      "title": "Maximize Active Section with Trade II",
+      "slug": "maximize-active-section-with-trade-ii",
+      "problemName": "3501-maximize-active-section-with-trade-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-active-section-with-trade-ii/",
+      "folderPath": "3501-maximize-active-section-with-trade-ii/",
+      "readmePath": "3501-maximize-active-section-with-trade-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3501-maximize-active-section-with-trade-ii.py",
+          "path": "3501-maximize-active-section-with-trade-ii/3501-maximize-active-section-with-trade-ii.py",
+          "sha": "aa9d59edfe4b1f6788cff2d100172dbb1dce66db",
+          "lastSyncedAt": "2026-09-30T17:17:11.509Z"
         }
       ]
     }
