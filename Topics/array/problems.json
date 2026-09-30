@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T17:29:27.452Z",
+  "updatedAt": "2026-09-30T17:30:03.189Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1443,6 +1443,26 @@
           "path": "2091-removing-minimum-and-maximum-from-array/2091-removing-minimum-and-maximum-from-array.py",
           "sha": "11efc641eb06c3329edb620f39a7b97f474a5caa",
           "lastSyncedAt": "2026-09-30T16:59:46.401Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2161",
+      "title": "Partition Array According to Given Pivot",
+      "slug": "partition-array-according-to-given-pivot",
+      "problemName": "2161-partition-array-according-to-given-pivot",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-array-according-to-given-pivot/",
+      "folderPath": "2161-partition-array-according-to-given-pivot/",
+      "readmePath": "2161-partition-array-according-to-given-pivot/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2161-partition-array-according-to-given-pivot.py",
+          "path": "2161-partition-array-according-to-given-pivot/2161-partition-array-according-to-given-pivot.py",
+          "sha": "c1662c3bd4cf78b45510b6cb0c5bc258ae5c94ec",
+          "lastSyncedAt": "2026-09-30T17:30:03.189Z"
         }
       ]
     },
