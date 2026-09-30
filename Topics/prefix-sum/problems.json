@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-30T17:23:01.226Z",
+  "updatedAt": "2026-09-30T17:23:18.827Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -163,6 +163,26 @@
           "path": "3548-equal-sum-grid-partition-ii/3548-equal-sum-grid-partition-ii.py",
           "sha": "1bb793636921e2e9d6bf45f52cad2663c6ce315a",
           "lastSyncedAt": "2026-09-30T17:01:50.927Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3737",
+      "title": "Count Subarrays With Majority Element I",
+      "slug": "count-subarrays-with-majority-element-i",
+      "problemName": "3737-count-subarrays-with-majority-element-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-subarrays-with-majority-element-i/",
+      "folderPath": "3737-count-subarrays-with-majority-element-i/",
+      "readmePath": "3737-count-subarrays-with-majority-element-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3737-count-subarrays-with-majority-element-i.py",
+          "path": "3737-count-subarrays-with-majority-element-i/3737-count-subarrays-with-majority-element-i.py",
+          "sha": "fea10000210e4e51548c18fd887173fa6c519759",
+          "lastSyncedAt": "2026-09-30T17:23:18.827Z"
         }
       ]
     },
