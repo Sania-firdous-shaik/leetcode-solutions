@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T17:27:27.016Z",
+  "updatedAt": "2026-09-30T17:28:23.496Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2163,6 +2163,26 @@
           "path": "3739-count-subarrays-with-majority-element-ii/3739-count-subarrays-with-majority-element-ii.py",
           "sha": "0f5dc746ca28f54a70ec2a1f341716f93648dfe5",
           "lastSyncedAt": "2026-09-30T17:23:01.226Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3838",
+      "title": "Weighted Word Mapping",
+      "slug": "weighted-word-mapping",
+      "problemName": "3838-weighted-word-mapping",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/weighted-word-mapping/",
+      "folderPath": "3838-weighted-word-mapping/",
+      "readmePath": "3838-weighted-word-mapping/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3838-weighted-word-mapping.py",
+          "path": "3838-weighted-word-mapping/3838-weighted-word-mapping.py",
+          "sha": "0558556f3d0f824fc21c38435379469c84f2e39d",
+          "lastSyncedAt": "2026-09-30T17:28:23.496Z"
         }
       ]
     },
