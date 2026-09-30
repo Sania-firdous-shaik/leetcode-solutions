@@ -4,8 +4,28 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-09-30T17:08:41.001Z",
+  "updatedAt": "2026-09-30T17:12:43.524Z",
   "problems": [
+    {
+      "frontendId": "10",
+      "title": "Regular Expression Matching",
+      "slug": "regular-expression-matching",
+      "problemName": "0010-regular-expression-matching",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/regular-expression-matching/",
+      "folderPath": "0010-regular-expression-matching/",
+      "readmePath": "0010-regular-expression-matching/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0010-regular-expression-matching.py",
+          "path": "0010-regular-expression-matching/0010-regular-expression-matching.py",
+          "sha": "2df4b8bfd1eac0afb830885d68084907f1e341ab",
+          "lastSyncedAt": "2026-09-30T17:12:43.524Z"
+        }
+      ]
+    },
     {
       "frontendId": "60",
       "title": "Permutation Sequence",
