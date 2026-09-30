@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T17:09:23.170Z",
+  "updatedAt": "2026-09-30T17:09:30.368Z",
   "problems": [
     {
       "frontendId": "4",
@@ -103,6 +103,26 @@
           "path": "0041-first-missing-positive/0041-first-missing-positive.py",
           "sha": "0445216bc0aaabfda1caa7e91109d9408f58bcb4",
           "lastSyncedAt": "2026-09-30T17:05:52.463Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "48",
+      "title": "Rotate Image",
+      "slug": "rotate-image",
+      "problemName": "0048-rotate-image",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-image/",
+      "folderPath": "0048-rotate-image/",
+      "readmePath": "0048-rotate-image/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0048-rotate-image.py",
+          "path": "0048-rotate-image/0048-rotate-image.py",
+          "sha": "72a501ab56fdbeac132be2129b4284fab499a170",
+          "lastSyncedAt": "2026-09-30T17:09:30.368Z"
         }
       ]
     },
