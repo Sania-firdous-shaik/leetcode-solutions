@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-30T17:24:26.488Z",
+  "updatedAt": "2026-09-30T17:30:27.308Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -103,6 +103,26 @@
           "path": "1872-stone-game-viii/1872-stone-game-viii.py",
           "sha": "eea146e3d129a3b1a22e0334e5a88efd6abbe678",
           "lastSyncedAt": "2026-09-30T17:00:23.473Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2574",
+      "title": "Left and Right Sum Differences",
+      "slug": "left-and-right-sum-differences",
+      "problemName": "2574-left-and-right-sum-differences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/left-and-right-sum-differences/",
+      "folderPath": "2574-left-and-right-sum-differences/",
+      "readmePath": "2574-left-and-right-sum-differences/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2574-left-and-right-sum-differences.py",
+          "path": "2574-left-and-right-sum-differences/2574-left-and-right-sum-differences.py",
+          "sha": "7ce8cb5a2e1a198e80dd2a96b0e77ccd73c97d00",
+          "lastSyncedAt": "2026-09-30T17:30:27.308Z"
         }
       ]
     },
