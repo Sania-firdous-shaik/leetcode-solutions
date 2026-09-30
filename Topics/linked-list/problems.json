@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-30T17:35:58.354Z",
+  "updatedAt": "2026-09-30T17:36:10.747Z",
   "problems": [
     {
       "frontendId": "61",
@@ -123,6 +123,26 @@
           "path": "0234-palindrome-linked-list/0234-palindrome-linked-list.py",
           "sha": "957951c400821b3005559e19013edfef5c065445",
           "lastSyncedAt": "2026-09-30T17:35:58.354Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "237",
+      "title": "Delete Node in a Linked List",
+      "slug": "delete-node-in-a-linked-list",
+      "problemName": "0237-delete-node-in-a-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+      "folderPath": "0237-delete-node-in-a-linked-list/",
+      "readmePath": "0237-delete-node-in-a-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0237-delete-node-in-a-linked-list.py",
+          "path": "0237-delete-node-in-a-linked-list/0237-delete-node-in-a-linked-list.py",
+          "sha": "a3e7461500a777c59f47a531ca673f8daf921cec",
+          "lastSyncedAt": "2026-09-30T17:36:10.747Z"
         }
       ]
     },
