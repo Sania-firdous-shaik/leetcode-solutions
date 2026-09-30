@@ -4,8 +4,28 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-30T17:09:38.641Z",
+  "updatedAt": "2026-09-30T17:13:18.173Z",
   "problems": [
+    {
+      "frontendId": "42",
+      "title": "Trapping Rain Water",
+      "slug": "trapping-rain-water",
+      "problemName": "0042-trapping-rain-water",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water/",
+      "folderPath": "0042-trapping-rain-water/",
+      "readmePath": "0042-trapping-rain-water/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0042-trapping-rain-water.py",
+          "path": "0042-trapping-rain-water/0042-trapping-rain-water.py",
+          "sha": "9bc8e9516f39503e0f00885f312397ab8042ced5",
+          "lastSyncedAt": "2026-09-30T17:13:18.173Z"
+        }
+      ]
+    },
     {
       "frontendId": "61",
       "title": "Rotate List",
