@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 236 | 64 | 112 | 60 |
+| 237 | 64 | 113 | 60 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-09-27 | 1 |
 | 2026-09-28 | 1 |
 | 2026-09-29 | 1 |
-| 2026-09-30 | 2 |
+| 2026-09-30 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 132 | 56% |
-| String | 74 | 31% |
+| String | 75 | 32% |
 | Math | 60 | 25% |
 | Hash Table | 57 | 24% |
 | Dynamic Programming | 51 | 22% |
 | Sorting | 30 | 13% |
 | Two Pointers | 30 | 13% |
-| Greedy | 27 | 11% |
+| Greedy | 28 | 12% |
+| Stack | 20 | 8% |
 | Binary Search | 19 | 8% |
-| Matrix | 19 | 8% |
 
 ## Topics
 
@@ -84,7 +84,7 @@ Contains topicwise list of solved problems.
 | [Geometry](Topics/geometry/) | 4 |
 | [Graph Theory](Topics/graph/) | 10 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 4 |
-| [Greedy](Topics/greedy/) | 27 |
+| [Greedy](Topics/greedy/) | 28 |
 | [Hash Function](Topics/hash-function/) | 2 |
 | [Hash Table](Topics/hash-table/) | 61 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 8 |
@@ -99,7 +99,7 @@ Contains topicwise list of solved problems.
 | [Memoization](Topics/memoization/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
 | [Minimax](Topics/minimax-algorithm/) | 7 |
-| [Monotonic Stack](Topics/monotonic-stack/) | 3 |
+| [Monotonic Stack](Topics/monotonic-stack/) | 4 |
 | [Nim Game](Topics/nim-game/) | 2 |
 | [Number Theory](Topics/number-theory/) | 7 |
 | [Ordered Set](Topics/ordered-set/) | 2 |
@@ -115,8 +115,8 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 10 |
 | [Sorting](Topics/sorting/) | 33 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
-| [Stack](Topics/stack/) | 20 |
-| [String](Topics/string/) | 78 |
+| [Stack](Topics/stack/) | 21 |
+| [String](Topics/string/) | 79 |
 | [String Matching](Topics/string-matching/) | 4 |
 | [Sweep Line](Topics/sweep-line/) | 1 |
 | [Topological Sort](Topics/topological-sort/) | 1 |
@@ -199,7 +199,6 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0399-evaluate-division) |
-| [0402-remove-k-digits](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [1096-brace-expansion-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -210,7 +209,6 @@ Contains topicwise list of solved problems.
 ## Greedy
 |  |
 | ------- |
-| [0402-remove-k-digits](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Sorting
 |  |
@@ -232,7 +230,6 @@ Contains topicwise list of solved problems.
 ## Stack
 |  |
 | ------- |
-| [0402-remove-k-digits](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [1096-brace-expansion-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -273,8 +270,4 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0399-evaluate-division) |
-## Monotonic Stack
-|  |
-| ------- |
-| [0402-remove-k-digits](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
