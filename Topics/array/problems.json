@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T17:30:15.390Z",
+  "updatedAt": "2026-09-30T17:30:27.308Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1543,6 +1543,26 @@
           "path": "2573-find-the-string-with-lcp/2573-find-the-string-with-lcp.py",
           "sha": "ce5a8b30c7eb9efecc77e90fab9cbe53759ab45a",
           "lastSyncedAt": "2026-09-30T17:01:27.412Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2574",
+      "title": "Left and Right Sum Differences",
+      "slug": "left-and-right-sum-differences",
+      "problemName": "2574-left-and-right-sum-differences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/left-and-right-sum-differences/",
+      "folderPath": "2574-left-and-right-sum-differences/",
+      "readmePath": "2574-left-and-right-sum-differences/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2574-left-and-right-sum-differences.py",
+          "path": "2574-left-and-right-sum-differences/2574-left-and-right-sum-differences.py",
+          "sha": "7ce8cb5a2e1a198e80dd2a96b0e77ccd73c97d00",
+          "lastSyncedAt": "2026-09-30T17:30:27.308Z"
         }
       ]
     },
