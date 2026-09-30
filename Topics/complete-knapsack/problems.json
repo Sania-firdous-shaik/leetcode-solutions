@@ -4,8 +4,28 @@
     "slug": "complete-knapsack",
     "name": "Complete Knapsack"
   },
-  "updatedAt": "2026-09-30T17:07:13.890Z",
+  "updatedAt": "2026-09-30T17:11:54.212Z",
   "problems": [
+    {
+      "frontendId": "322",
+      "title": "Coin Change",
+      "slug": "coin-change",
+      "problemName": "0322-coin-change",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/coin-change/",
+      "folderPath": "0322-coin-change/",
+      "readmePath": "0322-coin-change/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0322-coin-change.py",
+          "path": "0322-coin-change/0322-coin-change.py",
+          "sha": "ee284efff853620a4599cca2f1b0d01315b59019",
+          "lastSyncedAt": "2026-09-30T17:11:54.212Z"
+        }
+      ]
+    },
     {
       "frontendId": "518",
       "title": "Coin Change II",
