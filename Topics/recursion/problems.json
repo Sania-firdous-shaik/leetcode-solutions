@@ -4,7 +4,7 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-09-30T17:15:14.744Z",
+  "updatedAt": "2026-09-30T17:35:32.339Z",
   "problems": [
     {
       "frontendId": "10",
@@ -43,6 +43,26 @@
           "path": "0044-wildcard-matching/0044-wildcard-matching.py",
           "sha": "cb4cbc46d83c8267289cd3e04134f37007d527eb",
           "lastSyncedAt": "2026-09-30T17:13:52.364Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "50",
+      "title": "Pow(x, n)",
+      "slug": "powx-n",
+      "problemName": "0050-powx-n",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/powx-n/",
+      "folderPath": "0050-powx-n/",
+      "readmePath": "0050-powx-n/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0050-powx-n.py",
+          "path": "0050-powx-n/0050-powx-n.py",
+          "sha": "7231a976491600128df0d1d7beef6baf4c5493fb",
+          "lastSyncedAt": "2026-09-30T17:35:32.339Z"
         }
       ]
     },
