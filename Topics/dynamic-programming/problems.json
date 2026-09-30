@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-30T17:19:40.566Z",
+  "updatedAt": "2026-09-30T17:20:43.300Z",
   "problems": [
     {
       "frontendId": "10",
@@ -463,6 +463,26 @@
           "path": "1140-stone-game-ii/1140-stone-game-ii.py",
           "sha": "7ad9f93084b4f4951367e71476c634936146a044",
           "lastSyncedAt": "2026-09-30T17:08:24.973Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1301",
+      "title": "Number of Paths with Max Score",
+      "slug": "number-of-paths-with-max-score",
+      "problemName": "1301-number-of-paths-with-max-score",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-paths-with-max-score/",
+      "folderPath": "1301-number-of-paths-with-max-score/",
+      "readmePath": "1301-number-of-paths-with-max-score/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1301-number-of-paths-with-max-score.py",
+          "path": "1301-number-of-paths-with-max-score/1301-number-of-paths-with-max-score.py",
+          "sha": "57ab0b0a708bb0b53c09bce3422ed8bbc5b832cc",
+          "lastSyncedAt": "2026-09-30T17:20:43.300Z"
         }
       ]
     },
