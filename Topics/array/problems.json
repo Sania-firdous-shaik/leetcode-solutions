@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T17:05:56.720Z",
+  "updatedAt": "2026-09-30T17:06:09.176Z",
   "problems": [
     {
       "frontendId": "4",
@@ -662,7 +662,7 @@
           "filename": "2958-length-of-longest-subarray-with-at-most-k-frequency.py",
           "path": "2958-length-of-longest-subarray-with-at-most-k-frequency/2958-length-of-longest-subarray-with-at-most-k-frequency.py",
           "sha": "85871431a1ffdf5c02399bbd526676eff18ed925",
-          "lastSyncedAt": "2026-09-29T16:44:16.994Z"
+          "lastSyncedAt": "2026-09-30T17:06:09.176Z"
         }
       ]
     },
