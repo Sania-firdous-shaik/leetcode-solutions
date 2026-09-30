@@ -4,8 +4,28 @@
     "slug": "bracket-sequences",
     "name": "Bracket Sequences"
   },
-  "updatedAt": "2026-09-29T16:47:43.592Z",
+  "updatedAt": "2026-09-30T16:56:10.750Z",
   "problems": [
+    {
+      "frontendId": "1111",
+      "title": "Maximum Nesting Depth of Two Valid Parentheses Strings",
+      "slug": "maximum-nesting-depth-of-two-valid-parentheses-strings",
+      "problemName": "1111-maximum-nesting-depth-of-two-valid-parentheses-strings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/",
+      "folderPath": "1111-maximum-nesting-depth-of-two-valid-parentheses-strings/",
+      "readmePath": "1111-maximum-nesting-depth-of-two-valid-parentheses-strings/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1111-maximum-nesting-depth-of-two-valid-parentheses-strings.py",
+          "path": "1111-maximum-nesting-depth-of-two-valid-parentheses-strings/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.py",
+          "sha": "68d732fc4f4265e605719f92ae9c060240200bf3",
+          "lastSyncedAt": "2026-09-30T16:56:10.750Z"
+        }
+      ]
+    },
     {
       "frontendId": "1190",
       "title": "Reverse Substrings Between Each Pair of Parentheses",
