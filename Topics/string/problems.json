@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-30T17:05:15.900Z",
+  "updatedAt": "2026-09-30T17:05:31.085Z",
   "problems": [
     {
       "frontendId": "30",
@@ -402,7 +402,7 @@
           "filename": "2213-longest-substring-of-one-repeating-character.py",
           "path": "2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.py",
           "sha": "3d498363b1a31bf3aed25cee5a2eab8fa44d1e8a",
-          "lastSyncedAt": "2026-09-29T16:43:16.927Z"
+          "lastSyncedAt": "2026-09-30T17:05:31.085Z"
         }
       ]
     },
