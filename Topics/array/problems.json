@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T17:22:38.384Z",
+  "updatedAt": "2026-09-30T17:22:49.506Z",
   "problems": [
     {
       "frontendId": "4",
@@ -1363,6 +1363,26 @@
           "path": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.py",
           "sha": "ea4a30590e15caeacaa55aba9454ee2096c97911",
           "lastSyncedAt": "2026-09-30T17:06:59.617Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3020",
+      "title": "Find the Maximum Number of Elements in Subset",
+      "slug": "find-the-maximum-number-of-elements-in-subset",
+      "problemName": "3020-find-the-maximum-number-of-elements-in-subset",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/",
+      "folderPath": "3020-find-the-maximum-number-of-elements-in-subset/",
+      "readmePath": "3020-find-the-maximum-number-of-elements-in-subset/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3020-find-the-maximum-number-of-elements-in-subset.py",
+          "path": "3020-find-the-maximum-number-of-elements-in-subset/3020-find-the-maximum-number-of-elements-in-subset.py",
+          "sha": "c301d57b4d61a799f0a07c2fc12519aa2b5dbae8",
+          "lastSyncedAt": "2026-09-30T17:22:49.506Z"
         }
       ]
     },
