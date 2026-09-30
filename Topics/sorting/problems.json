@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-30T17:24:04.485Z",
+  "updatedAt": "2026-09-30T17:24:16.789Z",
   "problems": [
     {
       "frontendId": "169",
@@ -223,6 +223,26 @@
           "path": "1833-maximum-ice-cream-bars/1833-maximum-ice-cream-bars.py",
           "sha": "9a8c7bf3da85003b30e3f9596a14cce9d8a27ba5",
           "lastSyncedAt": "2026-09-30T17:24:04.485Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1840",
+      "title": "Maximum Building Height",
+      "slug": "maximum-building-height",
+      "problemName": "1840-maximum-building-height",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-building-height/",
+      "folderPath": "1840-maximum-building-height/",
+      "readmePath": "1840-maximum-building-height/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1840-maximum-building-height.py",
+          "path": "1840-maximum-building-height/1840-maximum-building-height.py",
+          "sha": "dc8b41b7c3cf929b9efd87add3ddcc0024ebe897",
+          "lastSyncedAt": "2026-09-30T17:24:16.789Z"
         }
       ]
     },
