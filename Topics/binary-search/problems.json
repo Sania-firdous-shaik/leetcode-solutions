@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-30T17:25:06.625Z",
+  "updatedAt": "2026-09-30T17:29:27.452Z",
   "problems": [
     {
       "frontendId": "4",
@@ -43,6 +43,26 @@
           "path": "0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.py",
           "sha": "71e0c54f965cff34ff5c66ee417c2c567ad51c72",
           "lastSyncedAt": "2026-09-30T17:25:06.625Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "300",
+      "title": "Longest Increasing Subsequence",
+      "slug": "longest-increasing-subsequence",
+      "problemName": "0300-longest-increasing-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-subsequence/",
+      "folderPath": "0300-longest-increasing-subsequence/",
+      "readmePath": "0300-longest-increasing-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0300-longest-increasing-subsequence.py",
+          "path": "0300-longest-increasing-subsequence/0300-longest-increasing-subsequence.py",
+          "sha": "2d3e1864381d6450779ed8ecbc086ccbcaabf479",
+          "lastSyncedAt": "2026-09-30T17:29:27.452Z"
         }
       ]
     },
