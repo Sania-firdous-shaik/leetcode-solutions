@@ -4,7 +4,7 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-09-30T17:13:52.364Z",
+  "updatedAt": "2026-09-30T17:15:14.744Z",
   "problems": [
     {
       "frontendId": "10",
@@ -83,6 +83,26 @@
           "path": "0224-basic-calculator/0224-basic-calculator.py",
           "sha": "30274ac34644771e0811c4588b430419531fad28",
           "lastSyncedAt": "2026-09-30T17:08:41.001Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "486",
+      "title": "Predict the Winner",
+      "slug": "predict-the-winner",
+      "problemName": "0486-predict-the-winner",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/predict-the-winner/",
+      "folderPath": "0486-predict-the-winner/",
+      "readmePath": "0486-predict-the-winner/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0486-predict-the-winner.py",
+          "path": "0486-predict-the-winner/0486-predict-the-winner.py",
+          "sha": "8917c89fb7576de2452af7eb35f72de8d35da97f",
+          "lastSyncedAt": "2026-09-30T17:15:14.744Z"
         }
       ]
     },
