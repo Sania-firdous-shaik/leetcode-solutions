@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-30T17:33:20.926Z",
+  "updatedAt": "2026-09-30T17:35:24.005Z",
   "problems": [
     {
       "frontendId": "11",
@@ -103,6 +103,26 @@
           "path": "0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.py",
           "sha": "8f2642986025d42962277b5886fd701508ff6572",
           "lastSyncedAt": "2026-09-30T17:21:04.285Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "27",
+      "title": "Remove Element",
+      "slug": "remove-element",
+      "problemName": "0027-remove-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-element/",
+      "folderPath": "0027-remove-element/",
+      "readmePath": "0027-remove-element/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0027-remove-element.py",
+          "path": "0027-remove-element/0027-remove-element.py",
+          "sha": "9e22d40468d02f65b996fa588d35557d62c86e59",
+          "lastSyncedAt": "2026-09-30T17:35:24.005Z"
         }
       ]
     },
