@@ -4,8 +4,28 @@
     "slug": "merge-sort",
     "name": "Merge Sort"
   },
-  "updatedAt": "2026-09-30T17:23:01.226Z",
+  "updatedAt": "2026-09-30T17:23:18.827Z",
   "problems": [
+    {
+      "frontendId": "3737",
+      "title": "Count Subarrays With Majority Element I",
+      "slug": "count-subarrays-with-majority-element-i",
+      "problemName": "3737-count-subarrays-with-majority-element-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-subarrays-with-majority-element-i/",
+      "folderPath": "3737-count-subarrays-with-majority-element-i/",
+      "readmePath": "3737-count-subarrays-with-majority-element-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3737-count-subarrays-with-majority-element-i.py",
+          "path": "3737-count-subarrays-with-majority-element-i/3737-count-subarrays-with-majority-element-i.py",
+          "sha": "fea10000210e4e51548c18fd887173fa6c519759",
+          "lastSyncedAt": "2026-09-30T17:23:18.827Z"
+        }
+      ]
+    },
     {
       "frontendId": "3739",
       "title": "Count Subarrays With Majority Element II",
