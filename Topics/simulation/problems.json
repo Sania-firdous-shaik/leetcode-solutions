@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-30T17:05:40.105Z",
+  "updatedAt": "2026-09-30T17:17:32.186Z",
   "problems": [
     {
       "frontendId": "68",
@@ -23,6 +23,26 @@
           "path": "0068-text-justification/0068-text-justification.py",
           "sha": "f82d09aff3b860d4e0b63402088b0d73fe069f3c",
           "lastSyncedAt": "2026-09-30T17:05:40.105Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1260",
+      "title": "Shift 2D Grid",
+      "slug": "shift-2d-grid",
+      "problemName": "1260-shift-2d-grid",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/shift-2d-grid/",
+      "folderPath": "1260-shift-2d-grid/",
+      "readmePath": "1260-shift-2d-grid/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1260-shift-2d-grid.py",
+          "path": "1260-shift-2d-grid/1260-shift-2d-grid.py",
+          "sha": "85b91e25146b45007e267c89cb7c0a88234824e0",
+          "lastSyncedAt": "2026-09-30T17:17:32.186Z"
         }
       ]
     },
