@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T17:29:05.606Z",
+  "updatedAt": "2026-09-30T17:29:18.828Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2083,6 +2083,26 @@
           "path": "3620-network-recovery-pathways/3620-network-recovery-pathways.py",
           "sha": "43a6e3563d171c604cbb42d8b5b1312fbe429f73",
           "lastSyncedAt": "2026-09-30T17:21:25.625Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3689",
+      "title": "Maximum Total Subarray Value I",
+      "slug": "maximum-total-subarray-value-i",
+      "problemName": "3689-maximum-total-subarray-value-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-total-subarray-value-i/",
+      "folderPath": "3689-maximum-total-subarray-value-i/",
+      "readmePath": "3689-maximum-total-subarray-value-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3689-maximum-total-subarray-value-i.py",
+          "path": "3689-maximum-total-subarray-value-i/3689-maximum-total-subarray-value-i.py",
+          "sha": "4be44599f8a3f77288bdfafd8d7846d5c3321e5d",
+          "lastSyncedAt": "2026-09-30T17:29:18.828Z"
         }
       ]
     },
