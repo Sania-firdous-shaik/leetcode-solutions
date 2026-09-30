@@ -6,7 +6,6 @@ class Solution:
         for (u, v), val in zip(equations, values):
             graph[u][v] = val
             graph[v][u] = 1.0 / val
-
         def dfs(curr: str, target: str, visited: set) -> float:
             if curr not in graph or target not in graph:
                 return -1.0
