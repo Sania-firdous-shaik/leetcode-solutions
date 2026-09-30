@@ -4,7 +4,7 @@
     "slug": "graph",
     "name": "Graph Theory"
   },
-  "updatedAt": "2026-09-30T17:19:40.566Z",
+  "updatedAt": "2026-09-30T17:20:01.067Z",
   "problems": [
     {
       "frontendId": "133",
@@ -83,6 +83,26 @@
           "path": "3310-remove-methods-from-project/3310-remove-methods-from-project.py",
           "sha": "e92390aa061f797f3583a7e0753c25e65001a476",
           "lastSyncedAt": "2026-09-30T17:11:45.255Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3532",
+      "title": "Path Existence Queries in a Graph I",
+      "slug": "path-existence-queries-in-a-graph-i",
+      "problemName": "3532-path-existence-queries-in-a-graph-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/path-existence-queries-in-a-graph-i/",
+      "folderPath": "3532-path-existence-queries-in-a-graph-i/",
+      "readmePath": "3532-path-existence-queries-in-a-graph-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3532-path-existence-queries-in-a-graph-i.py",
+          "path": "3532-path-existence-queries-in-a-graph-i/3532-path-existence-queries-in-a-graph-i.py",
+          "sha": "164f79672b5d2045de407ca6963c462252a77b46",
+          "lastSyncedAt": "2026-09-30T17:20:01.067Z"
         }
       ]
     },
