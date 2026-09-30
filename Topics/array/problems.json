@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T17:25:35.639Z",
+  "updatedAt": "2026-09-30T17:26:10.970Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1503,6 +1503,26 @@
           "path": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.py",
           "sha": "ea4a30590e15caeacaa55aba9454ee2096c97911",
           "lastSyncedAt": "2026-09-30T17:06:59.617Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3005",
+      "title": "Count Elements With Maximum Frequency",
+      "slug": "count-elements-with-maximum-frequency",
+      "problemName": "3005-count-elements-with-maximum-frequency",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-elements-with-maximum-frequency/",
+      "folderPath": "3005-count-elements-with-maximum-frequency/",
+      "readmePath": "3005-count-elements-with-maximum-frequency/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3005-count-elements-with-maximum-frequency.py",
+          "path": "3005-count-elements-with-maximum-frequency/3005-count-elements-with-maximum-frequency.py",
+          "sha": "36c46f82d85c4bd6551cc92c61c3f57846c33673",
+          "lastSyncedAt": "2026-09-30T17:26:10.970Z"
         }
       ]
     },
