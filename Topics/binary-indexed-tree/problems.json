@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "binary-indexed-tree",
+    "name": "Binary Indexed Tree"
+  },
+  "updatedAt": "2026-09-30T17:34:08.120Z",
+  "problems": [
+    {
+      "frontendId": "3161",
+      "title": "Block Placement Queries",
+      "slug": "block-placement-queries",
+      "problemName": "3161-block-placement-queries",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/block-placement-queries/",
+      "folderPath": "3161-block-placement-queries/",
+      "readmePath": "3161-block-placement-queries/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3161-block-placement-queries.py",
+          "path": "3161-block-placement-queries/3161-block-placement-queries.py",
+          "sha": "8c7f53df319968f0cfea5d28b5c0777eef020087",
+          "lastSyncedAt": "2026-09-30T17:34:08.120Z"
+        }
+      ]
+    }
+  ]
+}
