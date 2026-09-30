@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-09-30T17:35:05.745Z",
+  "updatedAt": "2026-09-30T17:35:13.579Z",
   "problems": [
     {
       "frontendId": "20",
@@ -183,6 +183,26 @@
           "path": "0316-remove-duplicate-letters/0316-remove-duplicate-letters.py",
           "sha": "af3b51cb65cc4a865d402382b4d1fc4c828f1695",
           "lastSyncedAt": "2026-09-30T17:09:45.375Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "682",
+      "title": "Baseball Game",
+      "slug": "baseball-game",
+      "problemName": "0682-baseball-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/baseball-game/",
+      "folderPath": "0682-baseball-game/",
+      "readmePath": "0682-baseball-game/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0682-baseball-game.py",
+          "path": "0682-baseball-game/0682-baseball-game.py",
+          "sha": "3a20f0ca75abc8f3fbd4c787737ec06990d2efe3",
+          "lastSyncedAt": "2026-09-30T17:35:13.579Z"
         }
       ]
     },
