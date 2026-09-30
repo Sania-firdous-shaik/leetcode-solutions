@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-30T17:07:27.077Z",
+  "updatedAt": "2026-09-30T17:07:59.746Z",
   "problems": [
     {
       "frontendId": "60",
@@ -43,6 +43,26 @@
           "path": "0149-max-points-on-a-line/0149-max-points-on-a-line.py",
           "sha": "8b8a5954fbdfb58b49be122cf15cf66adde26633",
           "lastSyncedAt": "2026-09-30T17:06:15.982Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "166",
+      "title": "Fraction to Recurring Decimal",
+      "slug": "fraction-to-recurring-decimal",
+      "problemName": "0166-fraction-to-recurring-decimal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/fraction-to-recurring-decimal/",
+      "folderPath": "0166-fraction-to-recurring-decimal/",
+      "readmePath": "0166-fraction-to-recurring-decimal/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0166-fraction-to-recurring-decimal.py",
+          "path": "0166-fraction-to-recurring-decimal/0166-fraction-to-recurring-decimal.py",
+          "sha": "a4c59e8e82b89129212faecbf37606103c3aaa43",
+          "lastSyncedAt": "2026-09-30T17:07:59.746Z"
         }
       ]
     },
