@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-30T17:24:42.347Z",
+  "updatedAt": "2026-09-30T17:25:17.542Z",
   "problems": [
     {
       "frontendId": "48",
@@ -103,6 +103,26 @@
           "path": "0166-fraction-to-recurring-decimal/0166-fraction-to-recurring-decimal.py",
           "sha": "a4c59e8e82b89129212faecbf37606103c3aaa43",
           "lastSyncedAt": "2026-09-30T17:07:59.746Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "168",
+      "title": "Excel Sheet Column Title",
+      "slug": "excel-sheet-column-title",
+      "problemName": "0168-excel-sheet-column-title",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/excel-sheet-column-title/",
+      "folderPath": "0168-excel-sheet-column-title/",
+      "readmePath": "0168-excel-sheet-column-title/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0168-excel-sheet-column-title.py",
+          "path": "0168-excel-sheet-column-title/0168-excel-sheet-column-title.py",
+          "sha": "11b3bdcc594846ba69d57c48995ebfe5a5789a45",
+          "lastSyncedAt": "2026-09-30T17:25:17.542Z"
         }
       ]
     },
