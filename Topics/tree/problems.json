@@ -4,8 +4,28 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-09-30T16:58:42.311Z",
+  "updatedAt": "2026-09-30T17:11:22.553Z",
   "problems": [
+    {
+      "frontendId": "106",
+      "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+      "slug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+      "problemName": "0106-construct-binary-tree-from-inorder-and-postorder-traversal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
+      "folderPath": "0106-construct-binary-tree-from-inorder-and-postorder-traversal/",
+      "readmePath": "0106-construct-binary-tree-from-inorder-and-postorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0106-construct-binary-tree-from-inorder-and-postorder-traversal.py",
+          "path": "0106-construct-binary-tree-from-inorder-and-postorder-traversal/0106-construct-binary-tree-from-inorder-and-postorder-traversal.py",
+          "sha": "0aefac5441da50cef6b5e8b0640921e74a78d761",
+          "lastSyncedAt": "2026-09-30T17:11:22.553Z"
+        }
+      ]
+    },
     {
       "frontendId": "2265",
       "title": "Count Nodes Equal to Average of Subtree",
