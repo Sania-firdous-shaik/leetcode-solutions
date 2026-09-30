@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-30T17:19:29.930Z",
+  "updatedAt": "2026-09-30T17:21:13.178Z",
   "problems": [
     {
       "frontendId": "133",
@@ -63,6 +63,26 @@
           "path": "2265-count-nodes-equal-to-average-of-subtree/2265-count-nodes-equal-to-average-of-subtree.py",
           "sha": "57a6f57354649a0a7a773eab8c59695e8999d6ee",
           "lastSyncedAt": "2026-09-30T16:58:42.311Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2492",
+      "title": "Minimum Score of a Path Between Two Cities",
+      "slug": "minimum-score-of-a-path-between-two-cities",
+      "problemName": "2492-minimum-score-of-a-path-between-two-cities",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/",
+      "folderPath": "2492-minimum-score-of-a-path-between-two-cities/",
+      "readmePath": "2492-minimum-score-of-a-path-between-two-cities/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2492-minimum-score-of-a-path-between-two-cities.py",
+          "path": "2492-minimum-score-of-a-path-between-two-cities/2492-minimum-score-of-a-path-between-two-cities.py",
+          "sha": "bd191de5b98fcd379c8fae7525e14a70367ce8de",
+          "lastSyncedAt": "2026-09-30T17:21:13.178Z"
         }
       ]
     },
