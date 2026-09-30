@@ -4,7 +4,7 @@
     "slug": "euclidean-algorithm",
     "name": "Euclidean Algorithm"
   },
-  "updatedAt": "2026-09-30T17:18:09.894Z",
+  "updatedAt": "2026-09-30T17:18:56.205Z",
   "problems": [
     {
       "frontendId": "149",
@@ -63,6 +63,26 @@
           "path": "3312-sorted-gcd-pair-queries/3312-sorted-gcd-pair-queries.py",
           "sha": "bce557917dc092028bf7a1c8de625135bf5d4396",
           "lastSyncedAt": "2026-09-30T17:18:09.894Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3336",
+      "title": "Find the Number of Subsequences With Equal GCD",
+      "slug": "find-the-number-of-subsequences-with-equal-gcd",
+      "problemName": "3336-find-the-number-of-subsequences-with-equal-gcd",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/",
+      "folderPath": "3336-find-the-number-of-subsequences-with-equal-gcd/",
+      "readmePath": "3336-find-the-number-of-subsequences-with-equal-gcd/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3336-find-the-number-of-subsequences-with-equal-gcd.py",
+          "path": "3336-find-the-number-of-subsequences-with-equal-gcd/3336-find-the-number-of-subsequences-with-equal-gcd.py",
+          "sha": "5bbb594a616e5df555ff9b6bf82d3518b194cffd",
+          "lastSyncedAt": "2026-09-30T17:18:56.205Z"
         }
       ]
     }
