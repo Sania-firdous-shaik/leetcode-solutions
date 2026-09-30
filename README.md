@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 237 | 64 | 113 | 60 |
+| 238 | 65 | 113 | 60 |
 
 ## Activity
 
@@ -28,17 +28,17 @@ Contains topicwise list of solved problems.
 | 2026-09-27 | 1 |
 | 2026-09-28 | 1 |
 | 2026-09-29 | 1 |
-| 2026-09-30 | 3 |
+| 2026-09-30 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 132 | 56% |
-| String | 75 | 32% |
-| Math | 60 | 25% |
+| Array | 132 | 55% |
+| String | 76 | 32% |
+| Math | 61 | 26% |
 | Hash Table | 57 | 24% |
-| Dynamic Programming | 51 | 22% |
+| Dynamic Programming | 51 | 21% |
 | Sorting | 30 | 13% |
 | Two Pointers | 30 | 13% |
 | Greedy | 28 | 12% |
@@ -57,7 +57,7 @@ Contains topicwise list of solved problems.
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 19 |
 | [Binary Tree](Topics/binary-tree/) | 3 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 9 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 10 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 2 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 8 |
@@ -94,7 +94,7 @@ Contains topicwise list of solved problems.
 | [Longest Common Subsequence](Topics/longest-common-subsequence/) | 1 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 1 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 62 |
+| [Math](Topics/math/) | 63 |
 | [Matrix](Topics/matrix/) | 19 |
 | [Memoization](Topics/memoization/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
@@ -116,7 +116,7 @@ Contains topicwise list of solved problems.
 | [Sorting](Topics/sorting/) | 33 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
 | [Stack](Topics/stack/) | 21 |
-| [String](Topics/string/) | 79 |
+| [String](Topics/string/) | 80 |
 | [String Matching](Topics/string-matching/) | 4 |
 | [Sweep Line](Topics/sweep-line/) | 1 |
 | [Topological Sort](Topics/topological-sort/) | 1 |
