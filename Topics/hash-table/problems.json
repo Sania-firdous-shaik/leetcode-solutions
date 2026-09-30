@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-30T17:19:19.547Z",
+  "updatedAt": "2026-09-30T17:20:01.067Z",
   "problems": [
     {
       "frontendId": "30",
@@ -763,6 +763,26 @@
           "path": "3518-smallest-palindromic-rearrangement-ii/3518-smallest-palindromic-rearrangement-ii.py",
           "sha": "f584102c2c169c38054fa0b0442721146307d1aa",
           "lastSyncedAt": "2026-09-30T17:15:55.571Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3532",
+      "title": "Path Existence Queries in a Graph I",
+      "slug": "path-existence-queries-in-a-graph-i",
+      "problemName": "3532-path-existence-queries-in-a-graph-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/path-existence-queries-in-a-graph-i/",
+      "folderPath": "3532-path-existence-queries-in-a-graph-i/",
+      "readmePath": "3532-path-existence-queries-in-a-graph-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3532-path-existence-queries-in-a-graph-i.py",
+          "path": "3532-path-existence-queries-in-a-graph-i/3532-path-existence-queries-in-a-graph-i.py",
+          "sha": "164f79672b5d2045de407ca6963c462252a77b46",
+          "lastSyncedAt": "2026-09-30T17:20:01.067Z"
         }
       ]
     },
