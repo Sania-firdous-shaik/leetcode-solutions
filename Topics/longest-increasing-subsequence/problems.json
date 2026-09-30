@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "longest-increasing-subsequence",
+    "name": "Longest Increasing Subsequence"
+  },
+  "updatedAt": "2026-09-30T17:29:27.452Z",
+  "problems": [
+    {
+      "frontendId": "300",
+      "title": "Longest Increasing Subsequence",
+      "slug": "longest-increasing-subsequence",
+      "problemName": "0300-longest-increasing-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-subsequence/",
+      "folderPath": "0300-longest-increasing-subsequence/",
+      "readmePath": "0300-longest-increasing-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0300-longest-increasing-subsequence.py",
+          "path": "0300-longest-increasing-subsequence/0300-longest-increasing-subsequence.py",
+          "sha": "2d3e1864381d6450779ed8ecbc086ccbcaabf479",
+          "lastSyncedAt": "2026-09-30T17:29:27.452Z"
+        }
+      ]
+    }
+  ]
+}
