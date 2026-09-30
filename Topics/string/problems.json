@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-30T17:29:41.087Z",
+  "updatedAt": "2026-09-30T17:31:53.253Z",
   "problems": [
     {
       "frontendId": "6",
@@ -483,6 +483,26 @@
           "path": "0168-excel-sheet-column-title/0168-excel-sheet-column-title.py",
           "sha": "11b3bdcc594846ba69d57c48995ebfe5a5789a45",
           "lastSyncedAt": "2026-09-30T17:25:17.542Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "179",
+      "title": "Largest Number",
+      "slug": "largest-number",
+      "problemName": "0179-largest-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-number/",
+      "folderPath": "0179-largest-number/",
+      "readmePath": "0179-largest-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0179-largest-number.py",
+          "path": "0179-largest-number/0179-largest-number.py",
+          "sha": "2c49d3e4537ef9a0d8348acf528155f37f59b8b0",
+          "lastSyncedAt": "2026-09-30T17:31:53.253Z"
         }
       ]
     },
