@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-30T17:35:47.914Z",
+  "updatedAt": "2026-09-30T17:35:58.354Z",
   "problems": [
     {
       "frontendId": "11",
@@ -303,6 +303,26 @@
           "path": "0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.py",
           "sha": "71e0c54f965cff34ff5c66ee417c2c567ad51c72",
           "lastSyncedAt": "2026-09-30T17:25:06.625Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "234",
+      "title": "Palindrome Linked List",
+      "slug": "palindrome-linked-list",
+      "problemName": "0234-palindrome-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-linked-list/",
+      "folderPath": "0234-palindrome-linked-list/",
+      "readmePath": "0234-palindrome-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0234-palindrome-linked-list.py",
+          "path": "0234-palindrome-linked-list/0234-palindrome-linked-list.py",
+          "sha": "957951c400821b3005559e19013edfef5c065445",
+          "lastSyncedAt": "2026-09-30T17:35:58.354Z"
         }
       ]
     },
