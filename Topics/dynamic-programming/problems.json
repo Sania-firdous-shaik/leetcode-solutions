@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-30T17:13:52.364Z",
+  "updatedAt": "2026-09-30T17:14:31.515Z",
   "problems": [
     {
       "frontendId": "10",
@@ -283,6 +283,26 @@
           "path": "0322-coin-change/0322-coin-change.py",
           "sha": "ee284efff853620a4599cca2f1b0d01315b59019",
           "lastSyncedAt": "2026-09-30T17:11:54.212Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "377",
+      "title": "Combination Sum IV",
+      "slug": "combination-sum-iv",
+      "problemName": "0377-combination-sum-iv",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/combination-sum-iv/",
+      "folderPath": "0377-combination-sum-iv/",
+      "readmePath": "0377-combination-sum-iv/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0377-combination-sum-iv.py",
+          "path": "0377-combination-sum-iv/0377-combination-sum-iv.py",
+          "sha": "6002692f51bb400098b7056e49c056017e751a1a",
+          "lastSyncedAt": "2026-09-30T17:14:31.515Z"
         }
       ]
     },
