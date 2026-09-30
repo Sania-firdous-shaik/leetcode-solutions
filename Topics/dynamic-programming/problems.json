@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-30T17:13:43.508Z",
+  "updatedAt": "2026-09-30T17:13:52.364Z",
   "problems": [
     {
       "frontendId": "10",
@@ -83,6 +83,26 @@
           "path": "0042-trapping-rain-water/0042-trapping-rain-water.py",
           "sha": "9bc8e9516f39503e0f00885f312397ab8042ced5",
           "lastSyncedAt": "2026-09-30T17:13:18.173Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "44",
+      "title": "Wildcard Matching",
+      "slug": "wildcard-matching",
+      "problemName": "0044-wildcard-matching",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/wildcard-matching/",
+      "folderPath": "0044-wildcard-matching/",
+      "readmePath": "0044-wildcard-matching/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0044-wildcard-matching.py",
+          "path": "0044-wildcard-matching/0044-wildcard-matching.py",
+          "sha": "cb4cbc46d83c8267289cd3e04134f37007d527eb",
+          "lastSyncedAt": "2026-09-30T17:13:52.364Z"
         }
       ]
     },
