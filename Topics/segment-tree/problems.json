@@ -4,7 +4,7 @@
     "slug": "segment-tree",
     "name": "Segment Tree"
   },
-  "updatedAt": "2026-09-30T17:29:05.606Z",
+  "updatedAt": "2026-09-30T17:34:08.120Z",
   "problems": [
     {
       "frontendId": "2213",
@@ -23,6 +23,26 @@
           "path": "2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.py",
           "sha": "3d498363b1a31bf3aed25cee5a2eab8fa44d1e8a",
           "lastSyncedAt": "2026-09-30T17:05:31.085Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3161",
+      "title": "Block Placement Queries",
+      "slug": "block-placement-queries",
+      "problemName": "3161-block-placement-queries",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/block-placement-queries/",
+      "folderPath": "3161-block-placement-queries/",
+      "readmePath": "3161-block-placement-queries/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3161-block-placement-queries.py",
+          "path": "3161-block-placement-queries/3161-block-placement-queries.py",
+          "sha": "8c7f53df319968f0cfea5d28b5c0777eef020087",
+          "lastSyncedAt": "2026-09-30T17:34:08.120Z"
         }
       ]
     },
