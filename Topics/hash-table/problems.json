@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-30T17:23:18.827Z",
+  "updatedAt": "2026-09-30T17:23:51.739Z",
   "problems": [
     {
       "frontendId": "30",
@@ -483,6 +483,26 @@
           "path": "1096-brace-expansion-ii/1096-brace-expansion-ii.py",
           "sha": "69cd0b04c580b12228176905dbb0f3682bae1508",
           "lastSyncedAt": "2026-09-30T16:56:48.107Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1189",
+      "title": "Maximum Number of Balloons",
+      "slug": "maximum-number-of-balloons",
+      "problemName": "1189-maximum-number-of-balloons",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-balloons/",
+      "folderPath": "1189-maximum-number-of-balloons/",
+      "readmePath": "1189-maximum-number-of-balloons/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1189-maximum-number-of-balloons.py",
+          "path": "1189-maximum-number-of-balloons/1189-maximum-number-of-balloons.py",
+          "sha": "f2c784e0fd1a4f6ce286cf3cb4e411ce720d1547",
+          "lastSyncedAt": "2026-09-30T17:23:51.739Z"
         }
       ]
     },
