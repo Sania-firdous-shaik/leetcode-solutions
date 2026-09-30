@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-30T17:28:23.496Z",
+  "updatedAt": "2026-09-30T17:30:03.189Z",
   "problems": [
     {
       "frontendId": "68",
@@ -43,6 +43,26 @@
           "path": "1260-shift-2d-grid/1260-shift-2d-grid.py",
           "sha": "85b91e25146b45007e267c89cb7c0a88234824e0",
           "lastSyncedAt": "2026-09-30T17:17:32.186Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2161",
+      "title": "Partition Array According to Given Pivot",
+      "slug": "partition-array-according-to-given-pivot",
+      "problemName": "2161-partition-array-according-to-given-pivot",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-array-according-to-given-pivot/",
+      "folderPath": "2161-partition-array-according-to-given-pivot/",
+      "readmePath": "2161-partition-array-according-to-given-pivot/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2161-partition-array-according-to-given-pivot.py",
+          "path": "2161-partition-array-according-to-given-pivot/2161-partition-array-according-to-given-pivot.py",
+          "sha": "c1662c3bd4cf78b45510b6cb0c5bc258ae5c94ec",
+          "lastSyncedAt": "2026-09-30T17:30:03.189Z"
         }
       ]
     },
