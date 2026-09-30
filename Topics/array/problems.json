@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T17:16:48.097Z",
+  "updatedAt": "2026-09-30T17:16:59.629Z",
   "problems": [
     {
       "frontendId": "4",
@@ -1263,6 +1263,26 @@
           "path": "3483-unique-3-digit-even-numbers/3483-unique-3-digit-even-numbers.py",
           "sha": "534943bb489392f23807b398b525eacb1f416847",
           "lastSyncedAt": "2026-09-30T16:58:31.676Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3513",
+      "title": "Number of Unique XOR Triplets I",
+      "slug": "number-of-unique-xor-triplets-i",
+      "problemName": "3513-number-of-unique-xor-triplets-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-unique-xor-triplets-i/",
+      "folderPath": "3513-number-of-unique-xor-triplets-i/",
+      "readmePath": "3513-number-of-unique-xor-triplets-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3513-number-of-unique-xor-triplets-i.py",
+          "path": "3513-number-of-unique-xor-triplets-i/3513-number-of-unique-xor-triplets-i.py",
+          "sha": "924d9a615a55777f2651578d7496d641fc83a3bb",
+          "lastSyncedAt": "2026-09-30T17:16:59.629Z"
         }
       ]
     },
