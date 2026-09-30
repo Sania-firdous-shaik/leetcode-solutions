@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-30T17:10:10.455Z",
+  "updatedAt": "2026-09-30T17:10:58.142Z",
   "problems": [
     {
       "frontendId": "6",
@@ -123,6 +123,26 @@
           "path": "0115-distinct-subsequences/0115-distinct-subsequences.py",
           "sha": "9758e874fb542dbd9ad09e63f98115e0f3c308dc",
           "lastSyncedAt": "2026-09-30T16:59:08.777Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "127",
+      "title": "Word Ladder",
+      "slug": "word-ladder",
+      "problemName": "0127-word-ladder",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/word-ladder/",
+      "folderPath": "0127-word-ladder/",
+      "readmePath": "0127-word-ladder/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0127-word-ladder.py",
+          "path": "0127-word-ladder/0127-word-ladder.py",
+          "sha": "34c4eda064d312334103bba43418b0cc0051b564",
+          "lastSyncedAt": "2026-09-30T17:10:58.142Z"
         }
       ]
     },
