@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-30T17:04:03.266Z",
+  "updatedAt": "2026-09-30T17:05:03.768Z",
   "problems": [
     {
       "frontendId": "30",
@@ -462,7 +462,7 @@
           "filename": "3090-maximum-length-substring-with-two-occurrences.py",
           "path": "3090-maximum-length-substring-with-two-occurrences/3090-maximum-length-substring-with-two-occurrences.py",
           "sha": "7924760e3274e1f5959c4d855063b9b25f014967",
-          "lastSyncedAt": "2026-09-29T16:42:37.151Z"
+          "lastSyncedAt": "2026-09-30T17:05:03.768Z"
         }
       ]
     },
