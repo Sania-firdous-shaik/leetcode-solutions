@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-09-30T17:16:20.749Z",
+  "updatedAt": "2026-09-30T17:21:25.625Z",
   "problems": [
     {
       "frontendId": "332",
@@ -63,6 +63,26 @@
           "path": "1464-maximum-product-of-two-elements-in-an-array/1464-maximum-product-of-two-elements-in-an-array.py",
           "sha": "a93d13c08d7821f820e6e36d23355d65b11049f5",
           "lastSyncedAt": "2026-09-30T17:16:20.749Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3620",
+      "title": "Network Recovery Pathways",
+      "slug": "network-recovery-pathways",
+      "problemName": "3620-network-recovery-pathways",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/network-recovery-pathways/",
+      "folderPath": "3620-network-recovery-pathways/",
+      "readmePath": "3620-network-recovery-pathways/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3620-network-recovery-pathways.py",
+          "path": "3620-network-recovery-pathways/3620-network-recovery-pathways.py",
+          "sha": "43a6e3563d171c604cbb42d8b5b1312fbe429f73",
+          "lastSyncedAt": "2026-09-30T17:21:25.625Z"
         }
       ]
     }
