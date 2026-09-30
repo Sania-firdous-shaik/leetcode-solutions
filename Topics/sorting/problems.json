@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-30T17:31:15.864Z",
+  "updatedAt": "2026-09-30T17:31:30.934Z",
   "problems": [
     {
       "frontendId": "15",
@@ -523,6 +523,26 @@
           "path": "3536-maximum-product-of-two-digits/3536-maximum-product-of-two-digits.py",
           "sha": "75545c3f126e104af6f747793d80c1702011f514",
           "lastSyncedAt": "2026-09-30T17:16:39.936Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3633",
+      "title": "Earliest Finish Time for Land and Water Rides I",
+      "slug": "earliest-finish-time-for-land-and-water-rides-i",
+      "problemName": "3633-earliest-finish-time-for-land-and-water-rides-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/",
+      "folderPath": "3633-earliest-finish-time-for-land-and-water-rides-i/",
+      "readmePath": "3633-earliest-finish-time-for-land-and-water-rides-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3633-earliest-finish-time-for-land-and-water-rides-i.py",
+          "path": "3633-earliest-finish-time-for-land-and-water-rides-i/3633-earliest-finish-time-for-land-and-water-rides-i.py",
+          "sha": "f1a234e10c34a411ac5fc1ff40507ac8d5eebfc2",
+          "lastSyncedAt": "2026-09-30T17:31:30.934Z"
         }
       ]
     },
