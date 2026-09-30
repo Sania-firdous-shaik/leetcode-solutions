@@ -4,8 +4,28 @@
     "slug": "enumeration",
     "name": "Enumeration"
   },
-  "updatedAt": "2026-09-30T17:17:23.635Z",
+  "updatedAt": "2026-09-30T17:19:14.149Z",
   "problems": [
+    {
+      "frontendId": "1291",
+      "title": "Sequential Digits",
+      "slug": "sequential-digits",
+      "problemName": "1291-sequential-digits",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sequential-digits/",
+      "folderPath": "1291-sequential-digits/",
+      "readmePath": "1291-sequential-digits/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1291-sequential-digits.py",
+          "path": "1291-sequential-digits/1291-sequential-digits.py",
+          "sha": "ce7f4961bc3542aeb2b7a8dcabbf07362e4552de",
+          "lastSyncedAt": "2026-09-30T17:19:14.149Z"
+        }
+      ]
+    },
     {
       "frontendId": "3345",
       "title": "Smallest Divisible Digit Product I",
