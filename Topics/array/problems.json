@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T17:24:34.725Z",
+  "updatedAt": "2026-09-30T17:24:56.071Z",
   "problems": [
     {
       "frontendId": "1",
@@ -243,6 +243,26 @@
           "path": "0051-n-queens/0051-n-queens.py",
           "sha": "3e20f2796c154ca5db97b64c9c46dda590e50a15",
           "lastSyncedAt": "2026-09-30T17:05:46.180Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "53",
+      "title": "Maximum Subarray",
+      "slug": "maximum-subarray",
+      "problemName": "0053-maximum-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray/",
+      "folderPath": "0053-maximum-subarray/",
+      "readmePath": "0053-maximum-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0053-maximum-subarray.py",
+          "path": "0053-maximum-subarray/0053-maximum-subarray.py",
+          "sha": "abde05ae17c146f492c92f8844f11d58af8ed077",
+          "lastSyncedAt": "2026-09-30T17:24:56.071Z"
         }
       ]
     },
