@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T17:19:19.547Z",
+  "updatedAt": "2026-09-30T17:19:40.566Z",
   "problems": [
     {
       "frontendId": "4",
@@ -1463,6 +1463,26 @@
           "path": "3525-find-x-value-of-array-ii/3525-find-x-value-of-array-ii.py",
           "sha": "0c42a63415a2fc4b16fd6f71f6011ed4d0ff59ba",
           "lastSyncedAt": "2026-09-30T16:57:18.068Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3534",
+      "title": "Path Existence Queries in a Graph II",
+      "slug": "path-existence-queries-in-a-graph-ii",
+      "problemName": "3534-path-existence-queries-in-a-graph-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/",
+      "folderPath": "3534-path-existence-queries-in-a-graph-ii/",
+      "readmePath": "3534-path-existence-queries-in-a-graph-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3534-path-existence-queries-in-a-graph-ii.py",
+          "path": "3534-path-existence-queries-in-a-graph-ii/3534-path-existence-queries-in-a-graph-ii.py",
+          "sha": "da484276eba09c47480d9a068eda675c6c04ecd4",
+          "lastSyncedAt": "2026-09-30T17:19:40.566Z"
         }
       ]
     },
