@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-30T17:12:31.365Z",
+  "updatedAt": "2026-09-30T17:12:43.524Z",
   "problems": [
     {
       "frontendId": "6",
@@ -43,6 +43,26 @@
           "path": "0008-string-to-integer-atoi/0008-string-to-integer-atoi.py",
           "sha": "e81c3031f184ebb812f12f0d35d1dd1746118daf",
           "lastSyncedAt": "2026-09-30T17:09:00.290Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "10",
+      "title": "Regular Expression Matching",
+      "slug": "regular-expression-matching",
+      "problemName": "0010-regular-expression-matching",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/regular-expression-matching/",
+      "folderPath": "0010-regular-expression-matching/",
+      "readmePath": "0010-regular-expression-matching/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0010-regular-expression-matching.py",
+          "path": "0010-regular-expression-matching/0010-regular-expression-matching.py",
+          "sha": "2df4b8bfd1eac0afb830885d68084907f1e341ab",
+          "lastSyncedAt": "2026-09-30T17:12:43.524Z"
         }
       ]
     },
