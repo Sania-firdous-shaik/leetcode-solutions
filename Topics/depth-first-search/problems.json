@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-30T17:11:45.255Z",
+  "updatedAt": "2026-09-30T17:19:29.930Z",
   "problems": [
     {
       "frontendId": "133",
@@ -63,6 +63,26 @@
           "path": "2265-count-nodes-equal-to-average-of-subtree/2265-count-nodes-equal-to-average-of-subtree.py",
           "sha": "57a6f57354649a0a7a773eab8c59695e8999d6ee",
           "lastSyncedAt": "2026-09-30T16:58:42.311Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2685",
+      "title": "Count the Number of Complete Components",
+      "slug": "count-the-number-of-complete-components",
+      "problemName": "2685-count-the-number-of-complete-components",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-number-of-complete-components/",
+      "folderPath": "2685-count-the-number-of-complete-components/",
+      "readmePath": "2685-count-the-number-of-complete-components/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2685-count-the-number-of-complete-components.py",
+          "path": "2685-count-the-number-of-complete-components/2685-count-the-number-of-complete-components.py",
+          "sha": "abc89e6f90f2855b7370e87924a4f04e687e28bb",
+          "lastSyncedAt": "2026-09-30T17:19:29.930Z"
         }
       ]
     },
