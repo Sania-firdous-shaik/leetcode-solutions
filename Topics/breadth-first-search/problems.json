@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-09-30T17:22:01.923Z",
+  "updatedAt": "2026-09-30T17:31:06.198Z",
   "problems": [
     {
       "frontendId": "126",
@@ -123,6 +123,26 @@
           "path": "1096-brace-expansion-ii/1096-brace-expansion-ii.py",
           "sha": "69cd0b04c580b12228176905dbb0f3682bae1508",
           "lastSyncedAt": "2026-09-30T16:56:48.107Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1306",
+      "title": "Jump Game III",
+      "slug": "jump-game-iii",
+      "problemName": "1306-jump-game-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-iii/",
+      "folderPath": "1306-jump-game-iii/",
+      "readmePath": "1306-jump-game-iii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1306-jump-game-iii.py",
+          "path": "1306-jump-game-iii/1306-jump-game-iii.py",
+          "sha": "07b288e86c0a8f2eadc33f812c4c4c3aef414f3f",
+          "lastSyncedAt": "2026-09-30T17:31:06.198Z"
         }
       ]
     },
