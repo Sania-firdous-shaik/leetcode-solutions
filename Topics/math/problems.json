@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-30T17:15:45.987Z",
+  "updatedAt": "2026-09-30T17:15:55.571Z",
   "problems": [
     {
       "frontendId": "48",
@@ -563,6 +563,26 @@
           "path": "3348-smallest-divisible-digit-product-ii/3348-smallest-divisible-digit-product-ii.py",
           "sha": "a24a389c14b5945c450d859eeb5ac0202a2c9fd6",
           "lastSyncedAt": "2026-09-30T17:09:57.987Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3518",
+      "title": "Smallest Palindromic Rearrangement II",
+      "slug": "smallest-palindromic-rearrangement-ii",
+      "problemName": "3518-smallest-palindromic-rearrangement-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/",
+      "folderPath": "3518-smallest-palindromic-rearrangement-ii/",
+      "readmePath": "3518-smallest-palindromic-rearrangement-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3518-smallest-palindromic-rearrangement-ii.py",
+          "path": "3518-smallest-palindromic-rearrangement-ii/3518-smallest-palindromic-rearrangement-ii.py",
+          "sha": "f584102c2c169c38054fa0b0442721146307d1aa",
+          "lastSyncedAt": "2026-09-30T17:15:55.571Z"
         }
       ]
     },
