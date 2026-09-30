@@ -4,8 +4,28 @@
     "slug": "memoization",
     "name": "Memoization"
   },
-  "updatedAt": "2026-09-30T17:06:30.048Z",
+  "updatedAt": "2026-09-30T17:10:10.455Z",
   "problems": [
+    {
+      "frontendId": "139",
+      "title": "Word Break",
+      "slug": "word-break",
+      "problemName": "0139-word-break",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/word-break/",
+      "folderPath": "0139-word-break/",
+      "readmePath": "0139-word-break/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0139-word-break.py",
+          "path": "0139-word-break/0139-word-break.py",
+          "sha": "14e695c15d6555a749265212a3d383ff843c1c03",
+          "lastSyncedAt": "2026-09-30T17:10:10.455Z"
+        }
+      ]
+    },
     {
       "frontendId": "140",
       "title": "Word Break II",
