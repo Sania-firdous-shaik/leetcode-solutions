@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-30T17:28:55.339Z",
+  "updatedAt": "2026-09-30T17:31:06.198Z",
   "problems": [
     {
       "frontendId": "133",
@@ -43,6 +43,26 @@
           "path": "0332-reconstruct-itinerary/0332-reconstruct-itinerary.py",
           "sha": "96db687df8a2381e38752b4eb484587f59310bcc",
           "lastSyncedAt": "2026-09-30T17:04:03.266Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1306",
+      "title": "Jump Game III",
+      "slug": "jump-game-iii",
+      "problemName": "1306-jump-game-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-iii/",
+      "folderPath": "1306-jump-game-iii/",
+      "readmePath": "1306-jump-game-iii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1306-jump-game-iii.py",
+          "path": "1306-jump-game-iii/1306-jump-game-iii.py",
+          "sha": "07b288e86c0a8f2eadc33f812c4c4c3aef414f3f",
+          "lastSyncedAt": "2026-09-30T17:31:06.198Z"
         }
       ]
     },
