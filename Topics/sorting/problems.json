@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-30T17:22:38.384Z",
+  "updatedAt": "2026-09-30T17:24:04.485Z",
   "problems": [
     {
       "frontendId": "169",
@@ -203,6 +203,26 @@
           "path": "1520-maximum-number-of-non-overlapping-substrings/1520-maximum-number-of-non-overlapping-substrings.py",
           "sha": "f5320d944797bd7e0a2e875b3304a360f08bacbd",
           "lastSyncedAt": "2026-09-30T16:57:44.234Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1833",
+      "title": "Maximum Ice Cream Bars",
+      "slug": "maximum-ice-cream-bars",
+      "problemName": "1833-maximum-ice-cream-bars",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-ice-cream-bars/",
+      "folderPath": "1833-maximum-ice-cream-bars/",
+      "readmePath": "1833-maximum-ice-cream-bars/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1833-maximum-ice-cream-bars.py",
+          "path": "1833-maximum-ice-cream-bars/1833-maximum-ice-cream-bars.py",
+          "sha": "9a8c7bf3da85003b30e3f9596a14cce9d8a27ba5",
+          "lastSyncedAt": "2026-09-30T17:24:04.485Z"
         }
       ]
     },
