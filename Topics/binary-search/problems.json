@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-30T17:19:40.566Z",
+  "updatedAt": "2026-09-30T17:20:01.067Z",
   "problems": [
     {
       "frontendId": "4",
@@ -163,6 +163,26 @@
           "path": "3501-maximize-active-section-with-trade-ii/3501-maximize-active-section-with-trade-ii.py",
           "sha": "aa9d59edfe4b1f6788cff2d100172dbb1dce66db",
           "lastSyncedAt": "2026-09-30T17:17:11.509Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3532",
+      "title": "Path Existence Queries in a Graph I",
+      "slug": "path-existence-queries-in-a-graph-i",
+      "problemName": "3532-path-existence-queries-in-a-graph-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/path-existence-queries-in-a-graph-i/",
+      "folderPath": "3532-path-existence-queries-in-a-graph-i/",
+      "readmePath": "3532-path-existence-queries-in-a-graph-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3532-path-existence-queries-in-a-graph-i.py",
+          "path": "3532-path-existence-queries-in-a-graph-i/3532-path-existence-queries-in-a-graph-i.py",
+          "sha": "164f79672b5d2045de407ca6963c462252a77b46",
+          "lastSyncedAt": "2026-09-30T17:20:01.067Z"
         }
       ]
     },
