@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T17:34:23.125Z",
+  "updatedAt": "2026-09-30T17:35:13.579Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1063,6 +1063,26 @@
           "path": "0628-maximum-product-of-three-numbers/0628-maximum-product-of-three-numbers.py",
           "sha": "a0dfcc630d0085c7eb43029695a4df4aa6444124",
           "lastSyncedAt": "2026-09-30T17:16:30.294Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "682",
+      "title": "Baseball Game",
+      "slug": "baseball-game",
+      "problemName": "0682-baseball-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/baseball-game/",
+      "folderPath": "0682-baseball-game/",
+      "readmePath": "0682-baseball-game/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0682-baseball-game.py",
+          "path": "0682-baseball-game/0682-baseball-game.py",
+          "sha": "3a20f0ca75abc8f3fbd4c787737ec06990d2efe3",
+          "lastSyncedAt": "2026-09-30T17:35:13.579Z"
         }
       ]
     },
