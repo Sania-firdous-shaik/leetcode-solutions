@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-30T17:15:45.987Z",
+  "updatedAt": "2026-09-30T17:15:55.571Z",
   "problems": [
     {
       "frontendId": "6",
@@ -843,6 +843,26 @@
           "path": "3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.py",
           "sha": "ce5ed3518a19ceb3448741d489d50aba1f14d11d",
           "lastSyncedAt": "2026-09-30T16:57:32.687Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3518",
+      "title": "Smallest Palindromic Rearrangement II",
+      "slug": "smallest-palindromic-rearrangement-ii",
+      "problemName": "3518-smallest-palindromic-rearrangement-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/",
+      "folderPath": "3518-smallest-palindromic-rearrangement-ii/",
+      "readmePath": "3518-smallest-palindromic-rearrangement-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3518-smallest-palindromic-rearrangement-ii.py",
+          "path": "3518-smallest-palindromic-rearrangement-ii/3518-smallest-palindromic-rearrangement-ii.py",
+          "sha": "f584102c2c169c38054fa0b0442721146307d1aa",
+          "lastSyncedAt": "2026-09-30T17:15:55.571Z"
         }
       ]
     },
