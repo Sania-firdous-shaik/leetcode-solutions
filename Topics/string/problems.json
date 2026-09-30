@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-30T17:17:11.509Z",
+  "updatedAt": "2026-09-30T17:17:23.635Z",
   "problems": [
     {
       "frontendId": "6",
@@ -843,6 +843,26 @@
           "path": "3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.py",
           "sha": "ce5ed3518a19ceb3448741d489d50aba1f14d11d",
           "lastSyncedAt": "2026-09-30T16:57:32.687Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3499",
+      "title": "Maximize Active Section with Trade I",
+      "slug": "maximize-active-section-with-trade-i",
+      "problemName": "3499-maximize-active-section-with-trade-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximize-active-section-with-trade-i/",
+      "folderPath": "3499-maximize-active-section-with-trade-i/",
+      "readmePath": "3499-maximize-active-section-with-trade-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3499-maximize-active-section-with-trade-i.py",
+          "path": "3499-maximize-active-section-with-trade-i/3499-maximize-active-section-with-trade-i.py",
+          "sha": "dc2d51021909c71b853e84023a4b835b084745a1",
+          "lastSyncedAt": "2026-09-30T17:17:23.635Z"
         }
       ]
     },
