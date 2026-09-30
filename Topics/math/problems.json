@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-30T17:11:35.838Z",
+  "updatedAt": "2026-09-30T17:12:08.122Z",
   "problems": [
     {
       "frontendId": "48",
@@ -123,6 +123,26 @@
           "path": "0227-basic-calculator-ii/0227-basic-calculator-ii.py",
           "sha": "81b1b30615b9703d67ba094bcaeee60d6f35e97d",
           "lastSyncedAt": "2026-09-30T17:08:51.785Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "313",
+      "title": "Super Ugly Number",
+      "slug": "super-ugly-number",
+      "problemName": "0313-super-ugly-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/super-ugly-number/",
+      "folderPath": "0313-super-ugly-number/",
+      "readmePath": "0313-super-ugly-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0313-super-ugly-number.py",
+          "path": "0313-super-ugly-number/0313-super-ugly-number.py",
+          "sha": "1d2be4febcce9d01a7c7cec18a49121a88ff7c1c",
+          "lastSyncedAt": "2026-09-30T17:12:08.122Z"
         }
       ]
     },
