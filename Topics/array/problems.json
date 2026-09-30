@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T17:12:08.122Z",
+  "updatedAt": "2026-09-30T17:12:16.781Z",
   "problems": [
     {
       "frontendId": "4",
@@ -363,6 +363,26 @@
           "path": "0219-contains-duplicate-ii/0219-contains-duplicate-ii.py",
           "sha": "65a95cef727ffc34b9a8329fa2ab283195685b03",
           "lastSyncedAt": "2026-09-30T17:07:50.060Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "312",
+      "title": "Burst Balloons",
+      "slug": "burst-balloons",
+      "problemName": "0312-burst-balloons",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/burst-balloons/",
+      "folderPath": "0312-burst-balloons/",
+      "readmePath": "0312-burst-balloons/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0312-burst-balloons.py",
+          "path": "0312-burst-balloons/0312-burst-balloons.py",
+          "sha": "0e6a6e8862f1d0753d8fd182baf21a2cb9b6f046",
+          "lastSyncedAt": "2026-09-30T17:12:16.781Z"
         }
       ]
     },
