@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-30T16:57:44.234Z",
+  "updatedAt": "2026-09-30T16:59:02.874Z",
   "problems": [
     {
       "frontendId": "30",
@@ -242,7 +242,7 @@
           "filename": "0940-distinct-subsequences-ii.py",
           "path": "0940-distinct-subsequences-ii/0940-distinct-subsequences-ii.py",
           "sha": "c3c48c909001144c44989b1f21799e69001fe3e4",
-          "lastSyncedAt": "2026-09-29T16:50:05.684Z"
+          "lastSyncedAt": "2026-09-30T16:59:02.874Z"
         }
       ]
     },
