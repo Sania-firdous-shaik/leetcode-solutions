@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-30T17:08:24.973Z",
+  "updatedAt": "2026-09-30T17:18:09.894Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -103,6 +103,26 @@
           "path": "2906-construct-product-matrix/2906-construct-product-matrix.py",
           "sha": "c3767efb389a5fa519a29f5f4a5808213b4c8291",
           "lastSyncedAt": "2026-09-30T17:02:09.732Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3312",
+      "title": "Sorted GCD Pair Queries",
+      "slug": "sorted-gcd-pair-queries",
+      "problemName": "3312-sorted-gcd-pair-queries",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sorted-gcd-pair-queries/",
+      "folderPath": "3312-sorted-gcd-pair-queries/",
+      "readmePath": "3312-sorted-gcd-pair-queries/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3312-sorted-gcd-pair-queries.py",
+          "path": "3312-sorted-gcd-pair-queries/3312-sorted-gcd-pair-queries.py",
+          "sha": "bce557917dc092028bf7a1c8de625135bf5d4396",
+          "lastSyncedAt": "2026-09-30T17:18:09.894Z"
         }
       ]
     },
