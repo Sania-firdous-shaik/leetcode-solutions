@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-30T16:58:22.554Z",
+  "updatedAt": "2026-09-30T16:59:51.897Z",
   "problems": [
     {
       "frontendId": "217",
@@ -122,7 +122,7 @@
           "filename": "2948-make-lexicographically-smallest-array-by-swapping-elements.py",
           "path": "2948-make-lexicographically-smallest-array-by-swapping-elements/2948-make-lexicographically-smallest-array-by-swapping-elements.py",
           "sha": "1f6677d22ba4f03de0c8d4c1a38c1d0e6203b2b4",
-          "lastSyncedAt": "2026-09-29T16:51:01.147Z"
+          "lastSyncedAt": "2026-09-30T16:59:51.897Z"
         }
       ]
     },
