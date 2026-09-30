@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-30T17:05:23.812Z",
+  "updatedAt": "2026-09-30T17:14:18.023Z",
   "problems": [
     {
       "frontendId": "4",
@@ -23,6 +23,26 @@
           "path": "0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.py",
           "sha": "9f714c2a2c4a4f4a86b478eb1beaa418cf6d6a6b",
           "lastSyncedAt": "2026-09-30T17:05:23.812Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "378",
+      "title": "Kth Smallest Element in a Sorted Matrix",
+      "slug": "kth-smallest-element-in-a-sorted-matrix",
+      "problemName": "0378-kth-smallest-element-in-a-sorted-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
+      "folderPath": "0378-kth-smallest-element-in-a-sorted-matrix/",
+      "readmePath": "0378-kth-smallest-element-in-a-sorted-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0378-kth-smallest-element-in-a-sorted-matrix.py",
+          "path": "0378-kth-smallest-element-in-a-sorted-matrix/0378-kth-smallest-element-in-a-sorted-matrix.py",
+          "sha": "0e45ebb90b6731706fd86680a356151b274d10b0",
+          "lastSyncedAt": "2026-09-30T17:14:18.023Z"
         }
       ]
     },
