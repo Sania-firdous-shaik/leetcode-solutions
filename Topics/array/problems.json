@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T17:17:32.186Z",
+  "updatedAt": "2026-09-30T17:17:55.920Z",
   "problems": [
     {
       "frontendId": "4",
@@ -963,6 +963,26 @@
           "path": "1872-stone-game-viii/1872-stone-game-viii.py",
           "sha": "eea146e3d129a3b1a22e0334e5a88efd6abbe678",
           "lastSyncedAt": "2026-09-30T17:00:23.473Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1979",
+      "title": "Find Greatest Common Divisor of Array",
+      "slug": "find-greatest-common-divisor-of-array",
+      "problemName": "1979-find-greatest-common-divisor-of-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-greatest-common-divisor-of-array/",
+      "folderPath": "1979-find-greatest-common-divisor-of-array/",
+      "readmePath": "1979-find-greatest-common-divisor-of-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1979-find-greatest-common-divisor-of-array.py",
+          "path": "1979-find-greatest-common-divisor-of-array/1979-find-greatest-common-divisor-of-array.py",
+          "sha": "ae3466e3af3509ec7527e13f04f438ffb68c3ee7",
+          "lastSyncedAt": "2026-09-30T17:17:55.920Z"
         }
       ]
     },
