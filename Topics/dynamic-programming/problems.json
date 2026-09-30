@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-30T17:13:18.173Z",
+  "updatedAt": "2026-09-30T17:13:30.970Z",
   "problems": [
     {
       "frontendId": "10",
@@ -43,6 +43,26 @@
           "path": "0022-generate-parentheses/0022-generate-parentheses.py",
           "sha": "f0b6303f3982f6a8a78fda74ea2ae71668910d24",
           "lastSyncedAt": "2026-09-30T17:12:31.365Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "32",
+      "title": "Longest Valid Parentheses",
+      "slug": "longest-valid-parentheses",
+      "problemName": "0032-longest-valid-parentheses",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-valid-parentheses/",
+      "folderPath": "0032-longest-valid-parentheses/",
+      "readmePath": "0032-longest-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0032-longest-valid-parentheses.py",
+          "path": "0032-longest-valid-parentheses/0032-longest-valid-parentheses.py",
+          "sha": "74b2856979090d5bcac52dddfacb49a22c869570",
+          "lastSyncedAt": "2026-09-30T17:13:30.970Z"
         }
       ]
     },
