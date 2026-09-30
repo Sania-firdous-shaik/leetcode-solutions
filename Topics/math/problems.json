@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-30T17:30:46.753Z",
+  "updatedAt": "2026-09-30T17:34:23.125Z",
   "problems": [
     {
       "frontendId": "12",
@@ -143,6 +143,26 @@
           "path": "0149-max-points-on-a-line/0149-max-points-on-a-line.py",
           "sha": "8b8a5954fbdfb58b49be122cf15cf66adde26633",
           "lastSyncedAt": "2026-09-30T17:06:15.982Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "150",
+      "title": "Evaluate Reverse Polish Notation",
+      "slug": "evaluate-reverse-polish-notation",
+      "problemName": "0150-evaluate-reverse-polish-notation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+      "folderPath": "0150-evaluate-reverse-polish-notation/",
+      "readmePath": "0150-evaluate-reverse-polish-notation/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0150-evaluate-reverse-polish-notation.py",
+          "path": "0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.py",
+          "sha": "7b69d00668d5b9be36e22e62736154491dd91c02",
+          "lastSyncedAt": "2026-09-30T17:34:23.125Z"
         }
       ]
     },
