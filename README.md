@@ -199,6 +199,7 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [1096-brace-expansion-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -209,6 +210,7 @@ Contains topicwise list of solved problems.
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Sorting
 |  |
@@ -230,6 +232,7 @@ Contains topicwise list of solved problems.
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [1096-brace-expansion-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -270,4 +273,8 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0399-evaluate-division) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
