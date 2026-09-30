@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-09-30T17:06:52.804Z",
+  "updatedAt": "2026-09-30T17:07:50.060Z",
   "problems": [
     {
       "frontendId": "30",
@@ -63,6 +63,26 @@
           "path": "0187-repeated-dna-sequences/0187-repeated-dna-sequences.py",
           "sha": "af986a5c6eb2db33f492f61deb7634b2f37e2a28",
           "lastSyncedAt": "2026-09-30T17:02:38.586Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "219",
+      "title": "Contains Duplicate II",
+      "slug": "contains-duplicate-ii",
+      "problemName": "0219-contains-duplicate-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate-ii/",
+      "folderPath": "0219-contains-duplicate-ii/",
+      "readmePath": "0219-contains-duplicate-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0219-contains-duplicate-ii.py",
+          "path": "0219-contains-duplicate-ii/0219-contains-duplicate-ii.py",
+          "sha": "65a95cef727ffc34b9a8329fa2ab283195685b03",
+          "lastSyncedAt": "2026-09-30T17:07:50.060Z"
         }
       ]
     },
