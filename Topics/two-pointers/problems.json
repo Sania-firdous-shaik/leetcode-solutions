@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-30T17:35:24.005Z",
+  "updatedAt": "2026-09-30T17:35:47.914Z",
   "problems": [
     {
       "frontendId": "11",
@@ -263,6 +263,26 @@
           "path": "0151-reverse-words-in-a-string/0151-reverse-words-in-a-string.py",
           "sha": "8331e3b7e7ef86659424fda1040d38c6c3ef775e",
           "lastSyncedAt": "2026-09-30T17:33:20.926Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "160",
+      "title": "Intersection of Two Linked Lists",
+      "slug": "intersection-of-two-linked-lists",
+      "problemName": "0160-intersection-of-two-linked-lists",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+      "folderPath": "0160-intersection-of-two-linked-lists/",
+      "readmePath": "0160-intersection-of-two-linked-lists/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0160-intersection-of-two-linked-lists.py",
+          "path": "0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.py",
+          "sha": "d927bfe331e83bb0c8487ac694cefd69f43ba2c6",
+          "lastSyncedAt": "2026-09-30T17:35:47.914Z"
         }
       ]
     },
