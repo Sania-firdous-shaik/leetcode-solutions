@@ -4,8 +4,28 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-09-30T17:11:09.843Z",
+  "updatedAt": "2026-09-30T17:12:31.365Z",
   "problems": [
+    {
+      "frontendId": "22",
+      "title": "Generate Parentheses",
+      "slug": "generate-parentheses",
+      "problemName": "0022-generate-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/generate-parentheses/",
+      "folderPath": "0022-generate-parentheses/",
+      "readmePath": "0022-generate-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0022-generate-parentheses.py",
+          "path": "0022-generate-parentheses/0022-generate-parentheses.py",
+          "sha": "f0b6303f3982f6a8a78fda74ea2ae71668910d24",
+          "lastSyncedAt": "2026-09-30T17:12:31.365Z"
+        }
+      ]
+    },
     {
       "frontendId": "37",
       "title": "Sudoku Solver",
