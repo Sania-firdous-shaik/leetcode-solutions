@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-30T17:28:03.602Z",
+  "updatedAt": "2026-09-30T17:28:11.798Z",
   "problems": [
     {
       "frontendId": "11",
@@ -263,6 +263,26 @@
           "path": "2095-delete-the-middle-node-of-a-linked-list/2095-delete-the-middle-node-of-a-linked-list.py",
           "sha": "69ba3beaa7b69ae55b3bed37bc570d4b51c2ce39",
           "lastSyncedAt": "2026-09-30T17:28:03.602Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2130",
+      "title": "Maximum Twin Sum of a Linked List",
+      "slug": "maximum-twin-sum-of-a-linked-list",
+      "problemName": "2130-maximum-twin-sum-of-a-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/",
+      "folderPath": "2130-maximum-twin-sum-of-a-linked-list/",
+      "readmePath": "2130-maximum-twin-sum-of-a-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2130-maximum-twin-sum-of-a-linked-list.py",
+          "path": "2130-maximum-twin-sum-of-a-linked-list/2130-maximum-twin-sum-of-a-linked-list.py",
+          "sha": "f24227ee0645a02f262c4fbbf8462b3db17d929d",
+          "lastSyncedAt": "2026-09-30T17:28:11.798Z"
         }
       ]
     },
