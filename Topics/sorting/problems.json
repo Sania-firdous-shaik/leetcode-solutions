@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-30T17:18:33.510Z",
+  "updatedAt": "2026-09-30T17:19:19.547Z",
   "problems": [
     {
       "frontendId": "169",
@@ -123,6 +123,26 @@
           "path": "1096-brace-expansion-ii/1096-brace-expansion-ii.py",
           "sha": "69cd0b04c580b12228176905dbb0f3682bae1508",
           "lastSyncedAt": "2026-09-30T16:56:48.107Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1331",
+      "title": "Rank Transform of an Array",
+      "slug": "rank-transform-of-an-array",
+      "problemName": "1331-rank-transform-of-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rank-transform-of-an-array/",
+      "folderPath": "1331-rank-transform-of-an-array/",
+      "readmePath": "1331-rank-transform-of-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1331-rank-transform-of-an-array.py",
+          "path": "1331-rank-transform-of-an-array/1331-rank-transform-of-an-array.py",
+          "sha": "38a48d9905f963496e41962824a7649e55a4c7a5",
+          "lastSyncedAt": "2026-09-30T17:19:19.547Z"
         }
       ]
     },
