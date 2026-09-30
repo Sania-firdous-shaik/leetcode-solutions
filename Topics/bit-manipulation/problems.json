@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-30T17:28:33.368Z",
+  "updatedAt": "2026-09-30T17:42:09.644Z",
   "problems": [
     {
       "frontendId": "187",
@@ -23,6 +23,26 @@
           "path": "0187-repeated-dna-sequences/0187-repeated-dna-sequences.py",
           "sha": "af986a5c6eb2db33f492f61deb7634b2f37e2a28",
           "lastSyncedAt": "2026-09-30T17:02:38.586Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "405",
+      "title": "Convert a Number to Hexadecimal",
+      "slug": "convert-a-number-to-hexadecimal",
+      "problemName": "0405-convert-a-number-to-hexadecimal",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-a-number-to-hexadecimal/",
+      "folderPath": "0405-convert-a-number-to-hexadecimal/",
+      "readmePath": "0405-convert-a-number-to-hexadecimal/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0405-convert-a-number-to-hexadecimal.py",
+          "path": "0405-convert-a-number-to-hexadecimal/0405-convert-a-number-to-hexadecimal.py",
+          "sha": "86ca19b17bf914fced5b1d4ae9fd011d6a343c1b",
+          "lastSyncedAt": "2026-09-30T17:42:09.644Z"
         }
       ]
     },
