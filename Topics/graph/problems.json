@@ -4,7 +4,7 @@
     "slug": "graph",
     "name": "Graph Theory"
   },
-  "updatedAt": "2026-09-30T17:10:38.394Z",
+  "updatedAt": "2026-09-30T17:11:45.255Z",
   "problems": [
     {
       "frontendId": "133",
@@ -43,6 +43,26 @@
           "path": "0332-reconstruct-itinerary/0332-reconstruct-itinerary.py",
           "sha": "96db687df8a2381e38752b4eb484587f59310bcc",
           "lastSyncedAt": "2026-09-30T17:04:03.266Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3310",
+      "title": "Remove Methods From Project",
+      "slug": "remove-methods-from-project",
+      "problemName": "3310-remove-methods-from-project",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-methods-from-project/",
+      "folderPath": "3310-remove-methods-from-project/",
+      "readmePath": "3310-remove-methods-from-project/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3310-remove-methods-from-project.py",
+          "path": "3310-remove-methods-from-project/3310-remove-methods-from-project.py",
+          "sha": "e92390aa061f797f3583a7e0753c25e65001a476",
+          "lastSyncedAt": "2026-09-30T17:11:45.255Z"
         }
       ]
     }
