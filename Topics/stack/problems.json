@@ -4,8 +4,28 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-09-30T17:13:18.173Z",
+  "updatedAt": "2026-09-30T17:13:30.970Z",
   "problems": [
+    {
+      "frontendId": "32",
+      "title": "Longest Valid Parentheses",
+      "slug": "longest-valid-parentheses",
+      "problemName": "0032-longest-valid-parentheses",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-valid-parentheses/",
+      "folderPath": "0032-longest-valid-parentheses/",
+      "readmePath": "0032-longest-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0032-longest-valid-parentheses.py",
+          "path": "0032-longest-valid-parentheses/0032-longest-valid-parentheses.py",
+          "sha": "74b2856979090d5bcac52dddfacb49a22c869570",
+          "lastSyncedAt": "2026-09-30T17:13:30.970Z"
+        }
+      ]
+    },
     {
       "frontendId": "42",
       "title": "Trapping Rain Water",
