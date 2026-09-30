@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T17:05:46.180Z",
+  "updatedAt": "2026-09-30T17:05:52.463Z",
   "problems": [
     {
       "frontendId": "4",
@@ -102,7 +102,7 @@
           "filename": "0041-first-missing-positive.py",
           "path": "0041-first-missing-positive/0041-first-missing-positive.py",
           "sha": "0445216bc0aaabfda1caa7e91109d9408f58bcb4",
-          "lastSyncedAt": "2026-09-29T16:43:52.148Z"
+          "lastSyncedAt": "2026-09-30T17:05:52.463Z"
         }
       ]
     },
