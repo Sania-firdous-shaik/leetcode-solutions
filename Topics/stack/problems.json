@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-09-30T17:34:23.125Z",
+  "updatedAt": "2026-09-30T17:34:33.830Z",
   "problems": [
     {
       "frontendId": "20",
@@ -223,6 +223,26 @@
           "path": "1190-reverse-substrings-between-each-pair-of-parentheses/1190-reverse-substrings-between-each-pair-of-parentheses.py",
           "sha": "8d1c70b8e53bd7f78fc662fbb3d302601d199291",
           "lastSyncedAt": "2026-09-30T16:56:35.396Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1544",
+      "title": "Make The String Great",
+      "slug": "make-the-string-great",
+      "problemName": "1544-make-the-string-great",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/make-the-string-great/",
+      "folderPath": "1544-make-the-string-great/",
+      "readmePath": "1544-make-the-string-great/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1544-make-the-string-great.py",
+          "path": "1544-make-the-string-great/1544-make-the-string-great.py",
+          "sha": "5dc9202ec156960cb262ad9e40a30a4a030efd45",
+          "lastSyncedAt": "2026-09-30T17:34:33.830Z"
         }
       ]
     },
