@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-30T17:16:39.936Z",
+  "updatedAt": "2026-09-30T17:16:48.097Z",
   "problems": [
     {
       "frontendId": "48",
@@ -583,6 +583,26 @@
           "path": "3348-smallest-divisible-digit-product-ii/3348-smallest-divisible-digit-product-ii.py",
           "sha": "a24a389c14b5945c450d859eeb5ac0202a2c9fd6",
           "lastSyncedAt": "2026-09-30T17:09:57.987Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3514",
+      "title": "Number of Unique XOR Triplets II",
+      "slug": "number-of-unique-xor-triplets-ii",
+      "problemName": "3514-number-of-unique-xor-triplets-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-unique-xor-triplets-ii/",
+      "folderPath": "3514-number-of-unique-xor-triplets-ii/",
+      "readmePath": "3514-number-of-unique-xor-triplets-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3514-number-of-unique-xor-triplets-ii.py",
+          "path": "3514-number-of-unique-xor-triplets-ii/3514-number-of-unique-xor-triplets-ii.py",
+          "sha": "6685b7ae9c02276c1aa915ede1de1ed2c51057b5",
+          "lastSyncedAt": "2026-09-30T17:16:48.097Z"
         }
       ]
     },
