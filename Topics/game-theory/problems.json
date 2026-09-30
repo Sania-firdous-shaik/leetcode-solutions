@@ -4,7 +4,7 @@
     "slug": "game-theory",
     "name": "Game Theory"
   },
-  "updatedAt": "2026-09-30T17:08:24.973Z",
+  "updatedAt": "2026-09-30T17:13:01.884Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -23,6 +23,26 @@
           "path": "1140-stone-game-ii/1140-stone-game-ii.py",
           "sha": "7ad9f93084b4f4951367e71476c634936146a044",
           "lastSyncedAt": "2026-09-30T17:08:24.973Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1406",
+      "title": "Stone Game III",
+      "slug": "stone-game-iii",
+      "problemName": "1406-stone-game-iii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-iii/",
+      "folderPath": "1406-stone-game-iii/",
+      "readmePath": "1406-stone-game-iii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1406-stone-game-iii.py",
+          "path": "1406-stone-game-iii/1406-stone-game-iii.py",
+          "sha": "976d31a0bf2aae1ec11e387ed73513d623203571",
+          "lastSyncedAt": "2026-09-30T17:13:01.884Z"
         }
       ]
     },
