@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-09-30T17:23:18.827Z",
+  "updatedAt": "2026-09-30T17:23:43.393Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -163,6 +163,26 @@
           "path": "3548-equal-sum-grid-partition-ii/3548-equal-sum-grid-partition-ii.py",
           "sha": "1bb793636921e2e9d6bf45f52cad2663c6ce315a",
           "lastSyncedAt": "2026-09-30T17:01:50.927Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3699",
+      "title": "Number of ZigZag Arrays I",
+      "slug": "number-of-zigzag-arrays-i",
+      "problemName": "3699-number-of-zigzag-arrays-i",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-zigzag-arrays-i/",
+      "folderPath": "3699-number-of-zigzag-arrays-i/",
+      "readmePath": "3699-number-of-zigzag-arrays-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3699-number-of-zigzag-arrays-i.py",
+          "path": "3699-number-of-zigzag-arrays-i/3699-number-of-zigzag-arrays-i.py",
+          "sha": "597684598c4d85db4c20b4dfb55220c8789bf523",
+          "lastSyncedAt": "2026-09-30T17:23:43.393Z"
         }
       ]
     },
