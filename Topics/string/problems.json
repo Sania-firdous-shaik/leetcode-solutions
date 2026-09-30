@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-30T17:22:28.926Z",
+  "updatedAt": "2026-09-30T17:23:51.739Z",
   "problems": [
     {
       "frontendId": "6",
@@ -563,6 +563,26 @@
           "path": "1111-maximum-nesting-depth-of-two-valid-parentheses-strings/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.py",
           "sha": "68d732fc4f4265e605719f92ae9c060240200bf3",
           "lastSyncedAt": "2026-09-30T16:56:10.750Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1189",
+      "title": "Maximum Number of Balloons",
+      "slug": "maximum-number-of-balloons",
+      "problemName": "1189-maximum-number-of-balloons",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-balloons/",
+      "folderPath": "1189-maximum-number-of-balloons/",
+      "readmePath": "1189-maximum-number-of-balloons/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1189-maximum-number-of-balloons.py",
+          "path": "1189-maximum-number-of-balloons/1189-maximum-number-of-balloons.py",
+          "sha": "f2c784e0fd1a4f6ce286cf3cb4e411ce720d1547",
+          "lastSyncedAt": "2026-09-30T17:23:51.739Z"
         }
       ]
     },
