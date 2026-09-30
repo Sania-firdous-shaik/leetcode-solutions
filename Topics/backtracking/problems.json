@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-09-30T17:03:52.350Z",
+  "updatedAt": "2026-09-30T17:05:10.084Z",
   "problems": [
     {
       "frontendId": "37",
@@ -42,7 +42,7 @@
           "filename": "0040-combination-sum-ii.py",
           "path": "0040-combination-sum-ii/0040-combination-sum-ii.py",
           "sha": "2e024fb59cf09d7c24908ec345bca5e093e40954",
-          "lastSyncedAt": "2026-09-29T16:42:47.145Z"
+          "lastSyncedAt": "2026-09-30T17:05:10.084Z"
         }
       ]
     },
