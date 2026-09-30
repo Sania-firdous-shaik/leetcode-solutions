@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-30T17:35:47.914Z",
+  "updatedAt": "2026-09-30T17:36:16.876Z",
   "problems": [
     {
       "frontendId": "1",
@@ -363,6 +363,26 @@
           "path": "0141-linked-list-cycle/0141-linked-list-cycle.py",
           "sha": "654bedb05f74c677219fd77218cc9c727f36bc97",
           "lastSyncedAt": "2026-09-30T17:32:26.758Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "142",
+      "title": "Linked List Cycle II",
+      "slug": "linked-list-cycle-ii",
+      "problemName": "0142-linked-list-cycle-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle-ii/",
+      "folderPath": "0142-linked-list-cycle-ii/",
+      "readmePath": "0142-linked-list-cycle-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0142-linked-list-cycle-ii.py",
+          "path": "0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.py",
+          "sha": "a954a50fa9fcbde4e596fc8cfba0ed815d460910",
+          "lastSyncedAt": "2026-09-30T17:36:16.876Z"
         }
       ]
     },
