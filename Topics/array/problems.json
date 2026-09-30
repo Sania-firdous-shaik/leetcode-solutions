@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T17:30:57.993Z",
+  "updatedAt": "2026-09-30T17:31:06.198Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1103,6 +1103,26 @@
           "path": "1301-number-of-paths-with-max-score/1301-number-of-paths-with-max-score.py",
           "sha": "57ab0b0a708bb0b53c09bce3422ed8bbc5b832cc",
           "lastSyncedAt": "2026-09-30T17:20:43.300Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1306",
+      "title": "Jump Game III",
+      "slug": "jump-game-iii",
+      "problemName": "1306-jump-game-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-iii/",
+      "folderPath": "1306-jump-game-iii/",
+      "readmePath": "1306-jump-game-iii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1306-jump-game-iii.py",
+          "path": "1306-jump-game-iii/1306-jump-game-iii.py",
+          "sha": "07b288e86c0a8f2eadc33f812c4c4c3aef414f3f",
+          "lastSyncedAt": "2026-09-30T17:31:06.198Z"
         }
       ]
     },
