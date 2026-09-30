@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-30T17:22:16.267Z",
+  "updatedAt": "2026-09-30T17:22:49.506Z",
   "problems": [
     {
       "frontendId": "30",
@@ -683,6 +683,26 @@
           "path": "3016-minimum-number-of-pushes-to-type-word-ii/3016-minimum-number-of-pushes-to-type-word-ii.py",
           "sha": "4269b679a32e1e627be23ea583fc8c081ca104ec",
           "lastSyncedAt": "2026-09-30T17:15:31.646Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3020",
+      "title": "Find the Maximum Number of Elements in Subset",
+      "slug": "find-the-maximum-number-of-elements-in-subset",
+      "problemName": "3020-find-the-maximum-number-of-elements-in-subset",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/",
+      "folderPath": "3020-find-the-maximum-number-of-elements-in-subset/",
+      "readmePath": "3020-find-the-maximum-number-of-elements-in-subset/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3020-find-the-maximum-number-of-elements-in-subset.py",
+          "path": "3020-find-the-maximum-number-of-elements-in-subset/3020-find-the-maximum-number-of-elements-in-subset.py",
+          "sha": "c301d57b4d61a799f0a07c2fc12519aa2b5dbae8",
+          "lastSyncedAt": "2026-09-30T17:22:49.506Z"
         }
       ]
     },
