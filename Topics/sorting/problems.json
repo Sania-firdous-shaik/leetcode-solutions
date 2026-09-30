@@ -4,8 +4,28 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-30T17:27:08.534Z",
+  "updatedAt": "2026-09-30T17:27:17.606Z",
   "problems": [
+    {
+      "frontendId": "16",
+      "title": "3Sum Closest",
+      "slug": "3sum-closest",
+      "problemName": "0016-3sum-closest",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum-closest/",
+      "folderPath": "0016-3sum-closest/",
+      "readmePath": "0016-3sum-closest/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0016-3sum-closest.py",
+          "path": "0016-3sum-closest/0016-3sum-closest.py",
+          "sha": "a3012f7b1f6deac6773337165193a80d7827a9ad",
+          "lastSyncedAt": "2026-09-30T17:27:17.606Z"
+        }
+      ]
+    },
     {
       "frontendId": "18",
       "title": "4Sum",
