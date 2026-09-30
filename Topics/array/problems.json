@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T17:14:39.168Z",
+  "updatedAt": "2026-09-30T17:14:58.319Z",
   "problems": [
     {
       "frontendId": "4",
@@ -703,6 +703,26 @@
           "path": "0835-image-overlap/0835-image-overlap.py",
           "sha": "e07c80584130872be44c8548b08cc1bbd13d6d61",
           "lastSyncedAt": "2026-09-30T16:58:17.350Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "877",
+      "title": "Stone Game",
+      "slug": "stone-game",
+      "problemName": "0877-stone-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game/",
+      "folderPath": "0877-stone-game/",
+      "readmePath": "0877-stone-game/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0877-stone-game.py",
+          "path": "0877-stone-game/0877-stone-game.py",
+          "sha": "1d310ef9fc1ccb5e4d9267bc5e89e960677d4a4a",
+          "lastSyncedAt": "2026-09-30T17:14:58.319Z"
         }
       ]
     },
