@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-30T17:34:43.583Z",
+  "updatedAt": "2026-09-30T17:39:09.367Z",
   "problems": [
     {
       "frontendId": "6",
@@ -743,6 +743,26 @@
           "path": "0392-is-subsequence/0392-is-subsequence.py",
           "sha": "d2f9af1f09ecb311f7d4459b51ba91bf8291a44b",
           "lastSyncedAt": "2026-09-30T17:32:43.807Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "399",
+      "title": "Evaluate Division",
+      "slug": "evaluate-division",
+      "problemName": "0399-evaluate-division",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-division/",
+      "folderPath": "0399-evaluate-division/",
+      "readmePath": "0399-evaluate-division/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0399-evaluate-division.py",
+          "path": "0399-evaluate-division/0399-evaluate-division.py",
+          "sha": "de3c9fbeb1068e1769e3db77f5aa1370ae44032a",
+          "lastSyncedAt": "2026-09-30T17:39:09.367Z"
         }
       ]
     },
