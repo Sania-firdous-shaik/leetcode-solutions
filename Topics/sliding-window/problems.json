@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-09-30T17:05:03.768Z",
+  "updatedAt": "2026-09-30T17:05:15.900Z",
   "problems": [
     {
       "frontendId": "30",
@@ -42,7 +42,7 @@
           "filename": "0076-minimum-window-substring.py",
           "path": "0076-minimum-window-substring/0076-minimum-window-substring.py",
           "sha": "5e837a602899decb553d0255e402fa0abfb4a97b",
-          "lastSyncedAt": "2026-09-29T16:42:55.349Z"
+          "lastSyncedAt": "2026-09-30T17:05:15.900Z"
         }
       ]
     },
