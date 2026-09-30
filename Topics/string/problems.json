@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-30T17:22:16.267Z",
+  "updatedAt": "2026-09-30T17:22:28.926Z",
   "problems": [
     {
       "frontendId": "6",
@@ -683,6 +683,26 @@
           "path": "1927-sum-game/1927-sum-game.py",
           "sha": "293535e43297f98ec440184aa9d938eee01e84ae",
           "lastSyncedAt": "2026-09-30T17:00:39.921Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1967",
+      "title": "Number of Strings That Appear as Substrings in Word",
+      "slug": "number-of-strings-that-appear-as-substrings-in-word",
+      "problemName": "1967-number-of-strings-that-appear-as-substrings-in-word",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/",
+      "folderPath": "1967-number-of-strings-that-appear-as-substrings-in-word/",
+      "readmePath": "1967-number-of-strings-that-appear-as-substrings-in-word/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1967-number-of-strings-that-appear-as-substrings-in-word.py",
+          "path": "1967-number-of-strings-that-appear-as-substrings-in-word/1967-number-of-strings-that-appear-as-substrings-in-word.py",
+          "sha": "95c6f00cb7a9f8fcf4bfc5e80fd381ae051a429a",
+          "lastSyncedAt": "2026-09-30T17:22:28.926Z"
         }
       ]
     },
