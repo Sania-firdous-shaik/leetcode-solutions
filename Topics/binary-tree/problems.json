@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-09-30T17:11:22.553Z",
+  "updatedAt": "2026-09-30T17:30:15.390Z",
   "problems": [
     {
       "frontendId": "106",
@@ -23,6 +23,26 @@
           "path": "0106-construct-binary-tree-from-inorder-and-postorder-traversal/0106-construct-binary-tree-from-inorder-and-postorder-traversal.py",
           "sha": "0aefac5441da50cef6b5e8b0640921e74a78d761",
           "lastSyncedAt": "2026-09-30T17:11:22.553Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2196",
+      "title": "Create Binary Tree From Descriptions",
+      "slug": "create-binary-tree-from-descriptions",
+      "problemName": "2196-create-binary-tree-from-descriptions",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/create-binary-tree-from-descriptions/",
+      "folderPath": "2196-create-binary-tree-from-descriptions/",
+      "readmePath": "2196-create-binary-tree-from-descriptions/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2196-create-binary-tree-from-descriptions.py",
+          "path": "2196-create-binary-tree-from-descriptions/2196-create-binary-tree-from-descriptions.py",
+          "sha": "91e336d2bf73638c79ff89d298f50e83a06b9e5c",
+          "lastSyncedAt": "2026-09-30T17:30:15.390Z"
         }
       ]
     },
