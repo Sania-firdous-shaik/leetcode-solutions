@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-30T17:25:35.639Z",
+  "updatedAt": "2026-09-30T17:25:45.109Z",
   "problems": [
     {
       "frontendId": "6",
@@ -243,6 +243,26 @@
           "path": "0115-distinct-subsequences/0115-distinct-subsequences.py",
           "sha": "9758e874fb542dbd9ad09e63f98115e0f3c308dc",
           "lastSyncedAt": "2026-09-30T16:59:08.777Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "125",
+      "title": "Valid Palindrome",
+      "slug": "valid-palindrome",
+      "problemName": "0125-valid-palindrome",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome/",
+      "folderPath": "0125-valid-palindrome/",
+      "readmePath": "0125-valid-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0125-valid-palindrome.py",
+          "path": "0125-valid-palindrome/0125-valid-palindrome.py",
+          "sha": "6187659330af900f975525c9d49184bb4c316225",
+          "lastSyncedAt": "2026-09-30T17:25:45.109Z"
         }
       ]
     },
