@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-30T17:07:59.746Z",
+  "updatedAt": "2026-09-30T17:08:24.973Z",
   "problems": [
     {
       "frontendId": "60",
@@ -123,6 +123,26 @@
           "path": "0836-rectangle-overlap/0836-rectangle-overlap.py",
           "sha": "d7cb5c1b0945768bfda8ebf16451c0d0afc677ff",
           "lastSyncedAt": "2026-09-30T16:58:13.510Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1140",
+      "title": "Stone Game II",
+      "slug": "stone-game-ii",
+      "problemName": "1140-stone-game-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-ii/",
+      "folderPath": "1140-stone-game-ii/",
+      "readmePath": "1140-stone-game-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1140-stone-game-ii.py",
+          "path": "1140-stone-game-ii/1140-stone-game-ii.py",
+          "sha": "7ad9f93084b4f4951367e71476c634936146a044",
+          "lastSyncedAt": "2026-09-30T17:08:24.973Z"
         }
       ]
     },
