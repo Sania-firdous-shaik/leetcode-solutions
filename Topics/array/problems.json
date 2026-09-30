@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T17:18:56.205Z",
+  "updatedAt": "2026-09-30T17:19:19.547Z",
   "problems": [
     {
       "frontendId": "4",
@@ -803,6 +803,26 @@
           "path": "1260-shift-2d-grid/1260-shift-2d-grid.py",
           "sha": "85b91e25146b45007e267c89cb7c0a88234824e0",
           "lastSyncedAt": "2026-09-30T17:17:32.186Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1331",
+      "title": "Rank Transform of an Array",
+      "slug": "rank-transform-of-an-array",
+      "problemName": "1331-rank-transform-of-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rank-transform-of-an-array/",
+      "folderPath": "1331-rank-transform-of-an-array/",
+      "readmePath": "1331-rank-transform-of-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1331-rank-transform-of-an-array.py",
+          "path": "1331-rank-transform-of-an-array/1331-rank-transform-of-an-array.py",
+          "sha": "38a48d9905f963496e41962824a7649e55a4c7a5",
+          "lastSyncedAt": "2026-09-30T17:19:19.547Z"
         }
       ]
     },
