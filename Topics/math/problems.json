@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-30T17:12:53.428Z",
+  "updatedAt": "2026-09-30T17:13:01.884Z",
   "problems": [
     {
       "frontendId": "48",
@@ -263,6 +263,26 @@
           "path": "1401-circle-and-rectangle-overlapping/1401-circle-and-rectangle-overlapping.py",
           "sha": "dd409ca06b47fe59d9775f0dd986bdfbd85cdbac",
           "lastSyncedAt": "2026-09-30T16:57:38.242Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1406",
+      "title": "Stone Game III",
+      "slug": "stone-game-iii",
+      "problemName": "1406-stone-game-iii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-iii/",
+      "folderPath": "1406-stone-game-iii/",
+      "readmePath": "1406-stone-game-iii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1406-stone-game-iii.py",
+          "path": "1406-stone-game-iii/1406-stone-game-iii.py",
+          "sha": "976d31a0bf2aae1ec11e387ed73513d623203571",
+          "lastSyncedAt": "2026-09-30T17:13:01.884Z"
         }
       ]
     },
