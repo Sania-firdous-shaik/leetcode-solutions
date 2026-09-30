@@ -4,7 +4,7 @@
     "slug": "design",
     "name": "Design"
   },
-  "updatedAt": "2026-09-29T16:42:21.872Z",
+  "updatedAt": "2026-09-30T17:04:32.171Z",
   "problems": [
     {
       "frontendId": "381",
@@ -42,7 +42,7 @@
           "filename": "0432-all-oone-data-structure.py",
           "path": "0432-all-oone-data-structure/0432-all-oone-data-structure.py",
           "sha": "f8579bac691245e050220646d2e88c7c66c78a14",
-          "lastSyncedAt": "2026-09-29T16:41:58.283Z"
+          "lastSyncedAt": "2026-09-30T17:04:32.171Z"
         }
       ]
     }
