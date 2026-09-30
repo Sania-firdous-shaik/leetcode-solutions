@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-30T17:16:59.629Z",
+  "updatedAt": "2026-09-30T17:19:40.566Z",
   "problems": [
     {
       "frontendId": "187",
@@ -103,6 +103,26 @@
           "path": "3514-number-of-unique-xor-triplets-ii/3514-number-of-unique-xor-triplets-ii.py",
           "sha": "6685b7ae9c02276c1aa915ede1de1ed2c51057b5",
           "lastSyncedAt": "2026-09-30T17:16:48.097Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3534",
+      "title": "Path Existence Queries in a Graph II",
+      "slug": "path-existence-queries-in-a-graph-ii",
+      "problemName": "3534-path-existence-queries-in-a-graph-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/",
+      "folderPath": "3534-path-existence-queries-in-a-graph-ii/",
+      "readmePath": "3534-path-existence-queries-in-a-graph-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3534-path-existence-queries-in-a-graph-ii.py",
+          "path": "3534-path-existence-queries-in-a-graph-ii/3534-path-existence-queries-in-a-graph-ii.py",
+          "sha": "da484276eba09c47480d9a068eda675c6c04ecd4",
+          "lastSyncedAt": "2026-09-30T17:19:40.566Z"
         }
       ]
     },
