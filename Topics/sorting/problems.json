@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-30T17:19:40.566Z",
+  "updatedAt": "2026-09-30T17:20:34.015Z",
   "problems": [
     {
       "frontendId": "169",
@@ -123,6 +123,26 @@
           "path": "1096-brace-expansion-ii/1096-brace-expansion-ii.py",
           "sha": "69cd0b04c580b12228176905dbb0f3682bae1508",
           "lastSyncedAt": "2026-09-30T16:56:48.107Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1288",
+      "title": "Remove Covered Intervals",
+      "slug": "remove-covered-intervals",
+      "problemName": "1288-remove-covered-intervals",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-covered-intervals/",
+      "folderPath": "1288-remove-covered-intervals/",
+      "readmePath": "1288-remove-covered-intervals/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1288-remove-covered-intervals.py",
+          "path": "1288-remove-covered-intervals/1288-remove-covered-intervals.py",
+          "sha": "2618efca61583fe3a55a07fbdf22b16a144a09c5",
+          "lastSyncedAt": "2026-09-30T17:20:34.015Z"
         }
       ]
     },
