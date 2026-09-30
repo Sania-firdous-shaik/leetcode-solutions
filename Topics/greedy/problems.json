@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-09-30T17:31:43.171Z",
+  "updatedAt": "2026-09-30T17:31:53.253Z",
   "problems": [
     {
       "frontendId": "11",
@@ -63,6 +63,26 @@
           "path": "0045-jump-game-ii/0045-jump-game-ii.py",
           "sha": "a3552beff2c703f66bc0bb5ff852161e72f91dca",
           "lastSyncedAt": "2026-09-30T17:13:43.508Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "179",
+      "title": "Largest Number",
+      "slug": "largest-number",
+      "problemName": "0179-largest-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-number/",
+      "folderPath": "0179-largest-number/",
+      "readmePath": "0179-largest-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0179-largest-number.py",
+          "path": "0179-largest-number/0179-largest-number.py",
+          "sha": "2c49d3e4537ef9a0d8348acf528155f37f59b8b0",
+          "lastSyncedAt": "2026-09-30T17:31:53.253Z"
         }
       ]
     },
