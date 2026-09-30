@@ -4,7 +4,7 @@
     "slug": "greatest-common-divisor",
     "name": "Greatest Common Divisor"
   },
-  "updatedAt": "2026-09-30T17:17:55.920Z",
+  "updatedAt": "2026-09-30T17:18:09.894Z",
   "problems": [
     {
       "frontendId": "149",
@@ -43,6 +43,26 @@
           "path": "1979-find-greatest-common-divisor-of-array/1979-find-greatest-common-divisor-of-array.py",
           "sha": "ae3466e3af3509ec7527e13f04f438ffb68c3ee7",
           "lastSyncedAt": "2026-09-30T17:17:55.920Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3312",
+      "title": "Sorted GCD Pair Queries",
+      "slug": "sorted-gcd-pair-queries",
+      "problemName": "3312-sorted-gcd-pair-queries",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sorted-gcd-pair-queries/",
+      "folderPath": "3312-sorted-gcd-pair-queries/",
+      "readmePath": "3312-sorted-gcd-pair-queries/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3312-sorted-gcd-pair-queries.py",
+          "path": "3312-sorted-gcd-pair-queries/3312-sorted-gcd-pair-queries.py",
+          "sha": "bce557917dc092028bf7a1c8de625135bf5d4396",
+          "lastSyncedAt": "2026-09-30T17:18:09.894Z"
         }
       ]
     }
