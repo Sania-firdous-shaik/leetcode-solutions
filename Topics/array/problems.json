@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T17:15:14.744Z",
+  "updatedAt": "2026-09-30T17:16:20.749Z",
   "problems": [
     {
       "frontendId": "4",
@@ -803,6 +803,26 @@
           "path": "1406-stone-game-iii/1406-stone-game-iii.py",
           "sha": "976d31a0bf2aae1ec11e387ed73513d623203571",
           "lastSyncedAt": "2026-09-30T17:13:01.884Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1464",
+      "title": "Maximum Product of Two Elements in an Array",
+      "slug": "maximum-product-of-two-elements-in-an-array",
+      "problemName": "1464-maximum-product-of-two-elements-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/",
+      "folderPath": "1464-maximum-product-of-two-elements-in-an-array/",
+      "readmePath": "1464-maximum-product-of-two-elements-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1464-maximum-product-of-two-elements-in-an-array.py",
+          "path": "1464-maximum-product-of-two-elements-in-an-array/1464-maximum-product-of-two-elements-in-an-array.py",
+          "sha": "a93d13c08d7821f820e6e36d23355d65b11049f5",
+          "lastSyncedAt": "2026-09-30T17:16:20.749Z"
         }
       ]
     },
