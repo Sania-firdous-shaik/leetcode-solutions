@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-09-30T17:09:57.987Z",
+  "updatedAt": "2026-09-30T17:11:09.843Z",
   "problems": [
     {
       "frontendId": "37",
@@ -63,6 +63,26 @@
           "path": "0051-n-queens/0051-n-queens.py",
           "sha": "3e20f2796c154ca5db97b64c9c46dda590e50a15",
           "lastSyncedAt": "2026-09-30T17:05:46.180Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "126",
+      "title": "Word Ladder II",
+      "slug": "word-ladder-ii",
+      "problemName": "0126-word-ladder-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/word-ladder-ii/",
+      "folderPath": "0126-word-ladder-ii/",
+      "readmePath": "0126-word-ladder-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0126-word-ladder-ii.py",
+          "path": "0126-word-ladder-ii/0126-word-ladder-ii.py",
+          "sha": "58e9b9149ff910075a7204ebe7025c11e926c20b",
+          "lastSyncedAt": "2026-09-30T17:11:09.843Z"
         }
       ]
     },
