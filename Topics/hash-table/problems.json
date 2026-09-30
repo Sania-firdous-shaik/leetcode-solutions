@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-30T16:58:52.755Z",
+  "updatedAt": "2026-09-30T16:59:36.067Z",
   "problems": [
     {
       "frontendId": "30",
@@ -502,7 +502,7 @@
           "filename": "3568-minimum-moves-to-clean-the-classroom.py",
           "path": "3568-minimum-moves-to-clean-the-classroom/3568-minimum-moves-to-clean-the-classroom.py",
           "sha": "4e6066918e4ecd6352b40cc2f1f464d4217656ea",
-          "lastSyncedAt": "2026-09-29T16:50:39.829Z"
+          "lastSyncedAt": "2026-09-30T16:59:36.067Z"
         }
       ]
     },
