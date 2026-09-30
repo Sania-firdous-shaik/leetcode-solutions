@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-30T17:26:10.970Z",
+  "updatedAt": "2026-09-30T17:26:37.765Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1083,6 +1083,26 @@
           "path": "1563-stone-game-v/1563-stone-game-v.py",
           "sha": "63fc8d6ea3cb0831639392a320b3caf7eda3b779",
           "lastSyncedAt": "2026-09-30T17:03:00.730Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1636",
+      "title": "Sort Array by Increasing Frequency",
+      "slug": "sort-array-by-increasing-frequency",
+      "problemName": "1636-sort-array-by-increasing-frequency",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-array-by-increasing-frequency/",
+      "folderPath": "1636-sort-array-by-increasing-frequency/",
+      "readmePath": "1636-sort-array-by-increasing-frequency/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1636-sort-array-by-increasing-frequency.py",
+          "path": "1636-sort-array-by-increasing-frequency/1636-sort-array-by-increasing-frequency.py",
+          "sha": "1c9c7f5b676072868babaa7c046637433978bdcd",
+          "lastSyncedAt": "2026-09-30T17:26:37.765Z"
         }
       ]
     },
