@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-30T17:29:52.568Z",
+  "updatedAt": "2026-09-30T17:30:36.750Z",
   "problems": [
     {
       "frontendId": "10",
@@ -923,6 +923,26 @@
           "path": "3700-number-of-zigzag-arrays-ii/3700-number-of-zigzag-arrays-ii.py",
           "sha": "c48be54ec00cf1423d9d80bb5f55278d67f7c2e2",
           "lastSyncedAt": "2026-09-30T17:23:35.358Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3753",
+      "title": "Total Waviness of Numbers in Range II",
+      "slug": "total-waviness-of-numbers-in-range-ii",
+      "problemName": "3753-total-waviness-of-numbers-in-range-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/",
+      "folderPath": "3753-total-waviness-of-numbers-in-range-ii/",
+      "readmePath": "3753-total-waviness-of-numbers-in-range-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3753-total-waviness-of-numbers-in-range-ii.py",
+          "path": "3753-total-waviness-of-numbers-in-range-ii/3753-total-waviness-of-numbers-in-range-ii.py",
+          "sha": "733f7ee3a7ad4349f2beffc4a93cdfb3085ac4a3",
+          "lastSyncedAt": "2026-09-30T17:30:36.750Z"
         }
       ]
     }
