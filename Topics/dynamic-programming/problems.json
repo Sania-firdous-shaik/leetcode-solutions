@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-09-30T17:32:43.807Z",
+  "updatedAt": "2026-09-30T17:33:27.822Z",
   "problems": [
     {
       "frontendId": "10",
@@ -183,6 +183,26 @@
           "path": "0070-climbing-stairs/0070-climbing-stairs.py",
           "sha": "0d5b81025c6cf3657e4452389ae1010bd156d474",
           "lastSyncedAt": "2026-09-30T17:29:52.568Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "72",
+      "title": "Edit Distance",
+      "slug": "edit-distance",
+      "problemName": "0072-edit-distance",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/edit-distance/",
+      "folderPath": "0072-edit-distance/",
+      "readmePath": "0072-edit-distance/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0072-edit-distance.py",
+          "path": "0072-edit-distance/0072-edit-distance.py",
+          "sha": "c3cd64a881d7b7e6c560b023d4fc1496d9e0fac5",
+          "lastSyncedAt": "2026-09-30T17:33:27.822Z"
         }
       ]
     },
