@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 238 | 65 | 113 | 60 |
+| 241 | 67 | 113 | 61 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 20 days | 109 |
+| 5 days | 20 days | 110 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-13 | 1 |
 | 2026-09-14 | 1 |
 | 2026-09-16 | 1 |
 | 2026-09-17 | 1 |
@@ -28,20 +27,21 @@ Contains topicwise list of solved problems.
 | 2026-09-27 | 1 |
 | 2026-09-28 | 1 |
 | 2026-09-29 | 1 |
-| 2026-09-30 | 4 |
+| 2026-09-30 | 5 |
+| 2026-10-01 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 132 | 55% |
-| String | 76 | 32% |
-| Math | 61 | 26% |
-| Hash Table | 57 | 24% |
-| Dynamic Programming | 51 | 21% |
-| Sorting | 30 | 13% |
-| Two Pointers | 30 | 13% |
-| Greedy | 28 | 12% |
+| Array | 133 | 55% |
+| String | 79 | 33% |
+| Math | 61 | 25% |
+| Hash Table | 59 | 24% |
+| Dynamic Programming | 52 | 22% |
+| Sorting | 31 | 13% |
+| Two Pointers | 31 | 13% |
+| Greedy | 30 | 12% |
 | Stack | 20 | 8% |
 | Binary Search | 19 | 8% |
 
@@ -73,7 +73,7 @@ Contains topicwise list of solved problems.
 | [Design](Topics/design/) | 5 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 6 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 51 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 52 |
 | [Enumeration](Topics/enumeration/) | 11 |
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 4 |
 | [Eulerian Circuit](Topics/eulerian-circuit/) | 1 |
@@ -84,9 +84,9 @@ Contains topicwise list of solved problems.
 | [Geometry](Topics/geometry/) | 4 |
 | [Graph Theory](Topics/graph/) | 10 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 4 |
-| [Greedy](Topics/greedy/) | 28 |
+| [Greedy](Topics/greedy/) | 30 |
 | [Hash Function](Topics/hash-function/) | 2 |
-| [Hash Table](Topics/hash-table/) | 61 |
+| [Hash Table](Topics/hash-table/) | 63 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 8 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 2 |
@@ -113,16 +113,16 @@ Contains topicwise list of solved problems.
 | [Shortest Path](Topics/shortest-path/) | 3 |
 | [Simulation](Topics/simulation/) | 12 |
 | [Sliding Window](Topics/sliding-window/) | 10 |
-| [Sorting](Topics/sorting/) | 33 |
+| [Sorting](Topics/sorting/) | 34 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
 | [Stack](Topics/stack/) | 21 |
-| [String](Topics/string/) | 80 |
+| [String](Topics/string/) | 83 |
 | [String Matching](Topics/string-matching/) | 4 |
 | [Sweep Line](Topics/sweep-line/) | 1 |
 | [Topological Sort](Topics/topological-sort/) | 1 |
 | [Tree](Topics/tree/) | 5 |
 | [Trie](Topics/trie/) | 4 |
-| [Two Pointers](Topics/two-pointers/) | 31 |
+| [Two Pointers](Topics/two-pointers/) | 32 |
 | [Union-Find](Topics/union-find/) | 8 |
 | [Z Algorithm](Topics/z-algorithm/) | 3 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 7 |
