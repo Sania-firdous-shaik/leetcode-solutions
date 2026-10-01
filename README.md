@@ -133,6 +133,7 @@ Contains topicwise list of solved problems.
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0229-majority-element-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0399-evaluate-division](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0835-image-overlap](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0835-image-overlap) |
@@ -288,6 +289,7 @@ Contains topicwise list of solved problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0031-next-permutation) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Counting
 |  |
