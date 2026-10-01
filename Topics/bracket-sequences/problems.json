@@ -4,7 +4,7 @@
     "slug": "bracket-sequences",
     "name": "Bracket Sequences"
   },
-  "updatedAt": "2026-10-01T16:37:28.548Z",
+  "updatedAt": "2026-10-01T16:39:22.593Z",
   "problems": [
     {
       "frontendId": "20",
@@ -22,7 +22,7 @@
           "filename": "0020-valid-parentheses.py",
           "path": "0020-valid-parentheses/0020-valid-parentheses.py",
           "sha": "f37863ac343b602f353c6ce333a98cb58b545627",
-          "lastSyncedAt": "2026-10-01T16:37:28.548Z"
+          "lastSyncedAt": "2026-10-01T16:39:22.593Z"
         }
       ]
     },
