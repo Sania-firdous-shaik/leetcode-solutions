@@ -4,7 +4,7 @@
     "slug": "geometry",
     "name": "Geometry"
   },
-  "updatedAt": "2026-09-30T17:06:15.982Z",
+  "updatedAt": "2026-10-01T16:41:46.276Z",
   "problems": [
     {
       "frontendId": "149",
@@ -82,7 +82,7 @@
           "filename": "1401-circle-and-rectangle-overlapping.py",
           "path": "1401-circle-and-rectangle-overlapping/1401-circle-and-rectangle-overlapping.py",
           "sha": "dd409ca06b47fe59d9775f0dd986bdfbd85cdbac",
-          "lastSyncedAt": "2026-09-30T16:57:38.242Z"
+          "lastSyncedAt": "2026-10-01T16:41:46.276Z"
         }
       ]
     }
