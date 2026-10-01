@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-09-30T17:26:20.486Z",
+  "updatedAt": "2026-10-01T16:44:12.635Z",
   "problems": [
     {
       "frontendId": "169",
@@ -23,6 +23,26 @@
           "path": "0169-majority-element/0169-majority-element.py",
           "sha": "8b0b096c8b8a8a5c8cbba801d3db6df5c2cf8f3e",
           "lastSyncedAt": "2026-09-30T17:08:07.730Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "229",
+      "title": "Majority Element II",
+      "slug": "majority-element-ii",
+      "problemName": "0229-majority-element-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element-ii/",
+      "folderPath": "0229-majority-element-ii/",
+      "readmePath": "0229-majority-element-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0229-majority-element-ii.py",
+          "path": "0229-majority-element-ii/0229-majority-element-ii.py",
+          "sha": "93d4c286586eb5c7642710505a5e2bda9d5ad43b",
+          "lastSyncedAt": "2026-10-01T16:44:12.635Z"
         }
       ]
     },
