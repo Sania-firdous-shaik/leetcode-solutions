@@ -133,6 +133,7 @@ Contains topicwise list of solved problems.
 ## Array
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0399-evaluate-division](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0835-image-overlap](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -182,6 +183,7 @@ Contains topicwise list of solved problems.
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1096-brace-expansion-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -219,6 +221,7 @@ Contains topicwise list of solved problems.
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1096-brace-expansion-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Simulation
@@ -286,4 +289,12 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
