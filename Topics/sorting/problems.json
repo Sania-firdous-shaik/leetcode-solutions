@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-10-01T16:39:33.726Z",
+  "updatedAt": "2026-10-01T16:40:53.970Z",
   "problems": [
     {
       "frontendId": "15",
@@ -242,7 +242,7 @@
           "filename": "1096-brace-expansion-ii.py",
           "path": "1096-brace-expansion-ii/1096-brace-expansion-ii.py",
           "sha": "69cd0b04c580b12228176905dbb0f3682bae1508",
-          "lastSyncedAt": "2026-09-30T16:56:48.107Z"
+          "lastSyncedAt": "2026-10-01T16:40:53.970Z"
         }
       ]
     },
