@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-10-01T16:42:05.790Z",
+  "updatedAt": "2026-10-01T16:42:37.886Z",
   "problems": [
     {
       "frontendId": "4",
@@ -262,7 +262,7 @@
           "filename": "3414-maximum-score-of-non-overlapping-intervals.py",
           "path": "3414-maximum-score-of-non-overlapping-intervals/3414-maximum-score-of-non-overlapping-intervals.py",
           "sha": "89f040910f1b2e01024e0b87937740295ebfe7c9",
-          "lastSyncedAt": "2026-09-30T16:58:22.554Z"
+          "lastSyncedAt": "2026-10-01T16:42:37.886Z"
         }
       ]
     },
