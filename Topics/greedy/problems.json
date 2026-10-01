@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-10-01T16:37:38.183Z",
+  "updatedAt": "2026-10-01T16:39:13.156Z",
   "problems": [
     {
       "frontendId": "11",
@@ -362,7 +362,7 @@
           "filename": "2472-maximum-number-of-non-overlapping-palindrome-substrings.py",
           "path": "2472-maximum-number-of-non-overlapping-palindrome-substrings/2472-maximum-number-of-non-overlapping-palindrome-substrings.py",
           "sha": "9c841c44c020d08bb7edbb5df563f72e21316e9d",
-          "lastSyncedAt": "2026-10-01T16:37:16.187Z"
+          "lastSyncedAt": "2026-10-01T16:39:13.156Z"
         }
       ]
     },
