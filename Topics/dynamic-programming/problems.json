@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-10-01T16:39:13.156Z",
+  "updatedAt": "2026-10-01T16:40:24.109Z",
   "problems": [
     {
       "frontendId": "10",
@@ -782,7 +782,7 @@
           "filename": "2267-check-if-there-is-a-valid-parentheses-string-path.py",
           "path": "2267-check-if-there-is-a-valid-parentheses-string-path/2267-check-if-there-is-a-valid-parentheses-string-path.py",
           "sha": "4462f68577b4d9705428632ff3104165875f50df",
-          "lastSyncedAt": "2026-09-30T16:56:19.256Z"
+          "lastSyncedAt": "2026-10-01T16:40:24.109Z"
         }
       ]
     },
