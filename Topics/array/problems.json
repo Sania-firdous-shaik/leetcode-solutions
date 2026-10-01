@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-01T16:40:24.109Z",
+  "updatedAt": "2026-10-01T16:40:46.818Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1482,7 +1482,7 @@
           "filename": "1807-evaluate-the-bracket-pairs-of-a-string.py",
           "path": "1807-evaluate-the-bracket-pairs-of-a-string/1807-evaluate-the-bracket-pairs-of-a-string.py",
           "sha": "417a4f8288dd82fddafeb771db04d2d1e4d27c98",
-          "lastSyncedAt": "2026-09-30T16:56:40.574Z"
+          "lastSyncedAt": "2026-10-01T16:40:46.818Z"
         }
       ]
     },
