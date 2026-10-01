@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-01T16:43:55.507Z",
+  "updatedAt": "2026-10-01T16:44:12.635Z",
   "problems": [
     {
       "frontendId": "1",
@@ -543,6 +543,26 @@
           "path": "0219-contains-duplicate-ii/0219-contains-duplicate-ii.py",
           "sha": "65a95cef727ffc34b9a8329fa2ab283195685b03",
           "lastSyncedAt": "2026-09-30T17:07:50.060Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "229",
+      "title": "Majority Element II",
+      "slug": "majority-element-ii",
+      "problemName": "0229-majority-element-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element-ii/",
+      "folderPath": "0229-majority-element-ii/",
+      "readmePath": "0229-majority-element-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0229-majority-element-ii.py",
+          "path": "0229-majority-element-ii/0229-majority-element-ii.py",
+          "sha": "93d4c286586eb5c7642710505a5e2bda9d5ad43b",
+          "lastSyncedAt": "2026-10-01T16:44:12.635Z"
         }
       ]
     },
