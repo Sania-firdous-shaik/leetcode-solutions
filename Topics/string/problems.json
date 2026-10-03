@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-03T15:40:35.034Z",
+  "updatedAt": "2026-10-03T15:43:48.825Z",
   "problems": [
     {
       "frontendId": "6",
@@ -763,6 +763,26 @@
           "path": "0392-is-subsequence/0392-is-subsequence.py",
           "sha": "d2f9af1f09ecb311f7d4459b51ba91bf8291a44b",
           "lastSyncedAt": "2026-09-30T17:32:43.807Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "395",
+      "title": "Longest Substring with At Least K Repeating Characters",
+      "slug": "longest-substring-with-at-least-k-repeating-characters",
+      "problemName": "0395-longest-substring-with-at-least-k-repeating-characters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/",
+      "folderPath": "0395-longest-substring-with-at-least-k-repeating-characters/",
+      "readmePath": "0395-longest-substring-with-at-least-k-repeating-characters/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0395-longest-substring-with-at-least-k-repeating-characters.py",
+          "path": "0395-longest-substring-with-at-least-k-repeating-characters/0395-longest-substring-with-at-least-k-repeating-characters.py",
+          "sha": "3e9c25896ea269a31b76a39e615d90fc375d10de",
+          "lastSyncedAt": "2026-10-03T15:43:48.825Z"
         }
       ]
     },
