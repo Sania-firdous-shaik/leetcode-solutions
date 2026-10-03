@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-10-03T15:40:35.034Z",
+  "updatedAt": "2026-10-03T15:45:03.070Z",
   "problems": [
     {
       "frontendId": "20",
@@ -203,6 +203,26 @@
           "path": "0316-remove-duplicate-letters/0316-remove-duplicate-letters.py",
           "sha": "af3b51cb65cc4a865d402382b4d1fc4c828f1695",
           "lastSyncedAt": "2026-09-30T17:09:45.375Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "394",
+      "title": "Decode String",
+      "slug": "decode-string",
+      "problemName": "0394-decode-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/decode-string/",
+      "folderPath": "0394-decode-string/",
+      "readmePath": "0394-decode-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0394-decode-string.py",
+          "path": "0394-decode-string/0394-decode-string.py",
+          "sha": "3c4f390561a17bdb21ee1115dbe9055be7caf6d2",
+          "lastSyncedAt": "2026-10-03T15:45:03.070Z"
         }
       ]
     },
