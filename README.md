@@ -187,6 +187,7 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1096-brace-expansion-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -200,6 +201,7 @@ Contains topicwise list of solved problems.
 ## Sliding Window
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
@@ -208,6 +210,7 @@ Contains topicwise list of solved problems.
 | [0020-valid-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1096-brace-expansion-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
@@ -307,4 +310,8 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0229-majority-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 <!---LeetCode Topics End-->
