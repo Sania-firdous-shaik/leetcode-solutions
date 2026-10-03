@@ -50,7 +50,7 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 137 |
+| [Array](Topics/array/) | 139 |
 | [Backtracking](Topics/backtracking/) | 12 |
 | [Bellman–Ford Algorithm](Topics/bellman-ford-algorithm/) | 1 |
 | [Bidirectional Search](Topics/bidirectional-search/) | 2 |
@@ -58,7 +58,7 @@ Contains topicwise list of solved problems.
 | [Binary Search](Topics/binary-search/) | 19 |
 | [Binary Tree](Topics/binary-tree/) | 3 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 10 |
-| [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
+| [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 2 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 8 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 14 |
@@ -66,7 +66,7 @@ Contains topicwise list of solved problems.
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 4 |
 | [Complete Knapsack](Topics/complete-knapsack/) | 2 |
-| [Counting](Topics/counting/) | 10 |
+| [Counting](Topics/counting/) | 11 |
 | [Counting Sort](Topics/counting-sort/) | 2 |
 | [Dancing Links](Topics/dancing-links/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 10 |
@@ -86,7 +86,7 @@ Contains topicwise list of solved problems.
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 4 |
 | [Greedy](Topics/greedy/) | 30 |
 | [Hash Function](Topics/hash-function/) | 2 |
-| [Hash Table](Topics/hash-table/) | 63 |
+| [Hash Table](Topics/hash-table/) | 64 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 8 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 2 |
@@ -113,7 +113,7 @@ Contains topicwise list of solved problems.
 | [Shortest Path](Topics/shortest-path/) | 3 |
 | [Simulation](Topics/simulation/) | 12 |
 | [Sliding Window](Topics/sliding-window/) | 10 |
-| [Sorting](Topics/sorting/) | 34 |
+| [Sorting](Topics/sorting/) | 35 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
 | [Stack](Topics/stack/) | 21 |
 | [String](Topics/string/) | 83 |
@@ -122,7 +122,7 @@ Contains topicwise list of solved problems.
 | [Topological Sort](Topics/topological-sort/) | 1 |
 | [Tree](Topics/tree/) | 5 |
 | [Trie](Topics/trie/) | 4 |
-| [Two Pointers](Topics/two-pointers/) | 32 |
+| [Two Pointers](Topics/two-pointers/) | 33 |
 | [Union-Find](Topics/union-find/) | 8 |
 | [Z Algorithm](Topics/z-algorithm/) | 3 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 7 |
