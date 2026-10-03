@@ -168,6 +168,7 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -206,6 +207,7 @@ Contains topicwise list of solved problems.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0399-evaluate-division](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1096-brace-expansion-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
@@ -244,6 +246,7 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -258,6 +261,7 @@ Contains topicwise list of solved problems.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
