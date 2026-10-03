@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-03T15:47:30.245Z",
+  "updatedAt": "2026-10-03T15:47:39.592Z",
   "problems": [
     {
       "frontendId": "6",
@@ -802,7 +802,7 @@
           "filename": "0395-longest-substring-with-at-least-k-repeating-characters.py",
           "path": "0395-longest-substring-with-at-least-k-repeating-characters/0395-longest-substring-with-at-least-k-repeating-characters.py",
           "sha": "3e9c25896ea269a31b76a39e615d90fc375d10de",
-          "lastSyncedAt": "2026-10-03T15:43:48.825Z"
+          "lastSyncedAt": "2026-10-03T15:47:39.592Z"
         }
       ]
     },
