@@ -210,6 +210,7 @@ Contains topicwise list of solved problems.
 | [0020-valid-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0394-decode-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -250,6 +251,7 @@ Contains topicwise list of solved problems.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0394-decode-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0394-decode-string) |
 | [1096-brace-expansion-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -314,4 +316,8 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
