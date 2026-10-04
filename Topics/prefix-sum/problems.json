@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-10-04T16:28:04.852Z",
+  "updatedAt": "2026-10-04T16:29:09.112Z",
   "problems": [
     {
       "frontendId": "1140",
@@ -342,7 +342,7 @@
           "filename": "3904-smallest-stable-index-ii.py",
           "path": "3904-smallest-stable-index-ii/3904-smallest-stable-index-ii.py",
           "sha": "95b6a8997c77cd65be1162f40fed4033f9bbceb7",
-          "lastSyncedAt": "2026-10-01T16:43:31.689Z"
+          "lastSyncedAt": "2026-10-04T16:29:09.112Z"
         }
       ]
     }
