@@ -4,7 +4,7 @@
     "slug": "monotonic-stack",
     "name": "Monotonic Stack"
   },
-  "updatedAt": "2026-10-01T16:39:50.390Z",
+  "updatedAt": "2026-10-04T16:25:56.839Z",
   "problems": [
     {
       "frontendId": "42",
@@ -62,7 +62,7 @@
           "filename": "0402-remove-k-digits.py",
           "path": "0402-remove-k-digits/0402-remove-k-digits.py",
           "sha": "a75cf0832550681cf414b9ddaca695800e43998d",
-          "lastSyncedAt": "2026-10-01T16:39:50.390Z"
+          "lastSyncedAt": "2026-10-04T16:25:56.839Z"
         }
       ]
     },
