@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-04T16:27:12.743Z",
+  "updatedAt": "2026-10-04T16:27:47.479Z",
   "problems": [
     {
       "frontendId": "1",
@@ -842,7 +842,7 @@
           "filename": "1520-maximum-number-of-non-overlapping-substrings.py",
           "path": "1520-maximum-number-of-non-overlapping-substrings/1520-maximum-number-of-non-overlapping-substrings.py",
           "sha": "f5320d944797bd7e0a2e875b3304a360f08bacbd",
-          "lastSyncedAt": "2026-10-01T16:41:51.203Z"
+          "lastSyncedAt": "2026-10-04T16:27:47.479Z"
         }
       ]
     },
