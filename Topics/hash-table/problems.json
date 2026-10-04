@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-04T16:25:42.349Z",
+  "updatedAt": "2026-10-04T16:26:49.722Z",
   "problems": [
     {
       "frontendId": "1",
@@ -922,7 +922,7 @@
           "filename": "1807-evaluate-the-bracket-pairs-of-a-string.py",
           "path": "1807-evaluate-the-bracket-pairs-of-a-string/1807-evaluate-the-bracket-pairs-of-a-string.py",
           "sha": "417a4f8288dd82fddafeb771db04d2d1e4d27c98",
-          "lastSyncedAt": "2026-10-01T16:40:46.818Z"
+          "lastSyncedAt": "2026-10-04T16:26:49.722Z"
         }
       ]
     },
