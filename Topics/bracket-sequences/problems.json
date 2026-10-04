@@ -4,7 +4,7 @@
     "slug": "bracket-sequences",
     "name": "Bracket Sequences"
   },
-  "updatedAt": "2026-10-03T15:40:35.034Z",
+  "updatedAt": "2026-10-04T16:24:09.072Z",
   "problems": [
     {
       "frontendId": "20",
@@ -63,6 +63,26 @@
           "path": "0032-longest-valid-parentheses/0032-longest-valid-parentheses.py",
           "sha": "74b2856979090d5bcac52dddfacb49a22c869570",
           "lastSyncedAt": "2026-10-03T15:40:35.034Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "678",
+      "title": "Valid Parenthesis String",
+      "slug": "valid-parenthesis-string",
+      "problemName": "0678-valid-parenthesis-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parenthesis-string/",
+      "folderPath": "0678-valid-parenthesis-string/",
+      "readmePath": "0678-valid-parenthesis-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0678-valid-parenthesis-string.py",
+          "path": "0678-valid-parenthesis-string/0678-valid-parenthesis-string.py",
+          "sha": "7c83656d8c93061c2591b0f7c39ed041e1916334",
+          "lastSyncedAt": "2026-10-04T16:24:09.072Z"
         }
       ]
     },
