@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-04T16:29:24.858Z",
+  "updatedAt": "2026-10-04T16:29:29.990Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2482,7 +2482,7 @@
           "filename": "3568-minimum-moves-to-clean-the-classroom.py",
           "path": "3568-minimum-moves-to-clean-the-classroom/3568-minimum-moves-to-clean-the-classroom.py",
           "sha": "4e6066918e4ecd6352b40cc2f1f464d4217656ea",
-          "lastSyncedAt": "2026-10-01T16:43:55.507Z"
+          "lastSyncedAt": "2026-10-04T16:29:29.990Z"
         }
       ]
     },
