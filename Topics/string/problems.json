@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-03T15:47:39.592Z",
+  "updatedAt": "2026-10-04T16:24:09.072Z",
   "problems": [
     {
       "frontendId": "6",
@@ -963,6 +963,26 @@
           "path": "0557-reverse-words-in-a-string-iii/0557-reverse-words-in-a-string-iii.py",
           "sha": "8ee17e493d29098c7c47508ae279fb011ccadf56",
           "lastSyncedAt": "2026-09-30T17:33:13.782Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "678",
+      "title": "Valid Parenthesis String",
+      "slug": "valid-parenthesis-string",
+      "problemName": "0678-valid-parenthesis-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parenthesis-string/",
+      "folderPath": "0678-valid-parenthesis-string/",
+      "readmePath": "0678-valid-parenthesis-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0678-valid-parenthesis-string.py",
+          "path": "0678-valid-parenthesis-string/0678-valid-parenthesis-string.py",
+          "sha": "7c83656d8c93061c2591b0f7c39ed041e1916334",
+          "lastSyncedAt": "2026-10-04T16:24:09.072Z"
         }
       ]
     },
