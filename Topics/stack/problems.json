@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-10-03T15:47:30.245Z",
+  "updatedAt": "2026-10-04T16:24:09.072Z",
   "problems": [
     {
       "frontendId": "20",
@@ -243,6 +243,26 @@
           "path": "0402-remove-k-digits/0402-remove-k-digits.py",
           "sha": "a75cf0832550681cf414b9ddaca695800e43998d",
           "lastSyncedAt": "2026-10-01T16:39:50.390Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "678",
+      "title": "Valid Parenthesis String",
+      "slug": "valid-parenthesis-string",
+      "problemName": "0678-valid-parenthesis-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parenthesis-string/",
+      "folderPath": "0678-valid-parenthesis-string/",
+      "readmePath": "0678-valid-parenthesis-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0678-valid-parenthesis-string.py",
+          "path": "0678-valid-parenthesis-string/0678-valid-parenthesis-string.py",
+          "sha": "7c83656d8c93061c2591b0f7c39ed041e1916334",
+          "lastSyncedAt": "2026-10-04T16:24:09.072Z"
         }
       ]
     },
