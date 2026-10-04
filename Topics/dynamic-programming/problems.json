@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-10-04T16:29:04.266Z",
+  "updatedAt": "2026-10-04T16:30:13.354Z",
   "problems": [
     {
       "frontendId": "10",
@@ -782,7 +782,7 @@
           "filename": "1872-stone-game-viii.py",
           "path": "1872-stone-game-viii/1872-stone-game-viii.py",
           "sha": "eea146e3d129a3b1a22e0334e5a88efd6abbe678",
-          "lastSyncedAt": "2026-09-30T17:00:23.473Z"
+          "lastSyncedAt": "2026-10-04T16:30:13.354Z"
         }
       ]
     },
