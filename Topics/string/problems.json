@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-04T16:30:08.871Z",
+  "updatedAt": "2026-10-05T17:17:48.139Z",
   "problems": [
     {
       "frontendId": "6",
@@ -1003,6 +1003,26 @@
           "path": "0796-rotate-string/0796-rotate-string.py",
           "sha": "31d6797425409779ede5ec2928a87fd232197dd3",
           "lastSyncedAt": "2026-09-30T17:02:56.634Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "856",
+      "title": "Score of Parentheses",
+      "slug": "score-of-parentheses",
+      "problemName": "0856-score-of-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/score-of-parentheses/",
+      "folderPath": "0856-score-of-parentheses/",
+      "readmePath": "0856-score-of-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0856-score-of-parentheses.py",
+          "path": "0856-score-of-parentheses/0856-score-of-parentheses.py",
+          "sha": "fd53ac1eef035b679cc6a818bf55ca7a013420f1",
+          "lastSyncedAt": "2026-10-05T17:17:48.139Z"
         }
       ]
     },
