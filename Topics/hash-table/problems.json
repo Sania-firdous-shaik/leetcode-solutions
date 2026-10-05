@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-05T17:18:52.885Z",
+  "updatedAt": "2026-10-05T17:20:18.797Z",
   "problems": [
     {
       "frontendId": "1",
@@ -642,7 +642,7 @@
           "filename": "0395-longest-substring-with-at-least-k-repeating-characters.py",
           "path": "0395-longest-substring-with-at-least-k-repeating-characters/0395-longest-substring-with-at-least-k-repeating-characters.py",
           "sha": "3e9c25896ea269a31b76a39e615d90fc375d10de",
-          "lastSyncedAt": "2026-10-05T17:18:52.885Z"
+          "lastSyncedAt": "2026-10-05T17:20:18.797Z"
         }
       ]
     },
