@@ -5,19 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 241 | 67 | 113 | 61 |
+| 245 | 67 | 117 | 61 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 5 days | 20 days | 110 |
+| 3 days | 20 days | 113 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-14 | 1 |
-| 2026-09-16 | 1 |
-| 2026-09-17 | 1 |
 | 2026-09-18 | 1 |
 | 2026-09-19 | 1 |
 | 2026-09-20 | 1 |
@@ -29,20 +26,23 @@ Contains topicwise list of solved problems.
 | 2026-09-29 | 1 |
 | 2026-09-30 | 5 |
 | 2026-10-01 | 2 |
+| 2026-10-03 | 2 |
+| 2026-10-04 | 1 |
+| 2026-10-05 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 133 | 55% |
-| String | 79 | 33% |
+| Array | 133 | 54% |
+| String | 83 | 34% |
 | Math | 61 | 25% |
-| Hash Table | 59 | 24% |
-| Dynamic Programming | 52 | 22% |
+| Hash Table | 60 | 24% |
+| Dynamic Programming | 53 | 22% |
+| Greedy | 31 | 13% |
 | Sorting | 31 | 13% |
 | Two Pointers | 31 | 13% |
-| Greedy | 30 | 12% |
-| Stack | 20 | 8% |
+| Stack | 23 | 9% |
 | Binary Search | 19 | 8% |
 
 ## Topics
@@ -50,7 +50,7 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 139 |
+| [Array](Topics/array/) | 140 |
 | [Backtracking](Topics/backtracking/) | 12 |
 | [Bellman–Ford Algorithm](Topics/bellman-ford-algorithm/) | 1 |
 | [Bidirectional Search](Topics/bidirectional-search/) | 2 |
@@ -60,7 +60,7 @@ Contains topicwise list of solved problems.
 | [Bit Manipulation](Topics/bit-manipulation/) | 10 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 2 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 8 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 10 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 14 |
 | [Brute-Force Search](Topics/brute-force-search/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
@@ -71,9 +71,9 @@ Contains topicwise list of solved problems.
 | [Dancing Links](Topics/dancing-links/) | 1 |
 | [Depth-First Search](Topics/depth-first-search/) | 10 |
 | [Design](Topics/design/) | 5 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 6 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 7 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 52 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 53 |
 | [Enumeration](Topics/enumeration/) | 11 |
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 4 |
 | [Eulerian Circuit](Topics/eulerian-circuit/) | 1 |
@@ -84,9 +84,9 @@ Contains topicwise list of solved problems.
 | [Geometry](Topics/geometry/) | 4 |
 | [Graph Theory](Topics/graph/) | 10 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 4 |
-| [Greedy](Topics/greedy/) | 30 |
+| [Greedy](Topics/greedy/) | 31 |
 | [Hash Function](Topics/hash-function/) | 2 |
-| [Hash Table](Topics/hash-table/) | 64 |
+| [Hash Table](Topics/hash-table/) | 65 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 8 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 2 |
@@ -94,7 +94,7 @@ Contains topicwise list of solved problems.
 | [Longest Common Subsequence](Topics/longest-common-subsequence/) | 1 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 1 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 63 |
+| [Math](Topics/math/) | 64 |
 | [Matrix](Topics/matrix/) | 19 |
 | [Memoization](Topics/memoization/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
@@ -106,17 +106,17 @@ Contains topicwise list of solved problems.
 | [Prefix Sum](Topics/prefix-sum/) | 17 |
 | [Queue](Topics/queue/) | 1 |
 | [Randomized](Topics/randomized/) | 2 |
-| [Recursion](Topics/recursion/) | 8 |
+| [Recursion](Topics/recursion/) | 9 |
 | [Rolling Hash](Topics/rolling-hash/) | 2 |
 | [Segment Tree](Topics/segment-tree/) | 7 |
 | [Semi-Eulerian Graph](Topics/semi-eulerian-graph/) | 1 |
 | [Shortest Path](Topics/shortest-path/) | 3 |
-| [Simulation](Topics/simulation/) | 12 |
-| [Sliding Window](Topics/sliding-window/) | 10 |
+| [Simulation](Topics/simulation/) | 13 |
+| [Sliding Window](Topics/sliding-window/) | 11 |
 | [Sorting](Topics/sorting/) | 35 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
-| [Stack](Topics/stack/) | 21 |
-| [String](Topics/string/) | 83 |
+| [Stack](Topics/stack/) | 24 |
+| [String](Topics/string/) | 88 |
 | [String Matching](Topics/string-matching/) | 4 |
 | [Sweep Line](Topics/sweep-line/) | 1 |
 | [Topological Sort](Topics/topological-sort/) | 1 |
