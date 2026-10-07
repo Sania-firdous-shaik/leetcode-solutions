@@ -142,6 +142,7 @@ Contains topicwise list of solved problems.
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3524-find-x-value-of-array-i](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -249,6 +250,7 @@ Contains topicwise list of solved problems.
 | ------- |
 | [0415-add-strings](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0415-add-strings) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1914-cyclically-rotating-a-grid) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
