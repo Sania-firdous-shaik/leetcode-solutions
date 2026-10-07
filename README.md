@@ -214,6 +214,7 @@ Contains topicwise list of solved problems.
 | [0020-valid-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0394-decode-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0399-evaluate-division) |
@@ -257,6 +258,7 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -274,6 +276,7 @@ Contains topicwise list of solved problems.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [1096-brace-expansion-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
