@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-10-07T16:27:38.736Z",
+  "updatedAt": "2026-10-07T16:28:07.814Z",
   "problems": [
     {
       "frontendId": "11",
@@ -522,7 +522,7 @@
           "filename": "2472-maximum-number-of-non-overlapping-palindrome-substrings.py",
           "path": "2472-maximum-number-of-non-overlapping-palindrome-substrings/2472-maximum-number-of-non-overlapping-palindrome-substrings.py",
           "sha": "9c841c44c020d08bb7edbb5df563f72e21316e9d",
-          "lastSyncedAt": "2026-10-04T16:25:28.361Z"
+          "lastSyncedAt": "2026-10-07T16:28:07.814Z"
         }
       ]
     },
