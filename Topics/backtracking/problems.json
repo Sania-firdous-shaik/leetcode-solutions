@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-10-07T16:25:51.809Z",
+  "updatedAt": "2026-10-07T16:27:29.455Z",
   "problems": [
     {
       "frontendId": "17",
@@ -42,7 +42,7 @@
           "filename": "0022-generate-parentheses.py",
           "path": "0022-generate-parentheses/0022-generate-parentheses.py",
           "sha": "c4215734f3f01f7b547beac6c3c46155620340e5",
-          "lastSyncedAt": "2026-10-05T17:20:44.712Z"
+          "lastSyncedAt": "2026-10-07T16:27:29.455Z"
         }
       ]
     },
