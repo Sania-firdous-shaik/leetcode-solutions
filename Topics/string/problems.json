@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-07T16:28:30.306Z",
+  "updatedAt": "2026-10-07T16:28:39.144Z",
   "problems": [
     {
       "frontendId": "6",
@@ -862,7 +862,7 @@
           "filename": "0402-remove-k-digits.py",
           "path": "0402-remove-k-digits/0402-remove-k-digits.py",
           "sha": "a75cf0832550681cf414b9ddaca695800e43998d",
-          "lastSyncedAt": "2026-10-04T16:25:56.839Z"
+          "lastSyncedAt": "2026-10-07T16:28:39.144Z"
         }
       ]
     },
