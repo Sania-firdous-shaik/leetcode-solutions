@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 245 | 67 | 117 | 61 |
+| 247 | 68 | 118 | 61 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 20 days | 113 |
+| 5 days | 20 days | 115 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-18 | 1 |
-| 2026-09-19 | 1 |
 | 2026-09-20 | 1 |
 | 2026-09-21 | 1 |
 | 2026-09-22 | 1 |
@@ -29,20 +27,22 @@ Contains topicwise list of solved problems.
 | 2026-10-03 | 2 |
 | 2026-10-04 | 1 |
 | 2026-10-05 | 1 |
+| 2026-10-06 | 1 |
+| 2026-10-07 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 133 | 54% |
-| String | 83 | 34% |
+| Array | 134 | 54% |
+| String | 84 | 34% |
 | Math | 61 | 25% |
 | Hash Table | 60 | 24% |
-| Dynamic Programming | 53 | 22% |
-| Greedy | 31 | 13% |
+| Dynamic Programming | 53 | 21% |
+| Greedy | 32 | 13% |
 | Sorting | 31 | 13% |
 | Two Pointers | 31 | 13% |
-| Stack | 23 | 9% |
+| Stack | 24 | 10% |
 | Binary Search | 19 | 8% |
 
 ## Topics
@@ -50,8 +50,8 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 140 |
-| [Backtracking](Topics/backtracking/) | 12 |
+| [Array](Topics/array/) | 142 |
+| [Backtracking](Topics/backtracking/) | 13 |
 | [Bellman–Ford Algorithm](Topics/bellman-ford-algorithm/) | 1 |
 | [Bidirectional Search](Topics/bidirectional-search/) | 2 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
@@ -60,8 +60,8 @@ Contains topicwise list of solved problems.
 | [Bit Manipulation](Topics/bit-manipulation/) | 10 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 2 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 10 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 14 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 11 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 15 |
 | [Brute-Force Search](Topics/brute-force-search/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 4 |
@@ -84,7 +84,7 @@ Contains topicwise list of solved problems.
 | [Geometry](Topics/geometry/) | 4 |
 | [Graph Theory](Topics/graph/) | 10 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 4 |
-| [Greedy](Topics/greedy/) | 31 |
+| [Greedy](Topics/greedy/) | 32 |
 | [Hash Function](Topics/hash-function/) | 2 |
 | [Hash Table](Topics/hash-table/) | 65 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 8 |
@@ -95,7 +95,7 @@ Contains topicwise list of solved problems.
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 1 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 64 |
-| [Matrix](Topics/matrix/) | 19 |
+| [Matrix](Topics/matrix/) | 20 |
 | [Memoization](Topics/memoization/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
 | [Minimax](Topics/minimax-algorithm/) | 7 |
@@ -111,12 +111,12 @@ Contains topicwise list of solved problems.
 | [Segment Tree](Topics/segment-tree/) | 7 |
 | [Semi-Eulerian Graph](Topics/semi-eulerian-graph/) | 1 |
 | [Shortest Path](Topics/shortest-path/) | 3 |
-| [Simulation](Topics/simulation/) | 13 |
+| [Simulation](Topics/simulation/) | 15 |
 | [Sliding Window](Topics/sliding-window/) | 11 |
 | [Sorting](Topics/sorting/) | 35 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
-| [Stack](Topics/stack/) | 24 |
-| [String](Topics/string/) | 88 |
+| [Stack](Topics/stack/) | 25 |
+| [String](Topics/string/) | 90 |
 | [String Matching](Topics/string-matching/) | 4 |
 | [Sweep Line](Topics/sweep-line/) | 1 |
 | [Topological Sort](Topics/topological-sort/) | 1 |
