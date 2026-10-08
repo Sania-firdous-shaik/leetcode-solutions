@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "knuth-morris-pratt-algorithm",
-    "name": "Knuth–Morris–Pratt Algorithm"
+    "name": "Knuth–Morris–Pratt Algorithm",
+    "tagId": "122018"
   },
-  "updatedAt": "2026-09-30T17:25:51.631Z",
+  "updatedAt": "2026-10-08T16:19:11.772Z",
   "problems": [
     {
       "frontendId": "28",
@@ -42,7 +43,7 @@
           "filename": "0214-shortest-palindrome.py",
           "path": "0214-shortest-palindrome/0214-shortest-palindrome.py",
           "sha": "98749a4ba08aef7630fed9dbb63dfc3f3df040c6",
-          "lastSyncedAt": "2026-09-30T17:03:38.573Z"
+          "lastSyncedAt": "2026-10-08T16:19:11.772Z"
         }
       ]
     }
