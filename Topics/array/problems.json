@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-08T16:16:25.868Z",
+  "updatedAt": "2026-10-08T16:16:44.698Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1903,7 +1903,7 @@
           "filename": "2573-find-the-string-with-lcp.py",
           "path": "2573-find-the-string-with-lcp/2573-find-the-string-with-lcp.py",
           "sha": "ce5a8b30c7eb9efecc77e90fab9cbe53759ab45a",
-          "lastSyncedAt": "2026-09-30T17:01:27.412Z"
+          "lastSyncedAt": "2026-10-08T16:16:44.698Z"
         }
       ]
     },
