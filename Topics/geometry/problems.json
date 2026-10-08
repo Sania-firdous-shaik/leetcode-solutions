@@ -5,7 +5,7 @@
     "name": "Geometry",
     "tagId": "38"
   },
-  "updatedAt": "2026-10-08T16:12:39.359Z",
+  "updatedAt": "2026-10-08T16:13:19.597Z",
   "problems": [
     {
       "frontendId": "149",
@@ -63,7 +63,7 @@
           "filename": "0836-rectangle-overlap.py",
           "path": "0836-rectangle-overlap/0836-rectangle-overlap.py",
           "sha": "d7cb5c1b0945768bfda8ebf16451c0d0afc677ff",
-          "lastSyncedAt": "2026-10-04T16:28:12.987Z"
+          "lastSyncedAt": "2026-10-08T16:13:19.597Z"
         }
       ]
     },
