@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-08T16:13:24.453Z",
+  "updatedAt": "2026-10-08T16:14:46.877Z",
   "problems": [
     {
       "frontendId": "36",
@@ -403,7 +403,7 @@
           "filename": "3568-minimum-moves-to-clean-the-classroom.py",
           "path": "3568-minimum-moves-to-clean-the-classroom/3568-minimum-moves-to-clean-the-classroom.py",
           "sha": "4e6066918e4ecd6352b40cc2f1f464d4217656ea",
-          "lastSyncedAt": "2026-10-04T16:29:29.990Z"
+          "lastSyncedAt": "2026-10-08T16:14:46.877Z"
         }
       ]
     }
