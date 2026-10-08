@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-08T16:13:09.127Z",
+  "updatedAt": "2026-10-08T16:13:30.931Z",
   "problems": [
     {
       "frontendId": "10",
@@ -903,7 +903,7 @@
           "filename": "3414-maximum-score-of-non-overlapping-intervals.py",
           "path": "3414-maximum-score-of-non-overlapping-intervals/3414-maximum-score-of-non-overlapping-intervals.py",
           "sha": "89f040910f1b2e01024e0b87937740295ebfe7c9",
-          "lastSyncedAt": "2026-10-04T16:28:22.335Z"
+          "lastSyncedAt": "2026-10-08T16:13:30.931Z"
         }
       ]
     },
