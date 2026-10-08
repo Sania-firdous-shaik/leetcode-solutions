@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-10-08T16:21:38.699Z",
+  "updatedAt": "2026-10-08T16:21:51.752Z",
   "problems": [
     {
       "frontendId": "17",
@@ -63,7 +63,7 @@
           "filename": "0037-sudoku-solver.py",
           "path": "0037-sudoku-solver/0037-sudoku-solver.py",
           "sha": "ba73cd47f9eadcee75e9c68c6e8c8ae8f251e3c9",
-          "lastSyncedAt": "2026-09-30T17:05:56.720Z"
+          "lastSyncedAt": "2026-10-08T16:21:51.752Z"
         }
       ]
     },
