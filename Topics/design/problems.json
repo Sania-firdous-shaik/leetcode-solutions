@@ -5,7 +5,7 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-10-08T16:20:18.623Z",
+  "updatedAt": "2026-10-08T16:20:41.939Z",
   "problems": [
     {
       "frontendId": "155",
@@ -83,7 +83,7 @@
           "filename": "0381-insert-delete-getrandom-o1-duplicates-allowed.py",
           "path": "0381-insert-delete-getrandom-o1-duplicates-allowed/0381-insert-delete-getrandom-o1-duplicates-allowed.py",
           "sha": "9876c83ff6ec29ef5d3a6579cf3be0bf11159bf8",
-          "lastSyncedAt": "2026-09-30T17:04:52.468Z"
+          "lastSyncedAt": "2026-10-08T16:20:41.939Z"
         }
       ]
     },
