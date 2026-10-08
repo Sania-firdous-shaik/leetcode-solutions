@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-08T16:16:25.868Z",
+  "updatedAt": "2026-10-08T16:18:38.702Z",
   "problems": [
     {
       "frontendId": "15",
@@ -703,7 +703,7 @@
           "filename": "3731-find-missing-elements.py",
           "path": "3731-find-missing-elements/3731-find-missing-elements.py",
           "sha": "2a841866537159659fa153925103e733042f5d5e",
-          "lastSyncedAt": "2026-09-30T17:03:09.499Z"
+          "lastSyncedAt": "2026-10-08T16:18:38.702Z"
         }
       ]
     },
