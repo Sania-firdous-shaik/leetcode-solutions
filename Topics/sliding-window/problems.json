@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-08T16:21:05.488Z",
+  "updatedAt": "2026-10-08T16:22:04.471Z",
   "problems": [
     {
       "frontendId": "30",
@@ -203,7 +203,7 @@
           "filename": "2958-length-of-longest-subarray-with-at-most-k-frequency.py",
           "path": "2958-length-of-longest-subarray-with-at-most-k-frequency/2958-length-of-longest-subarray-with-at-most-k-frequency.py",
           "sha": "85871431a1ffdf5c02399bbd526676eff18ed925",
-          "lastSyncedAt": "2026-09-30T17:06:09.176Z"
+          "lastSyncedAt": "2026-10-08T16:22:04.471Z"
         }
       ]
     },
