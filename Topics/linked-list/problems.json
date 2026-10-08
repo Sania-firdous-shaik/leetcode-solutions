@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-08T16:20:18.623Z",
+  "updatedAt": "2026-10-08T16:25:25.474Z",
   "problems": [
     {
       "frontendId": "61",
@@ -23,7 +23,7 @@
           "filename": "0061-rotate-list.py",
           "path": "0061-rotate-list/0061-rotate-list.py",
           "sha": "24016191298467e489ff308c9e5c6a3c83d39c67",
-          "lastSyncedAt": "2026-09-30T17:09:38.641Z"
+          "lastSyncedAt": "2026-10-08T16:25:25.474Z"
         }
       ]
     },
