@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-08T16:20:41.939Z",
+  "updatedAt": "2026-10-08T16:21:00.297Z",
   "problems": [
     {
       "frontendId": "1",
@@ -283,7 +283,7 @@
           "filename": "0040-combination-sum-ii.py",
           "path": "0040-combination-sum-ii/0040-combination-sum-ii.py",
           "sha": "2e024fb59cf09d7c24908ec345bca5e093e40954",
-          "lastSyncedAt": "2026-09-30T17:05:10.084Z"
+          "lastSyncedAt": "2026-10-08T16:21:00.297Z"
         }
       ]
     },
