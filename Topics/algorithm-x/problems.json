@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "algorithm-x",
-    "name": "Algorithm X"
+    "name": "Algorithm X",
+    "tagId": "95488"
   },
-  "updatedAt": "2026-09-30T17:05:56.720Z",
+  "updatedAt": "2026-10-08T16:21:38.699Z",
   "problems": [
     {
       "frontendId": "37",
@@ -42,7 +43,7 @@
           "filename": "0051-n-queens.py",
           "path": "0051-n-queens/0051-n-queens.py",
           "sha": "3e20f2796c154ca5db97b64c9c46dda590e50a15",
-          "lastSyncedAt": "2026-09-30T17:05:46.180Z"
+          "lastSyncedAt": "2026-10-08T16:21:38.699Z"
         }
       ]
     }
