@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "sorting",
-    "name": "Sorting"
+    "name": "Sorting",
+    "tagId": "61049"
   },
-  "updatedAt": "2026-10-07T16:27:57.127Z",
+  "updatedAt": "2026-10-08T16:07:44.999Z",
   "problems": [
     {
       "frontendId": "15",
@@ -363,6 +364,26 @@
           "path": "1636-sort-array-by-increasing-frequency/1636-sort-array-by-increasing-frequency.py",
           "sha": "1c9c7f5b676072868babaa7c046637433978bdcd",
           "lastSyncedAt": "2026-09-30T17:26:37.765Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1665",
+      "title": "Minimum Initial Energy to Finish Tasks",
+      "slug": "minimum-initial-energy-to-finish-tasks",
+      "problemName": "1665-minimum-initial-energy-to-finish-tasks",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/",
+      "folderPath": "1665-minimum-initial-energy-to-finish-tasks/",
+      "readmePath": "1665-minimum-initial-energy-to-finish-tasks/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1665-minimum-initial-energy-to-finish-tasks.py",
+          "path": "1665-minimum-initial-energy-to-finish-tasks/1665-minimum-initial-energy-to-finish-tasks.py",
+          "sha": "0f051227079d00146be9bdc7ed4bc94d1bf6fa59",
+          "lastSyncedAt": "2026-10-08T16:07:44.999Z"
         }
       ]
     },
