@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-08T16:19:44.895Z",
+  "updatedAt": "2026-10-08T16:22:57.593Z",
   "problems": [
     {
       "frontendId": "15",
@@ -543,7 +543,7 @@
           "filename": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum.py",
           "path": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.py",
           "sha": "ea4a30590e15caeacaa55aba9454ee2096c97911",
-          "lastSyncedAt": "2026-09-30T17:06:59.617Z"
+          "lastSyncedAt": "2026-10-08T16:22:57.593Z"
         }
       ]
     },
