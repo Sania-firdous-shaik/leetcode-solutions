@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-08T16:24:24.076Z",
+  "updatedAt": "2026-10-08T16:25:01.910Z",
   "problems": [
     {
       "frontendId": "10",
@@ -863,7 +863,7 @@
           "filename": "3302-find-the-lexicographically-smallest-valid-sequence.py",
           "path": "3302-find-the-lexicographically-smallest-valid-sequence/3302-find-the-lexicographically-smallest-valid-sequence.py",
           "sha": "b827ccb5ff483eed2ec59a5f884bac7bb583ad12",
-          "lastSyncedAt": "2026-09-30T17:09:12.209Z"
+          "lastSyncedAt": "2026-10-08T16:25:01.910Z"
         }
       ]
     },
