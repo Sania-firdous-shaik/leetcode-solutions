@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "trie",
-    "name": "Trie"
+    "name": "Trie",
+    "tagId": "27"
   },
-  "updatedAt": "2026-09-30T17:25:35.639Z",
+  "updatedAt": "2026-10-08T16:19:29.757Z",
   "problems": [
     {
       "frontendId": "14",
@@ -82,7 +83,7 @@
           "filename": "0212-word-search-ii.py",
           "path": "0212-word-search-ii/0212-word-search-ii.py",
           "sha": "f3d692e73bd4ac2113c9c69139a03cc953c87710",
-          "lastSyncedAt": "2026-09-30T17:03:52.350Z"
+          "lastSyncedAt": "2026-10-08T16:19:29.757Z"
         }
       ]
     }
