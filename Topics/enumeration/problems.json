@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "enumeration",
-    "name": "Enumeration"
+    "name": "Enumeration",
+    "tagId": "61066"
   },
-  "updatedAt": "2026-10-04T16:29:58.886Z",
+  "updatedAt": "2026-10-08T16:13:40.579Z",
   "problems": [
     {
       "frontendId": "1291",
@@ -82,7 +83,7 @@
           "filename": "3483-unique-3-digit-even-numbers.py",
           "path": "3483-unique-3-digit-even-numbers/3483-unique-3-digit-even-numbers.py",
           "sha": "534943bb489392f23807b398b525eacb1f416847",
-          "lastSyncedAt": "2026-10-04T16:28:30.265Z"
+          "lastSyncedAt": "2026-10-08T16:13:40.579Z"
         }
       ]
     },
