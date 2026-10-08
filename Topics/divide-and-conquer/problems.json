@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "divide-and-conquer",
-    "name": "Divide and Conquer"
+    "name": "Divide and Conquer",
+    "tagId": "12"
   },
-  "updatedAt": "2026-10-07T16:27:04.146Z",
+  "updatedAt": "2026-10-08T16:08:54.555Z",
   "problems": [
     {
       "frontendId": "4",
@@ -102,7 +103,7 @@
           "filename": "0395-longest-substring-with-at-least-k-repeating-characters.py",
           "path": "0395-longest-substring-with-at-least-k-repeating-characters/0395-longest-substring-with-at-least-k-repeating-characters.py",
           "sha": "3e9c25896ea269a31b76a39e615d90fc375d10de",
-          "lastSyncedAt": "2026-10-07T16:27:04.146Z"
+          "lastSyncedAt": "2026-10-08T16:08:54.555Z"
         }
       ]
     },
