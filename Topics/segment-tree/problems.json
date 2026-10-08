@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "segment-tree",
-    "name": "Segment Tree"
+    "name": "Segment Tree",
+    "tagId": "29"
   },
-  "updatedAt": "2026-10-04T16:27:24.016Z",
+  "updatedAt": "2026-10-08T16:12:17.093Z",
   "problems": [
     {
       "frontendId": "2213",
@@ -82,7 +83,7 @@
           "filename": "3525-find-x-value-of-array-ii.py",
           "path": "3525-find-x-value-of-array-ii/3525-find-x-value-of-array-ii.py",
           "sha": "0c42a63415a2fc4b16fd6f71f6011ed4d0ff59ba",
-          "lastSyncedAt": "2026-10-04T16:27:24.016Z"
+          "lastSyncedAt": "2026-10-08T16:12:17.093Z"
         }
       ]
     },
