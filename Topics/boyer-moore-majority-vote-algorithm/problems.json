@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "boyer-moore-majority-vote-algorithm",
-    "name": "Boyer–Moore Majority Vote Algorithm"
+    "name": "Boyer–Moore Majority Vote Algorithm",
+    "tagId": "122032"
   },
-  "updatedAt": "2026-10-07T16:27:45.093Z",
+  "updatedAt": "2026-10-08T16:09:30.710Z",
   "problems": [
     {
       "frontendId": "169",
@@ -42,7 +43,7 @@
           "filename": "0229-majority-element-ii.py",
           "path": "0229-majority-element-ii/0229-majority-element-ii.py",
           "sha": "93d4c286586eb5c7642710505a5e2bda9d5ad43b",
-          "lastSyncedAt": "2026-10-07T16:27:45.093Z"
+          "lastSyncedAt": "2026-10-08T16:09:30.710Z"
         }
       ]
     }
