@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-08T16:18:03.909Z",
+  "updatedAt": "2026-10-08T16:20:06.783Z",
   "problems": [
     {
       "frontendId": "187",
@@ -203,7 +203,7 @@
           "filename": "3702-longest-subsequence-with-non-zero-bitwise-xor.py",
           "path": "3702-longest-subsequence-with-non-zero-bitwise-xor/3702-longest-subsequence-with-non-zero-bitwise-xor.py",
           "sha": "255a2b5758e7f28d6998edde1e96805b0ee5e3ef",
-          "lastSyncedAt": "2026-09-30T17:04:22.309Z"
+          "lastSyncedAt": "2026-10-08T16:20:06.783Z"
         }
       ]
     }
