@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-10-08T16:13:40.579Z",
+  "updatedAt": "2026-10-08T16:20:13.220Z",
   "problems": [
     {
       "frontendId": "10",
@@ -83,7 +83,7 @@
           "filename": "0060-permutation-sequence.py",
           "path": "0060-permutation-sequence/0060-permutation-sequence.py",
           "sha": "672b9426716fae2c23a4f49eb8d471f85620d710",
-          "lastSyncedAt": "2026-09-30T17:04:27.187Z"
+          "lastSyncedAt": "2026-10-08T16:20:13.220Z"
         }
       ]
     },
