@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "math",
-    "name": "Math"
+    "name": "Math",
+    "tagId": "8"
   },
-  "updatedAt": "2026-10-07T16:28:30.306Z",
+  "updatedAt": "2026-10-08T16:08:39.373Z",
   "problems": [
     {
       "frontendId": "12",
@@ -382,7 +383,7 @@
           "filename": "0415-add-strings.py",
           "path": "0415-add-strings/0415-add-strings.py",
           "sha": "a8fd26acfa9611d5ec187d698a7639462653a560",
-          "lastSyncedAt": "2026-10-07T16:26:47.218Z"
+          "lastSyncedAt": "2026-10-08T16:08:39.373Z"
         }
       ]
     },
