@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "recursion",
-    "name": "Recursion"
+    "name": "Recursion",
+    "tagId": "31"
   },
-  "updatedAt": "2026-10-07T16:26:56.134Z",
+  "updatedAt": "2026-10-08T16:08:47.404Z",
   "problems": [
     {
       "frontendId": "10",
@@ -142,7 +143,7 @@
           "filename": "0394-decode-string.py",
           "path": "0394-decode-string/0394-decode-string.py",
           "sha": "3c4f390561a17bdb21ee1115dbe9055be7caf6d2",
-          "lastSyncedAt": "2026-10-07T16:26:56.134Z"
+          "lastSyncedAt": "2026-10-08T16:08:47.404Z"
         }
       ]
     },
