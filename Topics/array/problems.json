@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-08T16:21:13.212Z",
+  "updatedAt": "2026-10-08T16:21:20.532Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1843,7 +1843,7 @@
           "filename": "2213-longest-substring-of-one-repeating-character.py",
           "path": "2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.py",
           "sha": "3d498363b1a31bf3aed25cee5a2eab8fa44d1e8a",
-          "lastSyncedAt": "2026-09-30T17:05:31.085Z"
+          "lastSyncedAt": "2026-10-08T16:21:20.532Z"
         }
       ]
     },
