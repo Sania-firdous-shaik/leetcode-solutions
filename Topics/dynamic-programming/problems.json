@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-08T16:18:27.402Z",
+  "updatedAt": "2026-10-08T16:19:06.578Z",
   "problems": [
     {
       "frontendId": "10",
@@ -263,7 +263,7 @@
           "filename": "0132-palindrome-partitioning-ii.py",
           "path": "0132-palindrome-partitioning-ii/0132-palindrome-partitioning-ii.py",
           "sha": "2c5ba45bf4db26274d202a41c4f74faebedb5dc9",
-          "lastSyncedAt": "2026-09-30T17:03:33.801Z"
+          "lastSyncedAt": "2026-10-08T16:19:06.578Z"
         }
       ]
     },
