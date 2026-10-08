@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-08T16:22:50.555Z",
+  "updatedAt": "2026-10-08T16:23:53.780Z",
   "problems": [
     {
       "frontendId": "30",
@@ -83,7 +83,7 @@
           "filename": "0219-contains-duplicate-ii.py",
           "path": "0219-contains-duplicate-ii/0219-contains-duplicate-ii.py",
           "sha": "65a95cef727ffc34b9a8329fa2ab283195685b03",
-          "lastSyncedAt": "2026-09-30T17:07:50.060Z"
+          "lastSyncedAt": "2026-10-08T16:23:53.780Z"
         }
       ]
     },
