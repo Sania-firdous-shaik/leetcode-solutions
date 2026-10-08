@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "tree",
-    "name": "Tree"
+    "name": "Tree",
+    "tagId": "20"
   },
-  "updatedAt": "2026-10-04T16:28:39.487Z",
+  "updatedAt": "2026-10-08T16:13:49.950Z",
   "problems": [
     {
       "frontendId": "106",
@@ -62,7 +63,7 @@
           "filename": "2265-count-nodes-equal-to-average-of-subtree.py",
           "path": "2265-count-nodes-equal-to-average-of-subtree/2265-count-nodes-equal-to-average-of-subtree.py",
           "sha": "57a6f57354649a0a7a773eab8c59695e8999d6ee",
-          "lastSyncedAt": "2026-10-04T16:28:39.487Z"
+          "lastSyncedAt": "2026-10-08T16:13:49.950Z"
         }
       ]
     },
