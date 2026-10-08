@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "geometry",
-    "name": "Geometry"
+    "name": "Geometry",
+    "tagId": "38"
   },
-  "updatedAt": "2026-10-04T16:28:12.987Z",
+  "updatedAt": "2026-10-08T16:12:39.359Z",
   "problems": [
     {
       "frontendId": "149",
@@ -82,7 +83,7 @@
           "filename": "1401-circle-and-rectangle-overlapping.py",
           "path": "1401-circle-and-rectangle-overlapping/1401-circle-and-rectangle-overlapping.py",
           "sha": "dd409ca06b47fe59d9775f0dd986bdfbd85cdbac",
-          "lastSyncedAt": "2026-10-04T16:27:42.995Z"
+          "lastSyncedAt": "2026-10-08T16:12:39.359Z"
         }
       ]
     }
