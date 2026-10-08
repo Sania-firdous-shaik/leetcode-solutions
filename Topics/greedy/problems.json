@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "greedy",
-    "name": "Greedy"
+    "name": "Greedy",
+    "tagId": "17"
   },
-  "updatedAt": "2026-10-07T16:28:39.144Z",
+  "updatedAt": "2026-10-08T16:07:44.999Z",
   "problems": [
     {
       "frontendId": "11",
@@ -243,6 +244,26 @@
           "path": "1520-maximum-number-of-non-overlapping-substrings/1520-maximum-number-of-non-overlapping-substrings.py",
           "sha": "f5320d944797bd7e0a2e875b3304a360f08bacbd",
           "lastSyncedAt": "2026-10-04T16:27:47.479Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1665",
+      "title": "Minimum Initial Energy to Finish Tasks",
+      "slug": "minimum-initial-energy-to-finish-tasks",
+      "problemName": "1665-minimum-initial-energy-to-finish-tasks",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/",
+      "folderPath": "1665-minimum-initial-energy-to-finish-tasks/",
+      "readmePath": "1665-minimum-initial-energy-to-finish-tasks/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1665-minimum-initial-energy-to-finish-tasks.py",
+          "path": "1665-minimum-initial-energy-to-finish-tasks/1665-minimum-initial-energy-to-finish-tasks.py",
+          "sha": "0f051227079d00146be9bdc7ed4bc94d1bf6fa59",
+          "lastSyncedAt": "2026-10-08T16:07:44.999Z"
         }
       ]
     },
