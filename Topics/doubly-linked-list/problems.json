@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "doubly-linked-list",
-    "name": "Doubly-Linked List"
+    "name": "Doubly-Linked List",
+    "tagId": "61058"
   },
-  "updatedAt": "2026-09-30T17:04:32.171Z",
+  "updatedAt": "2026-10-08T16:20:18.623Z",
   "problems": [
     {
       "frontendId": "432",
@@ -22,7 +23,7 @@
           "filename": "0432-all-oone-data-structure.py",
           "path": "0432-all-oone-data-structure/0432-all-oone-data-structure.py",
           "sha": "f8579bac691245e050220646d2e88c7c66c78a14",
-          "lastSyncedAt": "2026-09-30T17:04:32.171Z"
+          "lastSyncedAt": "2026-10-08T16:20:18.623Z"
         }
       ]
     }
