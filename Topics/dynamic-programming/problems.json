@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-08T16:23:23.991Z",
+  "updatedAt": "2026-10-08T16:23:26.602Z",
   "problems": [
     {
       "frontendId": "10",
@@ -523,7 +523,7 @@
           "filename": "0552-student-attendance-record-ii.py",
           "path": "0552-student-attendance-record-ii/0552-student-attendance-record-ii.py",
           "sha": "0e906f8d66f92cea5d9049b9760db6c89297898e",
-          "lastSyncedAt": "2026-09-30T17:07:24.646Z"
+          "lastSyncedAt": "2026-10-08T16:23:26.602Z"
         }
       ]
     },
