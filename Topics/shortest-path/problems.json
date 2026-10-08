@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "shortest-path",
-    "name": "Shortest Path"
+    "name": "Shortest Path",
+    "tagId": "61076"
   },
-  "updatedAt": "2026-10-07T16:28:48.464Z",
+  "updatedAt": "2026-10-08T16:10:36.296Z",
   "problems": [
     {
       "frontendId": "399",
@@ -22,7 +23,7 @@
           "filename": "0399-evaluate-division.py",
           "path": "0399-evaluate-division/0399-evaluate-division.py",
           "sha": "de3c9fbeb1068e1769e3db77f5aa1370ae44032a",
-          "lastSyncedAt": "2026-10-07T16:28:48.464Z"
+          "lastSyncedAt": "2026-10-08T16:10:36.296Z"
         }
       ]
     },
