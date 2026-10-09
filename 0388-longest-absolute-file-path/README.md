@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/longest-absolute-file-path">388. Longest Absolute File Path</a></h2><h3>Medium</h3><hr><p>Suppose we have a file system that stores both files and directories. An example of one system is represented in the following picture:</p>
+<h2><a href="https://leetcode.com/problems/longest-absolute-file-path/">388. Longest Absolute File Path</a></h2><h3>Medium</h3><hr><p>Suppose we have a file system that stores both files and directories. An example of one system is represented in the following picture:</p>
 
 <p><img alt="" src="https://assets.leetcode.com/uploads/2020/08/28/mdir.jpg" style="width: 681px; height: 322px;" /></p>
 
