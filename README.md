@@ -192,6 +192,7 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1096-brace-expansion-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -216,6 +217,7 @@ Contains topicwise list of solved problems.
 | [0022-generate-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -338,6 +340,7 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -350,4 +353,8 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0394-decode-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
