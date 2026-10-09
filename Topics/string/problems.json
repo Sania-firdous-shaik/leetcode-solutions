@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-08T16:25:49.938Z",
+  "updatedAt": "2026-10-09T15:32:01.756Z",
   "problems": [
     {
       "frontendId": "6",
@@ -764,6 +764,26 @@
           "path": "0332-reconstruct-itinerary/0332-reconstruct-itinerary.py",
           "sha": "96db687df8a2381e38752b4eb484587f59310bcc",
           "lastSyncedAt": "2026-10-08T16:19:44.895Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "388",
+      "title": "Longest Absolute File Path",
+      "slug": "longest-absolute-file-path",
+      "problemName": "0388-longest-absolute-file-path",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-absolute-file-path/",
+      "folderPath": "0388-longest-absolute-file-path/",
+      "readmePath": "0388-longest-absolute-file-path/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0388-longest-absolute-file-path.py",
+          "path": "0388-longest-absolute-file-path/0388-longest-absolute-file-path.py",
+          "sha": "7427f4814d70a00c8877ef5557b0fd5d0c4bdbae",
+          "lastSyncedAt": "2026-10-09T15:32:01.756Z"
         }
       ]
     },
