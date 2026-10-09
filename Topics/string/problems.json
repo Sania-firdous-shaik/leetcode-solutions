@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-09T15:32:01.756Z",
+  "updatedAt": "2026-10-09T15:34:13.091Z",
   "problems": [
     {
       "frontendId": "6",
@@ -764,6 +764,26 @@
           "path": "0332-reconstruct-itinerary/0332-reconstruct-itinerary.py",
           "sha": "96db687df8a2381e38752b4eb484587f59310bcc",
           "lastSyncedAt": "2026-10-08T16:19:44.895Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "387",
+      "title": "First Unique Character in a String",
+      "slug": "first-unique-character-in-a-string",
+      "problemName": "0387-first-unique-character-in-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/first-unique-character-in-a-string/",
+      "folderPath": "0387-first-unique-character-in-a-string/",
+      "readmePath": "0387-first-unique-character-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0387-first-unique-character-in-a-string.py",
+          "path": "0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.py",
+          "sha": "d9aee3ca850e98b611e75c1c2429d4667fcaa82f",
+          "lastSyncedAt": "2026-10-09T15:34:13.091Z"
         }
       ]
     },
