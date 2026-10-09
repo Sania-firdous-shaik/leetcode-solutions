@@ -217,6 +217,7 @@ Contains topicwise list of solved problems.
 | [0022-generate-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0385-mini-parser](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0394-decode-string) |
@@ -272,6 +273,7 @@ Contains topicwise list of solved problems.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0385-mini-parser](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
@@ -305,6 +307,7 @@ Contains topicwise list of solved problems.
 ## Depth-First Search
 |  |
 | ------- |
+| [0385-mini-parser](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0388-longest-absolute-file-path) |
 | [0399-evaluate-division](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0399-evaluate-division) |
 ## Union-Find
