@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "eulerian-graph",
+    "name": "Eulerian Graph",
+    "tagId": "122061"
+  },
+  "updatedAt": "2026-10-10T15:58:34.167Z",
+  "problems": [
+    {
+      "frontendId": "753",
+      "title": "Cracking the Safe",
+      "slug": "cracking-the-safe",
+      "problemName": "0753-cracking-the-safe",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/cracking-the-safe/",
+      "folderPath": "0753-cracking-the-safe/",
+      "readmePath": "0753-cracking-the-safe/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0753-cracking-the-safe.py",
+          "path": "0753-cracking-the-safe/0753-cracking-the-safe.py",
+          "sha": "1af7917169e5e44a68c97c8d776c8412de39cf64",
+          "lastSyncedAt": "2026-10-10T15:58:34.167Z"
+        }
+      ]
+    }
+  ]
+}
