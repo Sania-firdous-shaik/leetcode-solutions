@@ -136,6 +136,7 @@ Contains topicwise list of solved problems.
 | [0031-next-permutation](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0229-majority-element-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0399-evaluate-division](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0399-evaluate-division) |
+| [0752-open-the-lock](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0835-image-overlap](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -195,6 +196,7 @@ Contains topicwise list of solved problems.
 | [0229-majority-element-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0752-open-the-lock](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [1096-brace-expansion-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -228,6 +230,7 @@ Contains topicwise list of solved problems.
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0415-add-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0752-open-the-lock](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0753-cracking-the-safe](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0753-cracking-the-safe) |
 | [0856-score-of-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -294,6 +297,7 @@ Contains topicwise list of solved problems.
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0399-evaluate-division) |
+| [0752-open-the-lock](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [1096-brace-expansion-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
@@ -383,4 +387,8 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [0753-cracking-the-safe](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0753-cracking-the-safe) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
