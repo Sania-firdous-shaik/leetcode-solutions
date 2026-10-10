@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 250 | 69 | 119 | 62 |
+| 251 | 69 | 119 | 63 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 20 days | 116 |
+| 2 days | 20 days | 117 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-21 | 1 |
 | 2026-09-22 | 1 |
 | 2026-09-23 | 1 |
 | 2026-09-27 | 1 |
@@ -29,13 +28,14 @@ Contains topicwise list of solved problems.
 | 2026-10-06 | 1 |
 | 2026-10-07 | 2 |
 | 2026-10-09 | 2 |
+| 2026-10-10 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 135 | 54% |
-| String | 86 | 34% |
+| String | 87 | 35% |
 | Hash Table | 61 | 24% |
 | Math | 61 | 24% |
 | Dynamic Programming | 53 | 21% |
@@ -69,20 +69,21 @@ Contains topicwise list of solved problems.
 | [Counting](Topics/counting/) | 12 |
 | [Counting Sort](Topics/counting-sort/) | 2 |
 | [Dancing Links](Topics/dancing-links/) | 1 |
-| [Depth-First Search](Topics/depth-first-search/) | 11 |
+| [Depth-First Search](Topics/depth-first-search/) | 12 |
 | [Design](Topics/design/) | 5 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 7 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 53 |
 | [Enumeration](Topics/enumeration/) | 11 |
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 4 |
-| [Eulerian Circuit](Topics/eulerian-circuit/) | 1 |
-| [Eulerian Path](Topics/eulerian-path/) | 1 |
+| [Eulerian Circuit](Topics/eulerian-circuit/) | 2 |
+| [Eulerian Graph](Topics/eulerian-graph/) | 1 |
+| [Eulerian Path](Topics/eulerian-path/) | 2 |
 | [Floyd–Warshall Algorithm](Topics/floyd-warshall-algorithm/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Game Theory](Topics/game-theory/) | 9 |
 | [Geometry](Topics/geometry/) | 4 |
-| [Graph Theory](Topics/graph/) | 10 |
+| [Graph Theory](Topics/graph/) | 11 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 4 |
 | [Greedy](Topics/greedy/) | 33 |
 | [Hash Function](Topics/hash-function/) | 2 |
@@ -116,7 +117,7 @@ Contains topicwise list of solved problems.
 | [Sorting](Topics/sorting/) | 36 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
 | [Stack](Topics/stack/) | 26 |
-| [String](Topics/string/) | 92 |
+| [String](Topics/string/) | 93 |
 | [String Matching](Topics/string-matching/) | 4 |
 | [Sweep Line](Topics/sweep-line/) | 1 |
 | [Topological Sort](Topics/topological-sort/) | 1 |
@@ -136,7 +137,6 @@ Contains topicwise list of solved problems.
 | [0031-next-permutation](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0229-majority-element-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0399-evaluate-division](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0399-evaluate-division) |
-| [0752-open-the-lock](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0835-image-overlap](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -196,7 +196,6 @@ Contains topicwise list of solved problems.
 | [0229-majority-element-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
-| [0752-open-the-lock](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [1096-brace-expansion-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -230,7 +229,6 @@ Contains topicwise list of solved problems.
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0415-add-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
-| [0752-open-the-lock](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0753-cracking-the-safe](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0753-cracking-the-safe) |
 | [0856-score-of-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -297,7 +295,6 @@ Contains topicwise list of solved problems.
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0399-evaluate-division) |
-| [0752-open-the-lock](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [1096-brace-expansion-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
@@ -387,8 +384,4 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [0753-cracking-the-safe](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0753-cracking-the-safe) |
-## Bidirectional Search
-|  |
-| ------- |
-| [0752-open-the-lock](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
