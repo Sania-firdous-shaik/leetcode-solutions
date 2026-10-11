@@ -137,6 +137,7 @@ Contains topicwise list of solved problems.
 | [0031-next-permutation](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0229-majority-element-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0399-evaluate-division](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0399-evaluate-division) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0835-image-overlap](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -197,6 +198,7 @@ Contains topicwise list of solved problems.
 | [0229-majority-element-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [1096-brace-expansion-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -229,6 +231,7 @@ Contains topicwise list of solved problems.
 | [0399-evaluate-division](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0415-add-strings) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0753-cracking-the-safe](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0753-cracking-the-safe) |
 | [0856-score-of-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0856-score-of-parentheses) |
@@ -255,6 +258,7 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [1096-brace-expansion-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -347,6 +351,7 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Counting
 |  |
