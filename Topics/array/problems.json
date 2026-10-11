@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-08T16:26:18.824Z",
+  "updatedAt": "2026-10-11T16:13:16.268Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1944,6 +1944,26 @@
           "path": "2751-robot-collisions/2751-robot-collisions.py",
           "sha": "c8a4786ca508ef0aff958cbb4902f037c2b4c3f9",
           "lastSyncedAt": "2026-10-08T16:16:25.868Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2778",
+      "title": "Sum of Squares of Special Elements ",
+      "slug": "sum-of-squares-of-special-elements",
+      "problemName": "2778-sum-of-squares-of-special-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-squares-of-special-elements/",
+      "folderPath": "2778-sum-of-squares-of-special-elements/",
+      "readmePath": "2778-sum-of-squares-of-special-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2778-sum-of-squares-of-special-elements.py",
+          "path": "2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.py",
+          "sha": "3e5c4f86fbcd3c87c6e8a6fb003e8da443b65899",
+          "lastSyncedAt": "2026-10-11T16:13:16.268Z"
         }
       ]
     },
