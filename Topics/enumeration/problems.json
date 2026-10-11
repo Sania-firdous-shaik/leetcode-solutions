@@ -5,7 +5,7 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-10-08T16:17:20.677Z",
+  "updatedAt": "2026-10-11T16:13:16.268Z",
   "problems": [
     {
       "frontendId": "1291",
@@ -24,6 +24,26 @@
           "path": "1291-sequential-digits/1291-sequential-digits.py",
           "sha": "ce7f4961bc3542aeb2b7a8dcabbf07362e4552de",
           "lastSyncedAt": "2026-09-30T17:19:14.149Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2778",
+      "title": "Sum of Squares of Special Elements ",
+      "slug": "sum-of-squares-of-special-elements",
+      "problemName": "2778-sum-of-squares-of-special-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-squares-of-special-elements/",
+      "folderPath": "2778-sum-of-squares-of-special-elements/",
+      "readmePath": "2778-sum-of-squares-of-special-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2778-sum-of-squares-of-special-elements.py",
+          "path": "2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.py",
+          "sha": "3e5c4f86fbcd3c87c6e8a6fb003e8da443b65899",
+          "lastSyncedAt": "2026-10-11T16:13:16.268Z"
         }
       ]
     },
