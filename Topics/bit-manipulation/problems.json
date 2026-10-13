@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-08T16:20:06.783Z",
+  "updatedAt": "2026-10-13T16:58:57.519Z",
   "problems": [
     {
       "frontendId": "187",
@@ -64,6 +64,26 @@
           "path": "1386-cinema-seat-allocation/1386-cinema-seat-allocation.py",
           "sha": "4a23aa1684b25010fd7875488ec59f9647673281",
           "lastSyncedAt": "2026-10-08T16:17:45.478Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2897",
+      "title": "Apply Operations on Array to Maximize Sum of Squares",
+      "slug": "apply-operations-on-array-to-maximize-sum-of-squares",
+      "problemName": "2897-apply-operations-on-array-to-maximize-sum-of-squares",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/",
+      "folderPath": "2897-apply-operations-on-array-to-maximize-sum-of-squares/",
+      "readmePath": "2897-apply-operations-on-array-to-maximize-sum-of-squares/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2897-apply-operations-on-array-to-maximize-sum-of-squares.py",
+          "path": "2897-apply-operations-on-array-to-maximize-sum-of-squares/2897-apply-operations-on-array-to-maximize-sum-of-squares.py",
+          "sha": "9787f4d88afeedaff261dedcb1e359cf4ceb0b51",
+          "lastSyncedAt": "2026-10-13T16:58:57.519Z"
         }
       ]
     },
