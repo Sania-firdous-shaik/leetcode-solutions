@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-13T16:58:38.227Z",
+  "updatedAt": "2026-10-13T16:58:57.519Z",
   "problems": [
     {
       "frontendId": "1",
@@ -984,6 +984,26 @@
           "path": "2196-create-binary-tree-from-descriptions/2196-create-binary-tree-from-descriptions.py",
           "sha": "91e336d2bf73638c79ff89d298f50e83a06b9e5c",
           "lastSyncedAt": "2026-09-30T17:30:15.390Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2897",
+      "title": "Apply Operations on Array to Maximize Sum of Squares",
+      "slug": "apply-operations-on-array-to-maximize-sum-of-squares",
+      "problemName": "2897-apply-operations-on-array-to-maximize-sum-of-squares",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/",
+      "folderPath": "2897-apply-operations-on-array-to-maximize-sum-of-squares/",
+      "readmePath": "2897-apply-operations-on-array-to-maximize-sum-of-squares/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2897-apply-operations-on-array-to-maximize-sum-of-squares.py",
+          "path": "2897-apply-operations-on-array-to-maximize-sum-of-squares/2897-apply-operations-on-array-to-maximize-sum-of-squares.py",
+          "sha": "9787f4d88afeedaff261dedcb1e359cf4ceb0b51",
+          "lastSyncedAt": "2026-10-13T16:58:57.519Z"
         }
       ]
     },
