@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-13T16:58:38.227Z",
+  "updatedAt": "2026-10-13T16:58:47.434Z",
   "problems": [
     {
       "frontendId": "15",
@@ -704,6 +704,26 @@
           "path": "3635-earliest-finish-time-for-land-and-water-rides-ii/3635-earliest-finish-time-for-land-and-water-rides-ii.py",
           "sha": "dfd75c51ab91f4f0d0600d8e24f6bc221941fc05",
           "lastSyncedAt": "2026-09-30T17:31:15.864Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3727",
+      "title": "Maximum Alternating Sum of Squares",
+      "slug": "maximum-alternating-sum-of-squares",
+      "problemName": "3727-maximum-alternating-sum-of-squares",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-alternating-sum-of-squares/",
+      "folderPath": "3727-maximum-alternating-sum-of-squares/",
+      "readmePath": "3727-maximum-alternating-sum-of-squares/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3727-maximum-alternating-sum-of-squares.py",
+          "path": "3727-maximum-alternating-sum-of-squares/3727-maximum-alternating-sum-of-squares.py",
+          "sha": "37350aabd8caf28a15d8a1de5e393cd7046df23a",
+          "lastSyncedAt": "2026-10-13T16:58:47.434Z"
         }
       ]
     },
