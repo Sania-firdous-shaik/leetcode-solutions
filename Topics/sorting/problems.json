@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-08T16:24:09.044Z",
+  "updatedAt": "2026-10-13T16:57:07.806Z",
   "problems": [
     {
       "frontendId": "15",
@@ -244,6 +244,26 @@
           "path": "0628-maximum-product-of-three-numbers/0628-maximum-product-of-three-numbers.py",
           "sha": "a0dfcc630d0085c7eb43029695a4df4aa6444124",
           "lastSyncedAt": "2026-09-30T17:16:30.294Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "954",
+      "title": "Array of Doubled Pairs",
+      "slug": "array-of-doubled-pairs",
+      "problemName": "0954-array-of-doubled-pairs",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/array-of-doubled-pairs/",
+      "folderPath": "0954-array-of-doubled-pairs/",
+      "readmePath": "0954-array-of-doubled-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0954-array-of-doubled-pairs.py",
+          "path": "0954-array-of-doubled-pairs/0954-array-of-doubled-pairs.py",
+          "sha": "cfb0070f965aead67e808b3e4f62e4c3e36dab2e",
+          "lastSyncedAt": "2026-10-13T16:57:07.806Z"
         }
       ]
     },
