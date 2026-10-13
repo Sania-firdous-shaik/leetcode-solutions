@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-08T16:25:25.474Z",
+  "updatedAt": "2026-10-13T16:59:25.077Z",
   "problems": [
     {
       "frontendId": "11",
@@ -384,6 +384,26 @@
           "path": "0392-is-subsequence/0392-is-subsequence.py",
           "sha": "d2f9af1f09ecb311f7d4459b51ba91bf8291a44b",
           "lastSyncedAt": "2026-09-30T17:32:43.807Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "522",
+      "title": "Longest Uncommon Subsequence II",
+      "slug": "longest-uncommon-subsequence-ii",
+      "problemName": "0522-longest-uncommon-subsequence-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-uncommon-subsequence-ii/",
+      "folderPath": "0522-longest-uncommon-subsequence-ii/",
+      "readmePath": "0522-longest-uncommon-subsequence-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0522-longest-uncommon-subsequence-ii.py",
+          "path": "0522-longest-uncommon-subsequence-ii/0522-longest-uncommon-subsequence-ii.py",
+          "sha": "48ad202bd65d6ff1356f8f75f991a004db92aa86",
+          "lastSyncedAt": "2026-10-13T16:59:25.077Z"
         }
       ]
     },
