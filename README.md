@@ -140,6 +140,7 @@ Contains topicwise list of solved problems.
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0835-image-overlap](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0835-image-overlap) |
+| [0954-array-of-doubled-pairs](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -204,6 +205,7 @@ Contains topicwise list of solved problems.
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0954-array-of-doubled-pairs](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [1096-brace-expansion-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -255,6 +257,7 @@ Contains topicwise list of solved problems.
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0954-array-of-doubled-pairs](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -265,6 +268,7 @@ Contains topicwise list of solved problems.
 | ------- |
 | [0229-majority-element-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0954-array-of-doubled-pairs](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [1096-brace-expansion-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
