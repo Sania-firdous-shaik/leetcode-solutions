@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 253 | 70 | 120 | 63 |
+| 255 | 70 | 121 | 64 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 20 days | 119 |
+| 1 days | 20 days | 121 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-27 | 1 |
-| 2026-09-28 | 1 |
 | 2026-09-29 | 1 |
 | 2026-09-30 | 5 |
 | 2026-10-01 | 2 |
@@ -28,36 +26,38 @@ Contains topicwise list of solved problems.
 | 2026-10-09 | 2 |
 | 2026-10-10 | 1 |
 | 2026-10-11 | 1 |
+| 2026-10-12 | 1 |
 | 2026-10-13 | 1 |
+| 2026-10-15 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 137 | 54% |
+| Array | 139 | 55% |
 | String | 87 | 34% |
-| Hash Table | 62 | 25% |
+| Hash Table | 64 | 25% |
 | Math | 61 | 24% |
 | Dynamic Programming | 53 | 21% |
-| Greedy | 34 | 13% |
+| Greedy | 35 | 14% |
 | Sorting | 33 | 13% |
 | Two Pointers | 31 | 12% |
 | Stack | 25 | 10% |
-| Binary Search | 19 | 8% |
+| Binary Search | 19 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 146 |
+| [Array](Topics/array/) | 150 |
 | [Backtracking](Topics/backtracking/) | 13 |
 | [Bellman–Ford Algorithm](Topics/bellman-ford-algorithm/) | 1 |
 | [Bidirectional Search](Topics/bidirectional-search/) | 2 |
 | [Binary Indexed Tree](Topics/binary-indexed-tree/) | 1 |
 | [Binary Search](Topics/binary-search/) | 19 |
 | [Binary Tree](Topics/binary-tree/) | 3 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 10 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 12 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 2 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 2 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 11 |
@@ -85,9 +85,9 @@ Contains topicwise list of solved problems.
 | [Geometry](Topics/geometry/) | 4 |
 | [Graph Theory](Topics/graph/) | 11 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 4 |
-| [Greedy](Topics/greedy/) | 35 |
+| [Greedy](Topics/greedy/) | 36 |
 | [Hash Function](Topics/hash-function/) | 2 |
-| [Hash Table](Topics/hash-table/) | 67 |
+| [Hash Table](Topics/hash-table/) | 71 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 8 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 2 |
@@ -95,7 +95,7 @@ Contains topicwise list of solved problems.
 | [Longest Common Subsequence](Topics/longest-common-subsequence/) | 1 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 1 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 64 |
+| [Math](Topics/math/) | 65 |
 | [Matrix](Topics/matrix/) | 20 |
 | [Memoization](Topics/memoization/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
@@ -104,7 +104,8 @@ Contains topicwise list of solved problems.
 | [Nim Game](Topics/nim-game/) | 2 |
 | [Number Theory](Topics/number-theory/) | 7 |
 | [Ordered Set](Topics/ordered-set/) | 2 |
-| [Prefix Sum](Topics/prefix-sum/) | 17 |
+| [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
+| [Prefix Sum](Topics/prefix-sum/) | 18 |
 | [Queue](Topics/queue/) | 2 |
 | [Randomized](Topics/randomized/) | 2 |
 | [Recursion](Topics/recursion/) | 9 |
@@ -114,16 +115,16 @@ Contains topicwise list of solved problems.
 | [Shortest Path](Topics/shortest-path/) | 3 |
 | [Simulation](Topics/simulation/) | 15 |
 | [Sliding Window](Topics/sliding-window/) | 11 |
-| [Sorting](Topics/sorting/) | 37 |
+| [Sorting](Topics/sorting/) | 39 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
 | [Stack](Topics/stack/) | 26 |
-| [String](Topics/string/) | 93 |
+| [String](Topics/string/) | 94 |
 | [String Matching](Topics/string-matching/) | 4 |
 | [Sweep Line](Topics/sweep-line/) | 1 |
 | [Topological Sort](Topics/topological-sort/) | 1 |
 | [Tree](Topics/tree/) | 5 |
 | [Trie](Topics/trie/) | 4 |
-| [Two Pointers](Topics/two-pointers/) | 33 |
+| [Two Pointers](Topics/two-pointers/) | 34 |
 | [Union-Find](Topics/union-find/) | 8 |
 | [Z Algorithm](Topics/z-algorithm/) | 3 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 7 |
@@ -150,7 +151,6 @@ Contains topicwise list of solved problems.
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
-| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3524-find-x-value-of-array-i](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -218,7 +218,6 @@ Contains topicwise list of solved problems.
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2540-minimum-common-value](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2540-minimum-common-value) |
-| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Search
 |  |
@@ -371,7 +370,6 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
-| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
