@@ -150,6 +150,7 @@ Contains topicwise list of solved problems.
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3524-find-x-value-of-array-i](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -217,6 +218,7 @@ Contains topicwise list of solved problems.
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2540-minimum-common-value](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Binary Search
 |  |
@@ -369,6 +371,7 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
