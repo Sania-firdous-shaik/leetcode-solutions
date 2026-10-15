@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-13T16:59:25.077Z",
+  "updatedAt": "2026-10-15T16:38:38.344Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1984,6 +1984,26 @@
           "path": "2574-left-and-right-sum-differences/2574-left-and-right-sum-differences.py",
           "sha": "7ce8cb5a2e1a198e80dd2a96b0e77ccd73c97d00",
           "lastSyncedAt": "2026-09-30T17:30:27.308Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2657",
+      "title": "Find the Prefix Common Array of Two Arrays",
+      "slug": "find-the-prefix-common-array-of-two-arrays",
+      "problemName": "2657-find-the-prefix-common-array-of-two-arrays",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/",
+      "folderPath": "2657-find-the-prefix-common-array-of-two-arrays/",
+      "readmePath": "2657-find-the-prefix-common-array-of-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2657-find-the-prefix-common-array-of-two-arrays.py",
+          "path": "2657-find-the-prefix-common-array-of-two-arrays/2657-find-the-prefix-common-array-of-two-arrays.py",
+          "sha": "17429424eedf9924f93185d0cd9f30139ea0f2a0",
+          "lastSyncedAt": "2026-10-15T16:38:38.344Z"
         }
       ]
     },
