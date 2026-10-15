@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-15T16:38:38.344Z",
+  "updatedAt": "2026-10-15T16:40:34.550Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1164,6 +1164,26 @@
           "path": "3020-find-the-maximum-number-of-elements-in-subset/3020-find-the-maximum-number-of-elements-in-subset.py",
           "sha": "c301d57b4d61a799f0a07c2fc12519aa2b5dbae8",
           "lastSyncedAt": "2026-09-30T17:22:49.506Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3043",
+      "title": "Find the Length of the Longest Common Prefix",
+      "slug": "find-the-length-of-the-longest-common-prefix",
+      "problemName": "3043-find-the-length-of-the-longest-common-prefix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/",
+      "folderPath": "3043-find-the-length-of-the-longest-common-prefix/",
+      "readmePath": "3043-find-the-length-of-the-longest-common-prefix/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3043-find-the-length-of-the-longest-common-prefix.py",
+          "path": "3043-find-the-length-of-the-longest-common-prefix/3043-find-the-length-of-the-longest-common-prefix.py",
+          "sha": "82a9b29eb2eea3dfa59d73b242be2c126b89f24c",
+          "lastSyncedAt": "2026-10-15T16:40:34.550Z"
         }
       ]
     },
