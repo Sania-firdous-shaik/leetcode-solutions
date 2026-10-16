@@ -1,4 +1,4 @@
-Contains topicwise list of solved problems.
+Contains topic wise list of solved problems.
 
 <!---LeetHub Summary Start-->
 ## LeetHub Summary
