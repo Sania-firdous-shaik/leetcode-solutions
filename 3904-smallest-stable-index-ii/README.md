@@ -2,7 +2,7 @@
 
 <p>For each index <code>i</code>, define its <strong>instability score</strong> as <code>max(nums[0..i]) - min(nums[i..n - 1])</code>.</p>
 
-<p>In other words:</p>
+<p>In other words: </p>
 
 <ul>
 	<li><code>max(nums[0..i])</code> is the <strong>largest</strong> value among the elements from index 0 to index <code>i</code>.</li>
