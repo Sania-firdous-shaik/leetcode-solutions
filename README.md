@@ -48,6 +48,7 @@ Contains topic wise list of solved problems.
 
 ## Topics
 
+
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
