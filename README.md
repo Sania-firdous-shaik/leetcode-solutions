@@ -144,6 +144,7 @@ Contains topic wise list of solved problems.
 | [0523-continuous-subarray-sum](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0835-image-overlap](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0954-array-of-doubled-pairs](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
+| [1254-number-of-closed-islands](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1345-jump-game-iv](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -165,6 +166,7 @@ Contains topic wise list of solved problems.
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Math
@@ -332,6 +334,7 @@ Contains topic wise list of solved problems.
 | [0301-remove-invalid-parentheses](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [1096-brace-expansion-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1345-jump-game-iv](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1345-jump-game-iv) |
 ## Bracket Sequences
 |  |
@@ -354,10 +357,12 @@ Contains topic wise list of solved problems.
 | [0388-longest-absolute-file-path](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0388-longest-absolute-file-path) |
 | [0399-evaluate-division](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0753-cracking-the-safe](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0753-cracking-the-safe) |
+| [1254-number-of-closed-islands](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0399-evaluate-division) |
+| [1254-number-of-closed-islands](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
