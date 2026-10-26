@@ -160,6 +160,7 @@ Contains topic wise list of solved problems.
 | [3524-find-x-value-of-array-i](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Matrix
@@ -169,6 +170,7 @@ Contains topic wise list of solved problems.
 | [1254-number-of-closed-islands](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -336,6 +338,7 @@ Contains topic wise list of solved problems.
 | [1096-brace-expansion-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1345-jump-game-iv](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1345-jump-game-iv) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -358,11 +361,13 @@ Contains topic wise list of solved problems.
 | [0399-evaluate-division](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0753-cracking-the-safe](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0753-cracking-the-safe) |
 | [1254-number-of-closed-islands](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [1254-number-of-closed-islands](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
