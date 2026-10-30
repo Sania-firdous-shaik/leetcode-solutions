@@ -274,6 +274,7 @@ Contains topic wise list of solved problems.
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -373,10 +374,12 @@ Contains topic wise list of solved problems.
 | ------- |
 | [0399-evaluate-division](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0753-cracking-the-safe](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0753-cracking-the-safe) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0399-evaluate-division) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
@@ -421,6 +424,7 @@ Contains topic wise list of solved problems.
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Eulerian Circuit
 |  |
 | ------- |
