@@ -161,6 +161,7 @@ Contains topic wise list of solved problems.
 | [3525-find-x-value-of-array-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -172,6 +173,7 @@ Contains topic wise list of solved problems.
 | [1914-cyclically-rotating-a-grid](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Math
 |  |
 | ------- |
@@ -202,6 +204,7 @@ Contains topic wise list of solved problems.
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3524-find-x-value-of-array-i](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Combinatorics
 |  |
 | ------- |
