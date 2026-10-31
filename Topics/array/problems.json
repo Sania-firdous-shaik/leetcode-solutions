@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-15T16:40:34.550Z",
+  "updatedAt": "2026-10-31T16:04:32.809Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2744,6 +2744,26 @@
           "path": "3635-earliest-finish-time-for-land-and-water-rides-ii/3635-earliest-finish-time-for-land-and-water-rides-ii.py",
           "sha": "dfd75c51ab91f4f0d0600d8e24f6bc221941fc05",
           "lastSyncedAt": "2026-09-30T17:31:15.864Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3665",
+      "title": "Twisted Mirror Path Count",
+      "slug": "twisted-mirror-path-count",
+      "problemName": "3665-twisted-mirror-path-count",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/twisted-mirror-path-count/",
+      "folderPath": "3665-twisted-mirror-path-count/",
+      "readmePath": "3665-twisted-mirror-path-count/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3665-twisted-mirror-path-count.py",
+          "path": "3665-twisted-mirror-path-count/3665-twisted-mirror-path-count.py",
+          "sha": "7a8da1cc3c620abd9d684a5e4a00eabe13f48f10",
+          "lastSyncedAt": "2026-10-31T16:04:32.809Z"
         }
       ]
     },
