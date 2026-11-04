@@ -157,6 +157,7 @@ Contains topic wise list of solved problems.
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -184,6 +185,7 @@ Contains topic wise list of solved problems.
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2409-count-days-spent-together) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -203,6 +205,7 @@ Contains topic wise list of solved problems.
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Combinatorics
@@ -233,6 +236,7 @@ Contains topic wise list of solved problems.
 | [2540-minimum-common-value](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
 |  |
 | ------- |
@@ -246,6 +250,7 @@ Contains topic wise list of solved problems.
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## String
 |  |
 | ------- |
@@ -433,6 +438,7 @@ Contains topic wise list of solved problems.
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Eulerian Circuit
 |  |
