@@ -5,7 +5,7 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-10-08T16:26:18.824Z",
+  "updatedAt": "2026-11-08T16:32:04.949Z",
   "problems": [
     {
       "frontendId": "128",
@@ -44,6 +44,26 @@
           "path": "0399-evaluate-division/0399-evaluate-division.py",
           "sha": "de3c9fbeb1068e1769e3db77f5aa1370ae44032a",
           "lastSyncedAt": "2026-10-08T16:10:36.296Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1267",
+      "title": "Count Servers that Communicate",
+      "slug": "count-servers-that-communicate",
+      "problemName": "1267-count-servers-that-communicate",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-servers-that-communicate/",
+      "folderPath": "1267-count-servers-that-communicate/",
+      "readmePath": "1267-count-servers-that-communicate/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1267-count-servers-that-communicate.py",
+          "path": "1267-count-servers-that-communicate/1267-count-servers-that-communicate.py",
+          "sha": "134ff15d33cbf227591e9686417e6d82297401ce",
+          "lastSyncedAt": "2026-11-08T16:32:04.949Z"
         }
       ]
     },
