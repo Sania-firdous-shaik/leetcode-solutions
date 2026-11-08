@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-10-10T15:58:34.167Z",
+  "updatedAt": "2026-11-08T16:32:04.949Z",
   "problems": [
     {
       "frontendId": "133",
@@ -104,6 +104,26 @@
           "path": "0753-cracking-the-safe/0753-cracking-the-safe.py",
           "sha": "1af7917169e5e44a68c97c8d776c8412de39cf64",
           "lastSyncedAt": "2026-10-10T15:58:34.167Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1267",
+      "title": "Count Servers that Communicate",
+      "slug": "count-servers-that-communicate",
+      "problemName": "1267-count-servers-that-communicate",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-servers-that-communicate/",
+      "folderPath": "1267-count-servers-that-communicate/",
+      "readmePath": "1267-count-servers-that-communicate/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1267-count-servers-that-communicate.py",
+          "path": "1267-count-servers-that-communicate/1267-count-servers-that-communicate.py",
+          "sha": "134ff15d33cbf227591e9686417e6d82297401ce",
+          "lastSyncedAt": "2026-11-08T16:32:04.949Z"
         }
       ]
     },
