@@ -145,6 +145,7 @@ Contains topic wise list of solved problems.
 | [0835-image-overlap](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0954-array-of-doubled-pairs](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0954-array-of-doubled-pairs) |
 | [1254-number-of-closed-islands](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1345-jump-game-iv](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -171,6 +172,7 @@ Contains topic wise list of solved problems.
 | ------- |
 | [0835-image-overlap](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -349,6 +351,7 @@ Contains topic wise list of solved problems.
 | [0399-evaluate-division](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [1096-brace-expansion-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1345-jump-game-iv](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bracket Sequences
@@ -373,6 +376,7 @@ Contains topic wise list of solved problems.
 | [0399-evaluate-division](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0753-cracking-the-safe](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0753-cracking-the-safe) |
 | [1254-number-of-closed-islands](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
@@ -380,6 +384,7 @@ Contains topic wise list of solved problems.
 | ------- |
 | [0399-evaluate-division](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [1254-number-of-closed-islands](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
@@ -417,6 +422,7 @@ Contains topic wise list of solved problems.
 | ------- |
 | [0229-majority-element-ii](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
