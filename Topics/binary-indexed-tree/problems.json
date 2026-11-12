@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "binary-indexed-tree",
-    "name": "Binary Indexed Tree"
+    "name": "Binary Indexed Tree",
+    "tagId": "28"
   },
-  "updatedAt": "2026-09-30T17:34:08.120Z",
+  "updatedAt": "2026-11-12T18:01:52.247Z",
   "problems": [
     {
       "frontendId": "3161",
@@ -23,6 +24,26 @@
           "path": "3161-block-placement-queries/3161-block-placement-queries.py",
           "sha": "8c7f53df319968f0cfea5d28b5c0777eef020087",
           "lastSyncedAt": "2026-09-30T17:34:08.120Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3841",
+      "title": "Palindromic Path Queries in a Tree",
+      "slug": "palindromic-path-queries-in-a-tree",
+      "problemName": "3841-palindromic-path-queries-in-a-tree",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/palindromic-path-queries-in-a-tree/",
+      "folderPath": "3841-palindromic-path-queries-in-a-tree/",
+      "readmePath": "3841-palindromic-path-queries-in-a-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3841-palindromic-path-queries-in-a-tree.py",
+          "path": "3841-palindromic-path-queries-in-a-tree/3841-palindromic-path-queries-in-a-tree.py",
+          "sha": "6ab757320da20dbc01555dde96ec488faf26766a",
+          "lastSyncedAt": "2026-11-12T18:01:52.247Z"
         }
       ]
     }
