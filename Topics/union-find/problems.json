@@ -5,7 +5,7 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-11-12T18:00:01.116Z",
+  "updatedAt": "2026-11-12T18:02:39.607Z",
   "problems": [
     {
       "frontendId": "128",
@@ -184,6 +184,26 @@
           "path": "3532-path-existence-queries-in-a-graph-i/3532-path-existence-queries-in-a-graph-i.py",
           "sha": "164f79672b5d2045de407ca6963c462252a77b46",
           "lastSyncedAt": "2026-09-30T17:20:01.067Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3619",
+      "title": "Count Islands With Total Value Divisible by K",
+      "slug": "count-islands-with-total-value-divisible-by-k",
+      "problemName": "3619-count-islands-with-total-value-divisible-by-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/",
+      "folderPath": "3619-count-islands-with-total-value-divisible-by-k/",
+      "readmePath": "3619-count-islands-with-total-value-divisible-by-k/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3619-count-islands-with-total-value-divisible-by-k.py",
+          "path": "3619-count-islands-with-total-value-divisible-by-k/3619-count-islands-with-total-value-divisible-by-k.py",
+          "sha": "73e67e921f1f4e05bf801e4c201c189cf5f1a8de",
+          "lastSyncedAt": "2026-11-12T18:02:39.607Z"
         }
       ]
     }
