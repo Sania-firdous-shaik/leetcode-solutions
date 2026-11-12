@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-12T17:59:42.212Z",
+  "updatedAt": "2026-11-12T18:00:54.846Z",
   "problems": [
     {
       "frontendId": "12",
@@ -884,6 +884,26 @@
           "path": "3348-smallest-divisible-digit-product-ii/3348-smallest-divisible-digit-product-ii.py",
           "sha": "a24a389c14b5945c450d859eeb5ac0202a2c9fd6",
           "lastSyncedAt": "2026-10-08T16:25:38.753Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3505",
+      "title": "Minimum Operations to Make Elements Within K Subarrays Equal",
+      "slug": "minimum-operations-to-make-elements-within-k-subarrays-equal",
+      "problemName": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/",
+      "folderPath": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal/",
+      "readmePath": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal.py",
+          "path": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.py",
+          "sha": "dc2e6d72a0f54cbdeebc0bb804b71fa7553fd22a",
+          "lastSyncedAt": "2026-11-12T18:00:54.846Z"
         }
       ]
     },
