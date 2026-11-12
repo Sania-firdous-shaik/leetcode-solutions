@@ -5,8 +5,28 @@
     "name": "Binary Indexed Tree",
     "tagId": "28"
   },
-  "updatedAt": "2026-11-12T18:01:52.247Z",
+  "updatedAt": "2026-11-12T18:04:58.613Z",
   "problems": [
+    {
+      "frontendId": "2916",
+      "title": "Subarrays Distinct Element Sum of Squares II",
+      "slug": "subarrays-distinct-element-sum-of-squares-ii",
+      "problemName": "2916-subarrays-distinct-element-sum-of-squares-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/",
+      "folderPath": "2916-subarrays-distinct-element-sum-of-squares-ii/",
+      "readmePath": "2916-subarrays-distinct-element-sum-of-squares-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2916-subarrays-distinct-element-sum-of-squares-ii.py",
+          "path": "2916-subarrays-distinct-element-sum-of-squares-ii/2916-subarrays-distinct-element-sum-of-squares-ii.py",
+          "sha": "91a367e2cd5cc6dc25252901a862a44272b25dd5",
+          "lastSyncedAt": "2026-11-12T18:04:58.613Z"
+        }
+      ]
+    },
     {
       "frontendId": "3161",
       "title": "Block Placement Queries",
