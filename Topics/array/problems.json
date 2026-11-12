@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-12T18:05:41.715Z",
+  "updatedAt": "2026-11-12T18:05:56.765Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1484,6 +1484,26 @@
           "path": "1331-rank-transform-of-an-array/1331-rank-transform-of-an-array.py",
           "sha": "38a48d9905f963496e41962824a7649e55a4c7a5",
           "lastSyncedAt": "2026-09-30T17:19:19.547Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1345",
+      "title": "Jump Game IV",
+      "slug": "jump-game-iv",
+      "problemName": "1345-jump-game-iv",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-iv/",
+      "folderPath": "1345-jump-game-iv/",
+      "readmePath": "1345-jump-game-iv/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1345-jump-game-iv.py",
+          "path": "1345-jump-game-iv/1345-jump-game-iv.py",
+          "sha": "c86fd36e0768e2906b933a0a57cb833da2971309",
+          "lastSyncedAt": "2026-11-12T18:05:56.765Z"
         }
       ]
     },
