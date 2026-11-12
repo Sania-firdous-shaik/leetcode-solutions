@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-12T18:00:43.946Z",
+  "updatedAt": "2026-11-12T18:05:41.715Z",
   "problems": [
     {
       "frontendId": "11",
@@ -564,6 +564,26 @@
           "path": "2472-maximum-number-of-non-overlapping-palindrome-substrings/2472-maximum-number-of-non-overlapping-palindrome-substrings.py",
           "sha": "9c841c44c020d08bb7edbb5df563f72e21316e9d",
           "lastSyncedAt": "2026-10-08T16:09:53.958Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2540",
+      "title": "Minimum Common Value",
+      "slug": "minimum-common-value",
+      "problemName": "2540-minimum-common-value",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-common-value/",
+      "folderPath": "2540-minimum-common-value/",
+      "readmePath": "2540-minimum-common-value/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2540-minimum-common-value.py",
+          "path": "2540-minimum-common-value/2540-minimum-common-value.py",
+          "sha": "eb18183a3182cf39c58264a8a6f1dd91468763dc",
+          "lastSyncedAt": "2026-11-12T18:05:41.715Z"
         }
       ]
     },
