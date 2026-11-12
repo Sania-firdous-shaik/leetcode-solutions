@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-12T17:59:34.825Z",
+  "updatedAt": "2026-11-12T17:59:50.905Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1524,6 +1524,26 @@
           "path": "1563-stone-game-v/1563-stone-game-v.py",
           "sha": "63fc8d6ea3cb0831639392a320b3caf7eda3b779",
           "lastSyncedAt": "2026-10-08T16:18:27.402Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1606",
+      "title": "Find Servers That Handled Most Number of Requests",
+      "slug": "find-servers-that-handled-most-number-of-requests",
+      "problemName": "1606-find-servers-that-handled-most-number-of-requests",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/",
+      "folderPath": "1606-find-servers-that-handled-most-number-of-requests/",
+      "readmePath": "1606-find-servers-that-handled-most-number-of-requests/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1606-find-servers-that-handled-most-number-of-requests.py",
+          "path": "1606-find-servers-that-handled-most-number-of-requests/1606-find-servers-that-handled-most-number-of-requests.py",
+          "sha": "fc38871127470d44ad4cfcea96bf1872bf41036b",
+          "lastSyncedAt": "2026-11-12T17:59:50.905Z"
         }
       ]
     },
