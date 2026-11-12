@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-08T16:21:13.212Z",
+  "updatedAt": "2026-11-12T18:00:43.946Z",
   "problems": [
     {
       "frontendId": "4",
@@ -124,6 +124,26 @@
           "path": "0378-kth-smallest-element-in-a-sorted-matrix/0378-kth-smallest-element-in-a-sorted-matrix.py",
           "sha": "0e45ebb90b6731706fd86680a356151b274d10b0",
           "lastSyncedAt": "2026-09-30T17:14:18.023Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1385",
+      "title": "Find the Distance Value Between Two Arrays",
+      "slug": "find-the-distance-value-between-two-arrays",
+      "problemName": "1385-find-the-distance-value-between-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-distance-value-between-two-arrays/",
+      "folderPath": "1385-find-the-distance-value-between-two-arrays/",
+      "readmePath": "1385-find-the-distance-value-between-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1385-find-the-distance-value-between-two-arrays.py",
+          "path": "1385-find-the-distance-value-between-two-arrays/1385-find-the-distance-value-between-two-arrays.py",
+          "sha": "1f48a186b735e1c7498eb71af83f4d3117010418",
+          "lastSyncedAt": "2026-11-12T18:00:43.946Z"
         }
       ]
     },
