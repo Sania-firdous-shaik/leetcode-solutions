@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-12T18:02:52.309Z",
+  "updatedAt": "2026-11-12T18:03:22.562Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2964,6 +2964,26 @@
           "path": "3635-earliest-finish-time-for-land-and-water-rides-ii/3635-earliest-finish-time-for-land-and-water-rides-ii.py",
           "sha": "dfd75c51ab91f4f0d0600d8e24f6bc221941fc05",
           "lastSyncedAt": "2026-09-30T17:31:15.864Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3644",
+      "title": "Maximum K to Sort a Permutation",
+      "slug": "maximum-k-to-sort-a-permutation",
+      "problemName": "3644-maximum-k-to-sort-a-permutation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-k-to-sort-a-permutation/",
+      "folderPath": "3644-maximum-k-to-sort-a-permutation/",
+      "readmePath": "3644-maximum-k-to-sort-a-permutation/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3644-maximum-k-to-sort-a-permutation.py",
+          "path": "3644-maximum-k-to-sort-a-permutation/3644-maximum-k-to-sort-a-permutation.py",
+          "sha": "76ce09953c140c4331ba019b03c191b4eae9d20e",
+          "lastSyncedAt": "2026-11-12T18:03:22.562Z"
         }
       ]
     },
