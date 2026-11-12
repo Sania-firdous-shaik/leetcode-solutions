@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-12T18:03:58.112Z",
+  "updatedAt": "2026-11-12T18:05:41.715Z",
   "problems": [
     {
       "frontendId": "4",
@@ -204,6 +204,26 @@
           "path": "2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.py",
           "sha": "ac8c198df291a5ad231eb0dabf7527f3b35a4fe2",
           "lastSyncedAt": "2026-11-12T18:03:58.112Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2540",
+      "title": "Minimum Common Value",
+      "slug": "minimum-common-value",
+      "problemName": "2540-minimum-common-value",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-common-value/",
+      "folderPath": "2540-minimum-common-value/",
+      "readmePath": "2540-minimum-common-value/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2540-minimum-common-value.py",
+          "path": "2540-minimum-common-value/2540-minimum-common-value.py",
+          "sha": "eb18183a3182cf39c58264a8a6f1dd91468763dc",
+          "lastSyncedAt": "2026-11-12T18:05:41.715Z"
         }
       ]
     },
