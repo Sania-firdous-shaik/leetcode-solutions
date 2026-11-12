@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-10-09T15:34:13.091Z",
+  "updatedAt": "2026-11-12T18:00:01.116Z",
   "problems": [
     {
       "frontendId": "169",
@@ -104,6 +104,26 @@
           "path": "1189-maximum-number-of-balloons/1189-maximum-number-of-balloons.py",
           "sha": "f2c784e0fd1a4f6ce286cf3cb4e411ce720d1547",
           "lastSyncedAt": "2026-09-30T17:23:51.739Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1267",
+      "title": "Count Servers that Communicate",
+      "slug": "count-servers-that-communicate",
+      "problemName": "1267-count-servers-that-communicate",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-servers-that-communicate/",
+      "folderPath": "1267-count-servers-that-communicate/",
+      "readmePath": "1267-count-servers-that-communicate/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1267-count-servers-that-communicate.py",
+          "path": "1267-count-servers-that-communicate/1267-count-servers-that-communicate.py",
+          "sha": "134ff15d33cbf227591e9686417e6d82297401ce",
+          "lastSyncedAt": "2026-11-12T18:00:01.116Z"
         }
       ]
     },
