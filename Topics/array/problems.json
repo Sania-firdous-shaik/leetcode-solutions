@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-12T18:03:29.962Z",
+  "updatedAt": "2026-11-12T18:03:42.512Z",
   "problems": [
     {
       "frontendId": "1",
@@ -3324,6 +3324,26 @@
           "path": "3882-minimum-xor-path-in-a-grid/3882-minimum-xor-path-in-a-grid.py",
           "sha": "cde5bd255ff235c15c9cb974c10a3e533cc0b603",
           "lastSyncedAt": "2026-11-12T18:02:24.803Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3886",
+      "title": "Sum of Sortable Integers",
+      "slug": "sum-of-sortable-integers",
+      "problemName": "3886-sum-of-sortable-integers",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-sortable-integers/",
+      "folderPath": "3886-sum-of-sortable-integers/",
+      "readmePath": "3886-sum-of-sortable-integers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3886-sum-of-sortable-integers.py",
+          "path": "3886-sum-of-sortable-integers/3886-sum-of-sortable-integers.py",
+          "sha": "ec59ff2b0dac49fdb88dd6c9f1de39d304ace3bf",
+          "lastSyncedAt": "2026-11-12T18:03:42.512Z"
         }
       ]
     },
