@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-12T18:01:29.096Z",
+  "updatedAt": "2026-11-12T18:03:42.512Z",
   "problems": [
     {
       "frontendId": "15",
@@ -844,6 +844,26 @@
           "path": "3867-sum-of-gcd-of-formed-pairs/3867-sum-of-gcd-of-formed-pairs.py",
           "sha": "5ccfbb7191334128928870f87c91ef359223d7cb",
           "lastSyncedAt": "2026-09-30T17:18:33.510Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3886",
+      "title": "Sum of Sortable Integers",
+      "slug": "sum-of-sortable-integers",
+      "problemName": "3886-sum-of-sortable-integers",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-sortable-integers/",
+      "folderPath": "3886-sum-of-sortable-integers/",
+      "readmePath": "3886-sum-of-sortable-integers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3886-sum-of-sortable-integers.py",
+          "path": "3886-sum-of-sortable-integers/3886-sum-of-sortable-integers.py",
+          "sha": "ec59ff2b0dac49fdb88dd6c9f1de39d304ace3bf",
+          "lastSyncedAt": "2026-11-12T18:03:42.512Z"
         }
       ]
     }
