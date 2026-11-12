@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-31T16:04:32.809Z",
+  "updatedAt": "2026-11-12T17:59:34.825Z",
   "problems": [
     {
       "frontendId": "10",
@@ -1004,6 +1004,26 @@
           "path": "3665-twisted-mirror-path-count/3665-twisted-mirror-path-count.py",
           "sha": "7a8da1cc3c620abd9d684a5e4a00eabe13f48f10",
           "lastSyncedAt": "2026-10-31T16:04:32.809Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3693",
+      "title": "Climbing Stairs II",
+      "slug": "climbing-stairs-ii",
+      "problemName": "3693-climbing-stairs-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs-ii/",
+      "folderPath": "3693-climbing-stairs-ii/",
+      "readmePath": "3693-climbing-stairs-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3693-climbing-stairs-ii.py",
+          "path": "3693-climbing-stairs-ii/3693-climbing-stairs-ii.py",
+          "sha": "fe9e200827ade0c66ed96c97bee2b433ae0ff8bf",
+          "lastSyncedAt": "2026-11-12T17:59:34.825Z"
         }
       ]
     },
