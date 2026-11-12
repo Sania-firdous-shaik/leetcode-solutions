@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-12T18:03:07.160Z",
+  "updatedAt": "2026-11-12T18:03:36.061Z",
   "problems": [
     {
       "frontendId": "6",
@@ -1944,6 +1944,26 @@
           "path": "3841-palindromic-path-queries-in-a-tree/3841-palindromic-path-queries-in-a-tree.py",
           "sha": "6ab757320da20dbc01555dde96ec488faf26766a",
           "lastSyncedAt": "2026-11-12T18:01:52.247Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3863",
+      "title": "Minimum Operations to Sort a String",
+      "slug": "minimum-operations-to-sort-a-string",
+      "problemName": "3863-minimum-operations-to-sort-a-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-sort-a-string/",
+      "folderPath": "3863-minimum-operations-to-sort-a-string/",
+      "readmePath": "3863-minimum-operations-to-sort-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3863-minimum-operations-to-sort-a-string.py",
+          "path": "3863-minimum-operations-to-sort-a-string/3863-minimum-operations-to-sort-a-string.py",
+          "sha": "11cc161247550e5aac2e7c09fa2d82a3954b884e",
+          "lastSyncedAt": "2026-11-12T18:03:36.061Z"
         }
       ]
     },
