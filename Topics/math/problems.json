@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-12T18:03:07.160Z",
+  "updatedAt": "2026-11-12T18:03:42.512Z",
   "problems": [
     {
       "frontendId": "12",
@@ -1424,6 +1424,26 @@
           "path": "3876-construct-uniform-parity-array-ii/3876-construct-uniform-parity-array-ii.py",
           "sha": "8ec7e1d70810eceb80e9946eb2fa8c95d497e6a2",
           "lastSyncedAt": "2026-10-08T16:14:33.652Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3886",
+      "title": "Sum of Sortable Integers",
+      "slug": "sum-of-sortable-integers",
+      "problemName": "3886-sum-of-sortable-integers",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-sortable-integers/",
+      "folderPath": "3886-sum-of-sortable-integers/",
+      "readmePath": "3886-sum-of-sortable-integers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3886-sum-of-sortable-integers.py",
+          "path": "3886-sum-of-sortable-integers/3886-sum-of-sortable-integers.py",
+          "sha": "ec59ff2b0dac49fdb88dd6c9f1de39d304ace3bf",
+          "lastSyncedAt": "2026-11-12T18:03:42.512Z"
         }
       ]
     }
