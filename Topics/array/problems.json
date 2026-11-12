@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-12T18:00:54.846Z",
+  "updatedAt": "2026-11-12T18:01:21.446Z",
   "problems": [
     {
       "frontendId": "1",
@@ -3044,6 +3044,26 @@
           "path": "3731-find-missing-elements/3731-find-missing-elements.py",
           "sha": "2a841866537159659fa153925103e733042f5d5e",
           "lastSyncedAt": "2026-10-08T16:18:38.702Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3736",
+      "title": "Minimum Moves to Equal Array Elements III",
+      "slug": "minimum-moves-to-equal-array-elements-iii",
+      "problemName": "3736-minimum-moves-to-equal-array-elements-iii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/",
+      "folderPath": "3736-minimum-moves-to-equal-array-elements-iii/",
+      "readmePath": "3736-minimum-moves-to-equal-array-elements-iii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3736-minimum-moves-to-equal-array-elements-iii.py",
+          "path": "3736-minimum-moves-to-equal-array-elements-iii/3736-minimum-moves-to-equal-array-elements-iii.py",
+          "sha": "e731a31d1649f03c1b34bf7acca24956ad84ff51",
+          "lastSyncedAt": "2026-11-12T18:01:21.446Z"
         }
       ]
     },
