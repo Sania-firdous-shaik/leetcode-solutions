@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-12T18:04:45.263Z",
+  "updatedAt": "2026-11-12T18:04:58.613Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1084,6 +1084,26 @@
           "path": "2897-apply-operations-on-array-to-maximize-sum-of-squares/2897-apply-operations-on-array-to-maximize-sum-of-squares.py",
           "sha": "9787f4d88afeedaff261dedcb1e359cf4ceb0b51",
           "lastSyncedAt": "2026-10-13T16:58:57.519Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2916",
+      "title": "Subarrays Distinct Element Sum of Squares II",
+      "slug": "subarrays-distinct-element-sum-of-squares-ii",
+      "problemName": "2916-subarrays-distinct-element-sum-of-squares-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/",
+      "folderPath": "2916-subarrays-distinct-element-sum-of-squares-ii/",
+      "readmePath": "2916-subarrays-distinct-element-sum-of-squares-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2916-subarrays-distinct-element-sum-of-squares-ii.py",
+          "path": "2916-subarrays-distinct-element-sum-of-squares-ii/2916-subarrays-distinct-element-sum-of-squares-ii.py",
+          "sha": "91a367e2cd5cc6dc25252901a862a44272b25dd5",
+          "lastSyncedAt": "2026-11-12T18:04:58.613Z"
         }
       ]
     },
