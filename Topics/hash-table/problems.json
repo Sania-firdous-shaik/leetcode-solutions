@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-15T16:40:34.550Z",
+  "updatedAt": "2026-11-12T18:00:28.399Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1044,6 +1044,26 @@
           "path": "2657-find-the-prefix-common-array-of-two-arrays/2657-find-the-prefix-common-array-of-two-arrays.py",
           "sha": "17429424eedf9924f93185d0cd9f30139ea0f2a0",
           "lastSyncedAt": "2026-10-15T16:38:38.344Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2747",
+      "title": "Count Zero Request Servers",
+      "slug": "count-zero-request-servers",
+      "problemName": "2747-count-zero-request-servers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-zero-request-servers/",
+      "folderPath": "2747-count-zero-request-servers/",
+      "readmePath": "2747-count-zero-request-servers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2747-count-zero-request-servers.py",
+          "path": "2747-count-zero-request-servers/2747-count-zero-request-servers.py",
+          "sha": "47d174da5ee023bb226483198a2c495db90bb7fb",
+          "lastSyncedAt": "2026-11-12T18:00:28.399Z"
         }
       ]
     },
