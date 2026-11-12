@@ -5,8 +5,28 @@
     "name": "Combinatorics",
     "tagId": "61056"
   },
-  "updatedAt": "2026-10-08T16:16:12.125Z",
+  "updatedAt": "2026-11-12T18:04:09.413Z",
   "problems": [
+    {
+      "frontendId": "1569",
+      "title": "Number of Ways to Reorder Array to Get Same BST",
+      "slug": "number-of-ways-to-reorder-array-to-get-same-bst",
+      "problemName": "1569-number-of-ways-to-reorder-array-to-get-same-bst",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/",
+      "folderPath": "1569-number-of-ways-to-reorder-array-to-get-same-bst/",
+      "readmePath": "1569-number-of-ways-to-reorder-array-to-get-same-bst/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1569-number-of-ways-to-reorder-array-to-get-same-bst.py",
+          "path": "1569-number-of-ways-to-reorder-array-to-get-same-bst/1569-number-of-ways-to-reorder-array-to-get-same-bst.py",
+          "sha": "502212924313737c555c03d14ab9c1cfe30b9d3b",
+          "lastSyncedAt": "2026-11-12T18:04:09.413Z"
+        }
+      ]
+    },
     {
       "frontendId": "1621",
       "title": "Number of Sets of K Non-Overlapping Line Segments",
