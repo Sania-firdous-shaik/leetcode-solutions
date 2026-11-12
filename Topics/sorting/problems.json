@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-12T18:00:43.946Z",
+  "updatedAt": "2026-11-12T18:01:29.096Z",
   "problems": [
     {
       "frontendId": "15",
@@ -224,6 +224,26 @@
           "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.py",
           "sha": "260daa37518dd471b5f63ba649f23968166b2f56",
           "lastSyncedAt": "2026-09-30T17:26:20.486Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "462",
+      "title": "Minimum Moves to Equal Array Elements II",
+      "slug": "minimum-moves-to-equal-array-elements-ii",
+      "problemName": "0462-minimum-moves-to-equal-array-elements-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/",
+      "folderPath": "0462-minimum-moves-to-equal-array-elements-ii/",
+      "readmePath": "0462-minimum-moves-to-equal-array-elements-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0462-minimum-moves-to-equal-array-elements-ii.py",
+          "path": "0462-minimum-moves-to-equal-array-elements-ii/0462-minimum-moves-to-equal-array-elements-ii.py",
+          "sha": "4c802ac10c470d21cca4b958bb76cfc585bdb267",
+          "lastSyncedAt": "2026-11-12T18:01:29.096Z"
         }
       ]
     },
