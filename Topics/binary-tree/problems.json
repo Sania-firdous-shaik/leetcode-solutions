@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-10-08T16:13:49.950Z",
+  "updatedAt": "2026-11-12T18:04:09.413Z",
   "problems": [
     {
       "frontendId": "106",
@@ -24,6 +24,26 @@
           "path": "0106-construct-binary-tree-from-inorder-and-postorder-traversal/0106-construct-binary-tree-from-inorder-and-postorder-traversal.py",
           "sha": "0aefac5441da50cef6b5e8b0640921e74a78d761",
           "lastSyncedAt": "2026-09-30T17:11:22.553Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1569",
+      "title": "Number of Ways to Reorder Array to Get Same BST",
+      "slug": "number-of-ways-to-reorder-array-to-get-same-bst",
+      "problemName": "1569-number-of-ways-to-reorder-array-to-get-same-bst",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/",
+      "folderPath": "1569-number-of-ways-to-reorder-array-to-get-same-bst/",
+      "readmePath": "1569-number-of-ways-to-reorder-array-to-get-same-bst/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1569-number-of-ways-to-reorder-array-to-get-same-bst.py",
+          "path": "1569-number-of-ways-to-reorder-array-to-get-same-bst/1569-number-of-ways-to-reorder-array-to-get-same-bst.py",
+          "sha": "502212924313737c555c03d14ab9c1cfe30b9d3b",
+          "lastSyncedAt": "2026-11-12T18:04:09.413Z"
         }
       ]
     },
