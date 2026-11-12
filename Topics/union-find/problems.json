@@ -5,7 +5,7 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-11-12T18:02:39.607Z",
+  "updatedAt": "2026-11-12T18:02:52.309Z",
   "problems": [
     {
       "frontendId": "128",
@@ -44,6 +44,26 @@
           "path": "0399-evaluate-division/0399-evaluate-division.py",
           "sha": "de3c9fbeb1068e1769e3db77f5aa1370ae44032a",
           "lastSyncedAt": "2026-10-08T16:10:36.296Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1254",
+      "title": "Number of Closed Islands",
+      "slug": "number-of-closed-islands",
+      "problemName": "1254-number-of-closed-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-closed-islands/",
+      "folderPath": "1254-number-of-closed-islands/",
+      "readmePath": "1254-number-of-closed-islands/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1254-number-of-closed-islands.py",
+          "path": "1254-number-of-closed-islands/1254-number-of-closed-islands.py",
+          "sha": "a7d78e6b0f20695247ec068cdb10b42abd9e0aa2",
+          "lastSyncedAt": "2026-11-12T18:02:52.309Z"
         }
       ]
     },
