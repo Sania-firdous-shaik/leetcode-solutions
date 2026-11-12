@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-12T18:06:15.666Z",
+  "updatedAt": "2026-11-12T18:06:39.910Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1123,7 +1123,7 @@
           "filename": "2897-apply-operations-on-array-to-maximize-sum-of-squares.py",
           "path": "2897-apply-operations-on-array-to-maximize-sum-of-squares/2897-apply-operations-on-array-to-maximize-sum-of-squares.py",
           "sha": "9787f4d88afeedaff261dedcb1e359cf4ceb0b51",
-          "lastSyncedAt": "2026-10-13T16:58:57.519Z"
+          "lastSyncedAt": "2026-11-12T18:06:39.910Z"
         }
       ]
     },
