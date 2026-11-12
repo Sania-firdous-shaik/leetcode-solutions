@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-31T16:04:32.809Z",
+  "updatedAt": "2026-11-12T18:00:01.116Z",
   "problems": [
     {
       "frontendId": "36",
@@ -184,6 +184,26 @@
           "path": "1260-shift-2d-grid/1260-shift-2d-grid.py",
           "sha": "85b91e25146b45007e267c89cb7c0a88234824e0",
           "lastSyncedAt": "2026-09-30T17:17:32.186Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1267",
+      "title": "Count Servers that Communicate",
+      "slug": "count-servers-that-communicate",
+      "problemName": "1267-count-servers-that-communicate",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-servers-that-communicate/",
+      "folderPath": "1267-count-servers-that-communicate/",
+      "readmePath": "1267-count-servers-that-communicate/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1267-count-servers-that-communicate.py",
+          "path": "1267-count-servers-that-communicate/1267-count-servers-that-communicate.py",
+          "sha": "134ff15d33cbf227591e9686417e6d82297401ce",
+          "lastSyncedAt": "2026-11-12T18:00:01.116Z"
         }
       ]
     },
