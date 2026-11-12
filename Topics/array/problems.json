@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-12T18:05:21.365Z",
+  "updatedAt": "2026-11-12T18:05:29.965Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2304,6 +2304,26 @@
           "path": "2906-construct-product-matrix/2906-construct-product-matrix.py",
           "sha": "c3767efb389a5fa519a29f5f4a5808213b4c8291",
           "lastSyncedAt": "2026-10-08T16:17:30.986Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2913",
+      "title": "Subarrays Distinct Element Sum of Squares I",
+      "slug": "subarrays-distinct-element-sum-of-squares-i",
+      "problemName": "2913-subarrays-distinct-element-sum-of-squares-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/",
+      "folderPath": "2913-subarrays-distinct-element-sum-of-squares-i/",
+      "readmePath": "2913-subarrays-distinct-element-sum-of-squares-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2913-subarrays-distinct-element-sum-of-squares-i.py",
+          "path": "2913-subarrays-distinct-element-sum-of-squares-i/2913-subarrays-distinct-element-sum-of-squares-i.py",
+          "sha": "1588f3114c14899f3a4699a18f86c0cc26f3cb9d",
+          "lastSyncedAt": "2026-11-12T18:05:29.965Z"
         }
       ]
     },
