@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-12T18:00:54.846Z",
+  "updatedAt": "2026-11-12T18:04:45.263Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1364,6 +1364,26 @@
           "path": "3548-equal-sum-grid-partition-ii/3548-equal-sum-grid-partition-ii.py",
           "sha": "1bb793636921e2e9d6bf45f52cad2663c6ce315a",
           "lastSyncedAt": "2026-10-08T16:17:07.939Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3551",
+      "title": "Minimum Swaps to Sort by Digit Sum",
+      "slug": "minimum-swaps-to-sort-by-digit-sum",
+      "problemName": "3551-minimum-swaps-to-sort-by-digit-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/",
+      "folderPath": "3551-minimum-swaps-to-sort-by-digit-sum/",
+      "readmePath": "3551-minimum-swaps-to-sort-by-digit-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3551-minimum-swaps-to-sort-by-digit-sum.py",
+          "path": "3551-minimum-swaps-to-sort-by-digit-sum/3551-minimum-swaps-to-sort-by-digit-sum.py",
+          "sha": "791efc7c5c3ca00d1f0d4bede3266bead310b542",
+          "lastSyncedAt": "2026-11-12T18:04:45.263Z"
         }
       ]
     },
