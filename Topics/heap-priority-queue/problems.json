@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-11-12T17:59:50.905Z",
+  "updatedAt": "2026-11-12T18:00:20.339Z",
   "problems": [
     {
       "frontendId": "332",
@@ -104,6 +104,26 @@
           "path": "1606-find-servers-that-handled-most-number-of-requests/1606-find-servers-that-handled-most-number-of-requests.py",
           "sha": "fc38871127470d44ad4cfcea96bf1872bf41036b",
           "lastSyncedAt": "2026-11-12T17:59:50.905Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1882",
+      "title": "Process Tasks Using Servers",
+      "slug": "process-tasks-using-servers",
+      "problemName": "1882-process-tasks-using-servers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/process-tasks-using-servers/",
+      "folderPath": "1882-process-tasks-using-servers/",
+      "readmePath": "1882-process-tasks-using-servers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1882-process-tasks-using-servers.py",
+          "path": "1882-process-tasks-using-servers/1882-process-tasks-using-servers.py",
+          "sha": "5d1f5c9088ad2358cc66d74db6f1bd0ee9e880f9",
+          "lastSyncedAt": "2026-11-12T18:00:20.339Z"
         }
       ]
     },
