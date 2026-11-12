@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-12T18:05:29.965Z",
+  "updatedAt": "2026-11-12T18:05:41.715Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2104,6 +2104,26 @@
           "path": "2267-check-if-there-is-a-valid-parentheses-string-path/2267-check-if-there-is-a-valid-parentheses-string-path.py",
           "sha": "4462f68577b4d9705428632ff3104165875f50df",
           "lastSyncedAt": "2026-10-08T16:11:06.018Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2540",
+      "title": "Minimum Common Value",
+      "slug": "minimum-common-value",
+      "problemName": "2540-minimum-common-value",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-common-value/",
+      "folderPath": "2540-minimum-common-value/",
+      "readmePath": "2540-minimum-common-value/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2540-minimum-common-value.py",
+          "path": "2540-minimum-common-value/2540-minimum-common-value.py",
+          "sha": "eb18183a3182cf39c58264a8a6f1dd91468763dc",
+          "lastSyncedAt": "2026-11-12T18:05:41.715Z"
         }
       ]
     },
