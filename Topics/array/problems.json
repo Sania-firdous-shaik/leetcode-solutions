@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-12T18:03:22.562Z",
+  "updatedAt": "2026-11-12T18:03:29.962Z",
   "problems": [
     {
       "frontendId": "1",
@@ -3364,6 +3364,26 @@
           "path": "3904-smallest-stable-index-ii/3904-smallest-stable-index-ii.py",
           "sha": "95b6a8997c77cd65be1162f40fed4033f9bbceb7",
           "lastSyncedAt": "2026-10-08T16:14:22.100Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3942",
+      "title": "Minimum Operations to Sort a Permutation",
+      "slug": "minimum-operations-to-sort-a-permutation",
+      "problemName": "3942-minimum-operations-to-sort-a-permutation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/",
+      "folderPath": "3942-minimum-operations-to-sort-a-permutation/",
+      "readmePath": "3942-minimum-operations-to-sort-a-permutation/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3942-minimum-operations-to-sort-a-permutation.py",
+          "path": "3942-minimum-operations-to-sort-a-permutation/3942-minimum-operations-to-sort-a-permutation.py",
+          "sha": "7957c1655fa8a55ad5683d0d5ec40470e90c5a9f",
+          "lastSyncedAt": "2026-11-12T18:03:29.962Z"
         }
       ]
     }
