@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-12T18:01:52.247Z",
+  "updatedAt": "2026-11-12T18:02:11.247Z",
   "problems": [
     {
       "frontendId": "6",
@@ -1924,6 +1924,26 @@
           "path": "3841-palindromic-path-queries-in-a-tree/3841-palindromic-path-queries-in-a-tree.py",
           "sha": "6ab757320da20dbc01555dde96ec488faf26766a",
           "lastSyncedAt": "2026-11-12T18:01:52.247Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3970",
+      "title": "Shortest Path With At Most K Consecutive Identical Characters",
+      "slug": "shortest-path-with-at-most-k-consecutive-identical-characters",
+      "problemName": "3970-shortest-path-with-at-most-k-consecutive-identical-characters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/",
+      "folderPath": "3970-shortest-path-with-at-most-k-consecutive-identical-characters/",
+      "readmePath": "3970-shortest-path-with-at-most-k-consecutive-identical-characters/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3970-shortest-path-with-at-most-k-consecutive-identical-characters.py",
+          "path": "3970-shortest-path-with-at-most-k-consecutive-identical-characters/3970-shortest-path-with-at-most-k-consecutive-identical-characters.py",
+          "sha": "26497ff42d00353785a3954ceb339d9a0cad569b",
+          "lastSyncedAt": "2026-11-12T18:02:11.247Z"
         }
       ]
     }
