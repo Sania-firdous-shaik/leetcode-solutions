@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-12T18:02:24.803Z",
+  "updatedAt": "2026-11-12T18:03:22.562Z",
   "problems": [
     {
       "frontendId": "187",
@@ -224,6 +224,26 @@
           "path": "3568-minimum-moves-to-clean-the-classroom/3568-minimum-moves-to-clean-the-classroom.py",
           "sha": "4e6066918e4ecd6352b40cc2f1f464d4217656ea",
           "lastSyncedAt": "2026-10-08T16:14:46.877Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3644",
+      "title": "Maximum K to Sort a Permutation",
+      "slug": "maximum-k-to-sort-a-permutation",
+      "problemName": "3644-maximum-k-to-sort-a-permutation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-k-to-sort-a-permutation/",
+      "folderPath": "3644-maximum-k-to-sort-a-permutation/",
+      "readmePath": "3644-maximum-k-to-sort-a-permutation/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3644-maximum-k-to-sort-a-permutation.py",
+          "path": "3644-maximum-k-to-sort-a-permutation/3644-maximum-k-to-sort-a-permutation.py",
+          "sha": "76ce09953c140c4331ba019b03c191b4eae9d20e",
+          "lastSyncedAt": "2026-11-12T18:03:22.562Z"
         }
       ]
     },
