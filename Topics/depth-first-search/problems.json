@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-12T18:00:01.116Z",
+  "updatedAt": "2026-11-12T18:01:52.247Z",
   "problems": [
     {
       "frontendId": "133",
@@ -264,6 +264,26 @@
           "path": "3559-number-of-ways-to-assign-edge-weights-ii/3559-number-of-ways-to-assign-edge-weights-ii.py",
           "sha": "4582cfefe564119846647acb90ed06165367d440",
           "lastSyncedAt": "2026-09-30T17:28:33.368Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3841",
+      "title": "Palindromic Path Queries in a Tree",
+      "slug": "palindromic-path-queries-in-a-tree",
+      "problemName": "3841-palindromic-path-queries-in-a-tree",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/palindromic-path-queries-in-a-tree/",
+      "folderPath": "3841-palindromic-path-queries-in-a-tree/",
+      "readmePath": "3841-palindromic-path-queries-in-a-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3841-palindromic-path-queries-in-a-tree.py",
+          "path": "3841-palindromic-path-queries-in-a-tree/3841-palindromic-path-queries-in-a-tree.py",
+          "sha": "6ab757320da20dbc01555dde96ec488faf26766a",
+          "lastSyncedAt": "2026-11-12T18:01:52.247Z"
         }
       ]
     }
