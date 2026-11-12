@@ -5,7 +5,7 @@
     "name": "Union-Find",
     "tagId": "23"
   },
-  "updatedAt": "2026-11-12T18:02:52.309Z",
+  "updatedAt": "2026-11-12T18:04:09.413Z",
   "problems": [
     {
       "frontendId": "128",
@@ -84,6 +84,26 @@
           "path": "1267-count-servers-that-communicate/1267-count-servers-that-communicate.py",
           "sha": "134ff15d33cbf227591e9686417e6d82297401ce",
           "lastSyncedAt": "2026-11-12T18:00:01.116Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1569",
+      "title": "Number of Ways to Reorder Array to Get Same BST",
+      "slug": "number-of-ways-to-reorder-array-to-get-same-bst",
+      "problemName": "1569-number-of-ways-to-reorder-array-to-get-same-bst",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/",
+      "folderPath": "1569-number-of-ways-to-reorder-array-to-get-same-bst/",
+      "readmePath": "1569-number-of-ways-to-reorder-array-to-get-same-bst/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1569-number-of-ways-to-reorder-array-to-get-same-bst.py",
+          "path": "1569-number-of-ways-to-reorder-array-to-get-same-bst/1569-number-of-ways-to-reorder-array-to-get-same-bst.py",
+          "sha": "502212924313737c555c03d14ab9c1cfe30b9d3b",
+          "lastSyncedAt": "2026-11-12T18:04:09.413Z"
         }
       ]
     },
