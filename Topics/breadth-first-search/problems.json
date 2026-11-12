@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-12T18:02:52.309Z",
+  "updatedAt": "2026-11-12T18:05:56.765Z",
   "problems": [
     {
       "frontendId": "126",
@@ -224,6 +224,26 @@
           "path": "1306-jump-game-iii/1306-jump-game-iii.py",
           "sha": "07b288e86c0a8f2eadc33f812c4c4c3aef414f3f",
           "lastSyncedAt": "2026-09-30T17:31:06.198Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1345",
+      "title": "Jump Game IV",
+      "slug": "jump-game-iv",
+      "problemName": "1345-jump-game-iv",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-iv/",
+      "folderPath": "1345-jump-game-iv/",
+      "readmePath": "1345-jump-game-iv/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1345-jump-game-iv.py",
+          "path": "1345-jump-game-iv/1345-jump-game-iv.py",
+          "sha": "c86fd36e0768e2906b933a0a57cb833da2971309",
+          "lastSyncedAt": "2026-11-12T18:05:56.765Z"
         }
       ]
     },
