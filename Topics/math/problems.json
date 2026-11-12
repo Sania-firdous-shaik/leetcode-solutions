@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-13T16:59:09.864Z",
+  "updatedAt": "2026-11-12T17:59:42.212Z",
   "problems": [
     {
       "frontendId": "12",
@@ -1204,6 +1204,26 @@
           "path": "3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii.py",
           "sha": "a937d750949937d153d90df815ef2eb54ab9c9aa",
           "lastSyncedAt": "2026-09-30T17:20:15.626Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3789",
+      "title": "Minimum Cost to Acquire Required Items",
+      "slug": "minimum-cost-to-acquire-required-items",
+      "problemName": "3789-minimum-cost-to-acquire-required-items",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-acquire-required-items/",
+      "folderPath": "3789-minimum-cost-to-acquire-required-items/",
+      "readmePath": "3789-minimum-cost-to-acquire-required-items/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3789-minimum-cost-to-acquire-required-items.py",
+          "path": "3789-minimum-cost-to-acquire-required-items/3789-minimum-cost-to-acquire-required-items.py",
+          "sha": "318e855c850ff0dc122cbdc9ad4c480bd05f5bef",
+          "lastSyncedAt": "2026-11-12T17:59:42.212Z"
         }
       ]
     },
