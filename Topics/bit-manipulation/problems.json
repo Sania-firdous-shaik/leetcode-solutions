@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-12T18:01:52.247Z",
+  "updatedAt": "2026-11-12T18:02:24.803Z",
   "problems": [
     {
       "frontendId": "187",
@@ -264,6 +264,26 @@
           "path": "3841-palindromic-path-queries-in-a-tree/3841-palindromic-path-queries-in-a-tree.py",
           "sha": "6ab757320da20dbc01555dde96ec488faf26766a",
           "lastSyncedAt": "2026-11-12T18:01:52.247Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3882",
+      "title": "Minimum XOR Path in a Grid",
+      "slug": "minimum-xor-path-in-a-grid",
+      "problemName": "3882-minimum-xor-path-in-a-grid",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-xor-path-in-a-grid/",
+      "folderPath": "3882-minimum-xor-path-in-a-grid/",
+      "readmePath": "3882-minimum-xor-path-in-a-grid/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3882-minimum-xor-path-in-a-grid.py",
+          "path": "3882-minimum-xor-path-in-a-grid/3882-minimum-xor-path-in-a-grid.py",
+          "sha": "cde5bd255ff235c15c9cb974c10a3e533cc0b603",
+          "lastSyncedAt": "2026-11-12T18:02:24.803Z"
         }
       ]
     }
