@@ -5,7 +5,7 @@
     "name": "Segment Tree",
     "tagId": "29"
   },
-  "updatedAt": "2026-11-12T18:04:58.613Z",
+  "updatedAt": "2026-11-12T18:05:29.965Z",
   "problems": [
     {
       "frontendId": "2213",
@@ -24,6 +24,26 @@
           "path": "2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.py",
           "sha": "3d498363b1a31bf3aed25cee5a2eab8fa44d1e8a",
           "lastSyncedAt": "2026-10-08T16:21:20.532Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2913",
+      "title": "Subarrays Distinct Element Sum of Squares I",
+      "slug": "subarrays-distinct-element-sum-of-squares-i",
+      "problemName": "2913-subarrays-distinct-element-sum-of-squares-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/",
+      "folderPath": "2913-subarrays-distinct-element-sum-of-squares-i/",
+      "readmePath": "2913-subarrays-distinct-element-sum-of-squares-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2913-subarrays-distinct-element-sum-of-squares-i.py",
+          "path": "2913-subarrays-distinct-element-sum-of-squares-i/2913-subarrays-distinct-element-sum-of-squares-i.py",
+          "sha": "1588f3114c14899f3a4699a18f86c0cc26f3cb9d",
+          "lastSyncedAt": "2026-11-12T18:05:29.965Z"
         }
       ]
     },
