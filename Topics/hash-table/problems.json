@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-13T17:45:43.153Z",
+  "updatedAt": "2026-11-13T17:46:06.587Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1383,7 +1383,7 @@
           "filename": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal.py",
           "path": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal/3505-minimum-operations-to-make-elements-within-k-subarrays-equal.py",
           "sha": "dc2e6d72a0f54cbdeebc0bb804b71fa7553fd22a",
-          "lastSyncedAt": "2026-11-12T18:00:54.846Z"
+          "lastSyncedAt": "2026-11-13T17:46:06.587Z"
         }
       ]
     },
