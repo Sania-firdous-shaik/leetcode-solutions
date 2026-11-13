@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-12T18:06:08.167Z",
+  "updatedAt": "2026-11-13T17:45:08.937Z",
   "problems": [
     {
       "frontendId": "12",
@@ -1363,7 +1363,7 @@
           "filename": "3789-minimum-cost-to-acquire-required-items.py",
           "path": "3789-minimum-cost-to-acquire-required-items/3789-minimum-cost-to-acquire-required-items.py",
           "sha": "318e855c850ff0dc122cbdc9ad4c480bd05f5bef",
-          "lastSyncedAt": "2026-11-12T17:59:42.212Z"
+          "lastSyncedAt": "2026-11-13T17:45:08.937Z"
         }
       ]
     },
