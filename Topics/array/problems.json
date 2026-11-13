@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-13T17:45:43.153Z",
+  "updatedAt": "2026-11-13T17:45:56.075Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1523,7 +1523,7 @@
           "filename": "1385-find-the-distance-value-between-two-arrays.py",
           "path": "1385-find-the-distance-value-between-two-arrays/1385-find-the-distance-value-between-two-arrays.py",
           "sha": "1f48a186b735e1c7498eb71af83f4d3117010418",
-          "lastSyncedAt": "2026-11-12T18:00:43.946Z"
+          "lastSyncedAt": "2026-11-13T17:45:56.075Z"
         }
       ]
     },
