@@ -5,7 +5,7 @@
     "name": "Queue",
     "tagId": "34"
   },
-  "updatedAt": "2026-11-13T17:44:14.886Z",
+  "updatedAt": "2026-11-13T17:44:46.465Z",
   "problems": [
     {
       "frontendId": "225",
@@ -63,7 +63,7 @@
           "filename": "3420-count-non-decreasing-subarrays-after-k-operations.py",
           "path": "3420-count-non-decreasing-subarrays-after-k-operations/3420-count-non-decreasing-subarrays-after-k-operations.py",
           "sha": "8552dbaa683ec1f8123616dde995cfed301102f7",
-          "lastSyncedAt": "2026-11-13T17:44:14.886Z"
+          "lastSyncedAt": "2026-11-13T17:44:46.465Z"
         }
       ]
     }
