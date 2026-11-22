@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-13T17:46:06.587Z",
+  "updatedAt": "2026-11-22T16:37:20.002Z",
   "problems": [
     {
       "frontendId": "30",
@@ -244,6 +244,26 @@
           "path": "3090-maximum-length-substring-with-two-occurrences/3090-maximum-length-substring-with-two-occurrences.py",
           "sha": "7924760e3274e1f5959c4d855063b9b25f014967",
           "lastSyncedAt": "2026-10-08T16:20:52.590Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3364",
+      "title": "Minimum Positive Sum Subarray ",
+      "slug": "minimum-positive-sum-subarray",
+      "problemName": "3364-minimum-positive-sum-subarray",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-positive-sum-subarray/",
+      "folderPath": "3364-minimum-positive-sum-subarray/",
+      "readmePath": "3364-minimum-positive-sum-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3364-minimum-positive-sum-subarray.py",
+          "path": "3364-minimum-positive-sum-subarray/3364-minimum-positive-sum-subarray.py",
+          "sha": "1b1bbe73e48214617c89428615b1b771fd347fc3",
+          "lastSyncedAt": "2026-11-22T16:37:20.002Z"
         }
       ]
     },
