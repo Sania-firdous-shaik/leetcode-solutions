@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-22T16:36:29.813Z",
+  "updatedAt": "2026-11-22T16:36:39.034Z",
   "problems": [
     {
       "frontendId": "6",
@@ -1584,6 +1584,26 @@
           "path": "2904-shortest-and-lexicographically-smallest-beautiful-string/2904-shortest-and-lexicographically-smallest-beautiful-string.py",
           "sha": "78b0a6bab4d8df7945496e17d4da3e1df1964d55",
           "lastSyncedAt": "2026-10-08T16:15:34.666Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2911",
+      "title": "Minimum Changes to Make K Semi-palindromes",
+      "slug": "minimum-changes-to-make-k-semi-palindromes",
+      "problemName": "2911-minimum-changes-to-make-k-semi-palindromes",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/",
+      "folderPath": "2911-minimum-changes-to-make-k-semi-palindromes/",
+      "readmePath": "2911-minimum-changes-to-make-k-semi-palindromes/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2911-minimum-changes-to-make-k-semi-palindromes.py",
+          "path": "2911-minimum-changes-to-make-k-semi-palindromes/2911-minimum-changes-to-make-k-semi-palindromes.py",
+          "sha": "045341d13719168ba620b67117b4291169398eb0",
+          "lastSyncedAt": "2026-11-22T16:36:39.034Z"
         }
       ]
     },
