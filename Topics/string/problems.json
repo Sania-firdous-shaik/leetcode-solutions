@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-22T16:36:39.034Z",
+  "updatedAt": "2026-11-22T16:36:50.334Z",
   "problems": [
     {
       "frontendId": "6",
@@ -1504,6 +1504,26 @@
           "path": "2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.py",
           "sha": "3d498363b1a31bf3aed25cee5a2eab8fa44d1e8a",
           "lastSyncedAt": "2026-10-08T16:21:20.532Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2243",
+      "title": "Calculate Digit Sum of a String",
+      "slug": "calculate-digit-sum-of-a-string",
+      "problemName": "2243-calculate-digit-sum-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/calculate-digit-sum-of-a-string/",
+      "folderPath": "2243-calculate-digit-sum-of-a-string/",
+      "readmePath": "2243-calculate-digit-sum-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2243-calculate-digit-sum-of-a-string.py",
+          "path": "2243-calculate-digit-sum-of-a-string/2243-calculate-digit-sum-of-a-string.py",
+          "sha": "deb328a40442eb8184bc79a26e34903eaf7b7133",
+          "lastSyncedAt": "2026-11-22T16:36:50.334Z"
         }
       ]
     },
