@@ -5,17 +5,16 @@ Contains topic wise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 275 | 74 | 132 | 69 |
+| 276 | 74 | 133 | 69 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 20 days | 138 |
+| 1 days | 20 days | 139 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-19 | 1 |
 | 2026-10-20 | 1 |
 | 2026-10-23 | 1 |
 | 2026-10-28 | 1 |
@@ -29,14 +28,15 @@ Contains topic wise list of solved problems.
 | 2026-11-11 | 2 |
 | 2026-11-12 | 1 |
 | 2026-11-13 | 1 |
+| 2026-11-22 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 158 | 57% |
-| String | 88 | 32% |
-| Hash Table | 68 | 25% |
+| Array | 159 | 58% |
+| String | 89 | 32% |
+| Hash Table | 69 | 25% |
 | Math | 67 | 24% |
 | Dynamic Programming | 57 | 21% |
 | Sorting | 39 | 14% |
@@ -50,7 +50,7 @@ Contains topic wise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 178 |
+| [Array](Topics/array/) | 179 |
 | [Backtracking](Topics/backtracking/) | 13 |
 | [Bellman–Ford Algorithm](Topics/bellman-ford-algorithm/) | 1 |
 | [Bidirectional Search](Topics/bidirectional-search/) | 2 |
@@ -70,7 +70,7 @@ Contains topic wise list of solved problems.
 | [Counting](Topics/counting/) | 13 |
 | [Counting Sort](Topics/counting-sort/) | 2 |
 | [Dancing Links](Topics/dancing-links/) | 1 |
-| [Depth-First Search](Topics/depth-first-search/) | 16 |
+| [Depth-First Search](Topics/depth-first-search/) | 17 |
 | [Design](Topics/design/) | 5 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 9 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
@@ -89,7 +89,7 @@ Contains topic wise list of solved problems.
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 4 |
 | [Greedy](Topics/greedy/) | 38 |
 | [Hash Function](Topics/hash-function/) | 2 |
-| [Hash Table](Topics/hash-table/) | 79 |
+| [Hash Table](Topics/hash-table/) | 80 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 12 |
 | [Knapsack Problem](Topics/knapsack-problem/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 2 |
@@ -118,14 +118,14 @@ Contains topic wise list of solved problems.
 | [Shortest Path](Topics/shortest-path/) | 4 |
 | [Simulation](Topics/simulation/) | 16 |
 | [Sliding Window](Topics/sliding-window/) | 14 |
-| [Sorting](Topics/sorting/) | 45 |
+| [Sorting](Topics/sorting/) | 47 |
 | [Sprague–Grundy Theorem](Topics/sprague-grundy-theorem/) | 1 |
 | [Stack](Topics/stack/) | 27 |
-| [String](Topics/string/) | 99 |
+| [String](Topics/string/) | 101 |
 | [String Matching](Topics/string-matching/) | 4 |
 | [Sweep Line](Topics/sweep-line/) | 1 |
 | [Topological Sort](Topics/topological-sort/) | 1 |
-| [Tree](Topics/tree/) | 7 |
+| [Tree](Topics/tree/) | 8 |
 | [Trie](Topics/trie/) | 5 |
 | [Two Pointers](Topics/two-pointers/) | 36 |
 | [Union-Find](Topics/union-find/) | 12 |
