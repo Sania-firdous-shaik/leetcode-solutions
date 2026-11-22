@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-22T16:37:01.149Z",
+  "updatedAt": "2026-11-22T16:37:20.002Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2764,6 +2764,26 @@
           "path": "3336-find-the-number-of-subsequences-with-equal-gcd/3336-find-the-number-of-subsequences-with-equal-gcd.py",
           "sha": "5bbb594a616e5df555ff9b6bf82d3518b194cffd",
           "lastSyncedAt": "2026-09-30T17:18:56.205Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3364",
+      "title": "Minimum Positive Sum Subarray ",
+      "slug": "minimum-positive-sum-subarray",
+      "problemName": "3364-minimum-positive-sum-subarray",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-positive-sum-subarray/",
+      "folderPath": "3364-minimum-positive-sum-subarray/",
+      "readmePath": "3364-minimum-positive-sum-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3364-minimum-positive-sum-subarray.py",
+          "path": "3364-minimum-positive-sum-subarray/3364-minimum-positive-sum-subarray.py",
+          "sha": "1b1bbe73e48214617c89428615b1b771fd347fc3",
+          "lastSyncedAt": "2026-11-22T16:37:20.002Z"
         }
       ]
     },
