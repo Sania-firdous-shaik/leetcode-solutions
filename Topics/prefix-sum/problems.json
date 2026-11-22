@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-22T16:37:01.149Z",
+  "updatedAt": "2026-11-22T16:37:20.002Z",
   "problems": [
     {
       "frontendId": "523",
@@ -224,6 +224,26 @@
           "path": "3312-sorted-gcd-pair-queries/3312-sorted-gcd-pair-queries.py",
           "sha": "bce557917dc092028bf7a1c8de625135bf5d4396",
           "lastSyncedAt": "2026-09-30T17:18:09.894Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3364",
+      "title": "Minimum Positive Sum Subarray ",
+      "slug": "minimum-positive-sum-subarray",
+      "problemName": "3364-minimum-positive-sum-subarray",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-positive-sum-subarray/",
+      "folderPath": "3364-minimum-positive-sum-subarray/",
+      "readmePath": "3364-minimum-positive-sum-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3364-minimum-positive-sum-subarray.py",
+          "path": "3364-minimum-positive-sum-subarray/3364-minimum-positive-sum-subarray.py",
+          "sha": "1b1bbe73e48214617c89428615b1b771fd347fc3",
+          "lastSyncedAt": "2026-11-22T16:37:20.002Z"
         }
       ]
     },
