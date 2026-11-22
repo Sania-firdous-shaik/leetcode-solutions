@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-22T16:35:58.193Z",
+  "updatedAt": "2026-11-22T16:36:13.309Z",
   "problems": [
     {
       "frontendId": "15",
@@ -584,6 +584,26 @@
           "path": "2144-minimum-cost-of-buying-candies-with-discount/2144-minimum-cost-of-buying-candies-with-discount.py",
           "sha": "ba40a5ad8baafb58e34195324fdfede8069f0187",
           "lastSyncedAt": "2026-09-30T17:31:43.171Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2567",
+      "title": "Minimum Score by Changing Two Elements",
+      "slug": "minimum-score-by-changing-two-elements",
+      "problemName": "2567-minimum-score-by-changing-two-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-score-by-changing-two-elements/",
+      "folderPath": "2567-minimum-score-by-changing-two-elements/",
+      "readmePath": "2567-minimum-score-by-changing-two-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2567-minimum-score-by-changing-two-elements.py",
+          "path": "2567-minimum-score-by-changing-two-elements/2567-minimum-score-by-changing-two-elements.py",
+          "sha": "e0be64cef89e7b30b23345456450f8c262635b26",
+          "lastSyncedAt": "2026-11-22T16:36:13.309Z"
         }
       ]
     },
