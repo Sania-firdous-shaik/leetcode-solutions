@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-22T16:35:48.783Z",
+  "updatedAt": "2026-11-22T16:36:29.813Z",
   "problems": [
     {
       "frontendId": "6",
@@ -1584,6 +1584,26 @@
           "path": "2904-shortest-and-lexicographically-smallest-beautiful-string/2904-shortest-and-lexicographically-smallest-beautiful-string.py",
           "sha": "78b0a6bab4d8df7945496e17d4da3e1df1964d55",
           "lastSyncedAt": "2026-10-08T16:15:34.666Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2914",
+      "title": "Minimum Number of Changes to Make Binary String Beautiful",
+      "slug": "minimum-number-of-changes-to-make-binary-string-beautiful",
+      "problemName": "2914-minimum-number-of-changes-to-make-binary-string-beautiful",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/",
+      "folderPath": "2914-minimum-number-of-changes-to-make-binary-string-beautiful/",
+      "readmePath": "2914-minimum-number-of-changes-to-make-binary-string-beautiful/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2914-minimum-number-of-changes-to-make-binary-string-beautiful.py",
+          "path": "2914-minimum-number-of-changes-to-make-binary-string-beautiful/2914-minimum-number-of-changes-to-make-binary-string-beautiful.py",
+          "sha": "a0abcc6dbf557e533365c4b05d6473e29f13ef2d",
+          "lastSyncedAt": "2026-11-22T16:36:29.813Z"
         }
       ]
     },
