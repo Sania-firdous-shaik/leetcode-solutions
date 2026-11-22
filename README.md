@@ -160,6 +160,7 @@ Contains topic wise list of solved problems.
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -243,6 +244,7 @@ Contains topic wise list of solved problems.
 | [2540-minimum-common-value](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
 |  |
@@ -292,6 +294,7 @@ Contains topic wise list of solved problems.
 | [2409-count-days-spent-together](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -389,6 +392,7 @@ Contains topic wise list of solved problems.
 | [0753-cracking-the-safe](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0753-cracking-the-safe) |
 | [1254-number-of-closed-islands](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
@@ -491,6 +495,7 @@ Contains topic wise list of solved problems.
 ## Tree
 |  |
 | ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Monotonic Stack
 |  |
