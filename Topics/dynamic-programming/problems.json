@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-22T16:35:58.193Z",
+  "updatedAt": "2026-11-22T16:36:39.034Z",
   "problems": [
     {
       "frontendId": "10",
@@ -864,6 +864,26 @@
           "path": "2573-find-the-string-with-lcp/2573-find-the-string-with-lcp.py",
           "sha": "ce5a8b30c7eb9efecc77e90fab9cbe53759ab45a",
           "lastSyncedAt": "2026-10-08T16:16:44.698Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2911",
+      "title": "Minimum Changes to Make K Semi-palindromes",
+      "slug": "minimum-changes-to-make-k-semi-palindromes",
+      "problemName": "2911-minimum-changes-to-make-k-semi-palindromes",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/",
+      "folderPath": "2911-minimum-changes-to-make-k-semi-palindromes/",
+      "readmePath": "2911-minimum-changes-to-make-k-semi-palindromes/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2911-minimum-changes-to-make-k-semi-palindromes.py",
+          "path": "2911-minimum-changes-to-make-k-semi-palindromes/2911-minimum-changes-to-make-k-semi-palindromes.py",
+          "sha": "045341d13719168ba620b67117b4291169398eb0",
+          "lastSyncedAt": "2026-11-22T16:36:39.034Z"
         }
       ]
     },
