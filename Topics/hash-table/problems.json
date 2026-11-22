@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-22T16:34:51.775Z",
+  "updatedAt": "2026-11-22T16:35:29.938Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1343,7 +1343,7 @@
           "filename": "3331-find-subtree-sizes-after-changes.py",
           "path": "3331-find-subtree-sizes-after-changes/3331-find-subtree-sizes-after-changes.py",
           "sha": "b75cbc980c52c6ccd10121d627ad035b1f959209",
-          "lastSyncedAt": "2026-11-22T16:34:51.775Z"
+          "lastSyncedAt": "2026-11-22T16:35:29.938Z"
         }
       ]
     },
