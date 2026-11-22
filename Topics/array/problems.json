@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-22T16:35:58.193Z",
+  "updatedAt": "2026-11-22T16:36:13.309Z",
   "problems": [
     {
       "frontendId": "1",
@@ -2164,6 +2164,26 @@
           "path": "2553-separate-the-digits-in-an-array/2553-separate-the-digits-in-an-array.py",
           "sha": "464e1ec9150804e723745529c233ad92afc1a244",
           "lastSyncedAt": "2026-10-08T16:07:54.048Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2567",
+      "title": "Minimum Score by Changing Two Elements",
+      "slug": "minimum-score-by-changing-two-elements",
+      "problemName": "2567-minimum-score-by-changing-two-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-score-by-changing-two-elements/",
+      "folderPath": "2567-minimum-score-by-changing-two-elements/",
+      "readmePath": "2567-minimum-score-by-changing-two-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2567-minimum-score-by-changing-two-elements.py",
+          "path": "2567-minimum-score-by-changing-two-elements/2567-minimum-score-by-changing-two-elements.py",
+          "sha": "e0be64cef89e7b30b23345456450f8c262635b26",
+          "lastSyncedAt": "2026-11-22T16:36:13.309Z"
         }
       ]
     },
