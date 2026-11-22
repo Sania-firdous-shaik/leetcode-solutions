@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-22T16:35:29.938Z",
+  "updatedAt": "2026-11-22T16:35:48.783Z",
   "problems": [
     {
       "frontendId": "6",
@@ -1464,6 +1464,26 @@
           "path": "1967-number-of-strings-that-appear-as-substrings-in-word/1967-number-of-strings-that-appear-as-substrings-in-word.py",
           "sha": "95c6f00cb7a9f8fcf4bfc5e80fd381ae051a429a",
           "lastSyncedAt": "2026-09-30T17:22:28.926Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2124",
+      "title": "Check if All A's Appears Before All B's",
+      "slug": "check-if-all-as-appears-before-all-bs",
+      "problemName": "2124-check-if-all-as-appears-before-all-bs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/",
+      "folderPath": "2124-check-if-all-as-appears-before-all-bs/",
+      "readmePath": "2124-check-if-all-as-appears-before-all-bs/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2124-check-if-all-as-appears-before-all-bs.py",
+          "path": "2124-check-if-all-as-appears-before-all-bs/2124-check-if-all-as-appears-before-all-bs.py",
+          "sha": "e80fc18ae20e9b42d3044645d4384c06c67ee1e0",
+          "lastSyncedAt": "2026-11-22T16:35:48.783Z"
         }
       ]
     },
