@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-22T16:38:03.284Z",
+  "updatedAt": "2026-11-23T17:17:29.834Z",
   "problems": [
     {
       "frontendId": "12",
@@ -564,6 +564,26 @@
           "path": "1344-angle-between-hands-of-a-clock/1344-angle-between-hands-of-a-clock.py",
           "sha": "c1dbf3f8812eedc559f192e568201976c829f432",
           "lastSyncedAt": "2026-09-30T17:24:42.347Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1352",
+      "title": "Product of the Last K Numbers",
+      "slug": "product-of-the-last-k-numbers",
+      "problemName": "1352-product-of-the-last-k-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/product-of-the-last-k-numbers/",
+      "folderPath": "1352-product-of-the-last-k-numbers/",
+      "readmePath": "1352-product-of-the-last-k-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1352-product-of-the-last-k-numbers.py",
+          "path": "1352-product-of-the-last-k-numbers/1352-product-of-the-last-k-numbers.py",
+          "sha": "ee3cc715cfb9ec902e36d803d967b64ad08ee12b",
+          "lastSyncedAt": "2026-11-23T17:17:29.834Z"
         }
       ]
     },
