@@ -5,7 +5,7 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-10-08T16:20:41.939Z",
+  "updatedAt": "2026-11-23T17:17:29.834Z",
   "problems": [
     {
       "frontendId": "155",
@@ -104,6 +104,26 @@
           "path": "0432-all-oone-data-structure/0432-all-oone-data-structure.py",
           "sha": "f8579bac691245e050220646d2e88c7c66c78a14",
           "lastSyncedAt": "2026-10-08T16:20:18.623Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1352",
+      "title": "Product of the Last K Numbers",
+      "slug": "product-of-the-last-k-numbers",
+      "problemName": "1352-product-of-the-last-k-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/product-of-the-last-k-numbers/",
+      "folderPath": "1352-product-of-the-last-k-numbers/",
+      "readmePath": "1352-product-of-the-last-k-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1352-product-of-the-last-k-numbers.py",
+          "path": "1352-product-of-the-last-k-numbers/1352-product-of-the-last-k-numbers.py",
+          "sha": "ee3cc715cfb9ec902e36d803d967b64ad08ee12b",
+          "lastSyncedAt": "2026-11-23T17:17:29.834Z"
         }
       ]
     }
