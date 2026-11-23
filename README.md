@@ -148,6 +148,7 @@ Contains topic wise list of solved problems.
 | [1254-number-of-closed-islands](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1345-jump-game-iv](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1345-jump-game-iv) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -189,6 +190,7 @@ Contains topic wise list of solved problems.
 | [0415-add-strings](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/2409-count-days-spent-together) |
@@ -223,6 +225,7 @@ Contains topic wise list of solved problems.
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -505,4 +508,12 @@ Contains topic wise list of solved problems.
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Sania-firdous-shaik/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
