@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-22T16:37:20.002Z",
+  "updatedAt": "2026-11-23T17:17:29.834Z",
   "problems": [
     {
       "frontendId": "523",
@@ -44,6 +44,26 @@
           "path": "1140-stone-game-ii/1140-stone-game-ii.py",
           "sha": "7ad9f93084b4f4951367e71476c634936146a044",
           "lastSyncedAt": "2026-10-08T16:24:24.076Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1352",
+      "title": "Product of the Last K Numbers",
+      "slug": "product-of-the-last-k-numbers",
+      "problemName": "1352-product-of-the-last-k-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/product-of-the-last-k-numbers/",
+      "folderPath": "1352-product-of-the-last-k-numbers/",
+      "readmePath": "1352-product-of-the-last-k-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1352-product-of-the-last-k-numbers.py",
+          "path": "1352-product-of-the-last-k-numbers/1352-product-of-the-last-k-numbers.py",
+          "sha": "ee3cc715cfb9ec902e36d803d967b64ad08ee12b",
+          "lastSyncedAt": "2026-11-23T17:17:29.834Z"
         }
       ]
     },
